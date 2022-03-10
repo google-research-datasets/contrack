@@ -1,0 +1,1999 @@
+conv:people_2019072901_67:aug_0:chat_0:chataug_0| anthony chris| [person:anthony m 0-0][person:chris m 1-1]
+anthony| hi|
+chris| ho hi|
+chris| how u doing| [person:anthony m 1-1]
+chris| I am Chris| [person:chris m 0-0][person:chris m 2-2]
+anthony| fine i just had lunch stepping out to see a game soon| [person:anthony m 1-1]
+anthony| wanna come with me| [person:anthony m 3-3]
+chris| sure thing|
+chris| are Jason Gary and William going| [person:jason m 1-1][person:gary m 2-2][person:william m 4-4]
+anthony| can you call Alice and tell her about the game| [person:chris m 1-1][person:alice f 3-3][person:alice f 6-6]
+chris| Sure let me call her now| [person:chris m 2-2][person:alice f 4-4]
+chris| She said she will go too| [person:alice f 0-0][person:alice f 2-2]
+chris| ok we will meet there then| [person:we g(anthony:chris:alice) 1-1][location:there s 4-4]
+
+conv:people_2019072901_68:aug_0:chat_0:chataug_0| amy larry| [person:amy f 0-0][person:larry m 1-1]
+larry| Hey amy| [person:amy f 1-1]
+larry| Ready to go|
+amy| Yes|
+amy| Just got on here Gotta read instructions|
+larry| I need Jack to carry the hiking Bag| [person:larry m 0-0][person:jack m 2-2]
+larry| Can you manage to carry yours alone| [person:amy f 1-1][person:amy f 5-5]
+larry| so what should we bring along| [person:larry m 3-3]
+larry| ok|
+amy| Absolutely and Angela can carry knives and Alex can bring food| [person:angela f 2-2][person:alex m 7-7]
+larry| Food|
+larry| What will you be bringing| [person:amy f 2-2]
+amy| I will bring tents and weed| [person:amy f 0-0]
+larry| weeds thats great its gonna be awesome|
+larry| um I may bring 3 torches| [person:larry m 1-1]
+amy| Awesome Looks like everything is planned out|
+larry| What will Jack bring| [person:larry m 2-2]
+larry| yes plan going great|
+amy| Jack can bring a shovel and bug spray| [person:larry m 0-0]
+amy| Alright see you later| [person:larry m 2-2]
+larry| ok I guess we are ready Lets wait for them to come so we get moving| [person:larry m 1-1][person:larry m 3-3][person:them g() 9-9][person:larry m 13-13]
+larry| Yea later we leave in 5| [person:larry m 2-2]
+
+conv:people_2019072902_2:aug_0:chat_0:chataug_0| carol joe| [person:carol f 0-0][person:joe m 1-1]
+carol| Hi Joe| [person:carol f 1-1]
+joe| Hey so what movies did you see the other day| [person:joe m 5-5]
+carol| We went to watch Avengers| [person:carol f 0-0]
+joe| Did it end leading up to another sequel|
+carol| Yes I can t wait to see it Henry didn t really care for the movie though| [person:carol f 1-1][person:carol f 8-8]
+joe| Oh okay I m not a huge Avengers fan either but I do think it s good stuff| [person:joe m 2-2][person:joe m 11-11]
+carol| Kelly and I thought it was sad We also saw a Dog s Journey which was funny and sad| [person:carol f 0-0][person:carol f 2-2][person:carol f 7-7]
+joe| I saw the first movie they made based on book by same author Bruce Cameron s A Dog s Purpose I read a Dog s Journey and anticipated the movie would be a combination of funny and sad| [person:joe m 0-0][person:joe m 5-5][person:joe m 13-13][person:joe m 14-14][person:joe m 20-20]
+carol| Yes it was Both movies were really good and held our attention but if you don t like crying at movies you may want to skip them both lol| [person:carol f 3-3][person:carol f 10-10][person:carol f 14-14][person:carol f 21-21][person:carol f 26-26][person:carol f 27-27]
+joe| Yeah I don t mind a shedding a tear Movies that can evoke different emotions are all the better I look forward to eventually seeing the Avengers movie but I did wonder if it lived up to all the hype| [person:joe m 1-1][person:joe m 19-19][person:joe m 29-29]
+
+conv:people_2019072902_5:aug_0:chat_0:chataug_0| angela melinda| [person:angela f 0-0][person:melinda f 1-1]
+angela| Hey Melinda| [person:angela f 1-1]
+melinda| Hey Angela how are you| [person:angela f 1-1][person:angela f 4-4]
+angela| I am great are you exciting about your parents visiting| [person:angela f 0-0][person:melinda f 4-4][person:melinda f 7-7][person:parents g() 8-8]
+melinda| Yes totally But also a little worried|
+angela| Why|
+melinda| Well they really want to go shopping and it s so hard to take them with my busy schedule| [person:parents g() 1-1][person:parents g() 14-14][person:melinda f 16-16]
+melinda| Do you think you would be open to driving them some day| [person:angela f 1-1][person:angela f 3-3][person:parents g() 9-9]
+angela| Totally your parents are great| [person:parents g() 1-1][person:parents g() 2-2]
+angela| Let me know a good time I will drive them and show them around| [person:angela f 1-1][person:angela f 6-6][person:parents g() 9-9][person:parents g() 12-12]
+melinda| Awesome I will ask them and get back to you Thank you so much Angela| [person:melinda f 1-1][person:parents g() 4-4][person:angela f 9-9][person:angela f 11-11][person:angela f 14-14]
+angela| No problem Later|
+
+conv:people_2019072902_9:aug_0:chat_0:chataug_0| linda pamela| [person:linda f 0-0][person:pamela f 1-1]
+linda| pamela you wanna go for a run| [person:pamela f 0-0][person:linda f 1-1]
+pamela| Hey Sorry I m kind of busy with work right now| [person:pamela f 2-2]
+pamela| I can t| [person:pamela f 0-0]
+linda| Awww please come it would be more fun if you join me| [person:pamela f 9-9][person:linda f 11-11]
+pamela| I know I wish I could I just have a big deadline tomorrow| [person:pamela f 0-0][person:pamela f 2-2][person:pamela f 4-4][person:pamela f 6-6]
+linda| do you happen to know anyone who can join me then| [person:pamela f 1-1][person:anyone g() 5-5][person:linda f 9-9]
+pamela| yes actually i do my friend meredith runs in the same park| [person:pamela f 2-2][person:pamela f 4-4][person:pamela f 5-5][person:meredith f 6-6][location:park s 11-11]
+linda| Ok thanks for the info pamela good luck with work| [person:pamela f 5-5]
+pamela| her number is 111 2223333 if you want to reach out to her| [person:pamela f 0-0][person:linda f 6-6][person:pamela f 12-12]
+pamela| sure thing next time hopefully i ll be able to join you| [person:pamela f 5-5][person:linda f 11-11]
+linda| alright thanks|
+pamela| have a nice run|
+linda| thank you girl definitely next time| [person:pamela f 1-1]
+
+conv:people_2019072902_11:aug_0:chat_0:chataug_0| angela melinda| [person:angela f 0-0][person:melinda f 1-1]
+melinda| Hey Angela| [person:melinda f 1-1]
+angela| So I ve cleared my evening to take your parents shopping What are they looking for| [person:angela f 1-1][person:angela f 4-4][person:angela f 8-8][person:angela f 9-9][person:angela f 13-13]
+melinda| My parent s are looking for Antiques that they can put in their home| [person:melinda f 0-0][person:melinda f 1-1][person:melinda f 8-8][person:melinda f 12-12][location:home s 13-13]
+angela| hmmm okay I know a couple of stores they might like Are they looking for big or small items| [person:angela f 2-2][location:stores g() 7-7][person:angela f 8-8][person:angela f 12-12]
+melinda| They are looking for more small items Specifically some lamps and mirrors And maybe a small end table for the spare bedroom| [person:melinda f 0-0][location:home s 21-21]
+angela| Oh okay that narrows it down But here is a question are they usually on the same page about purchases or am I going to have to referee LOL| [person:angela f 12-12][person:angela f 22-22]
+melinda| You might have to referee a little but you know my mom She usually gets what she wants lol| [person:melinda f 0-0][person:melinda f 8-8][person:melinda f 10-10][person:melinda f 11-11][person:melinda f 12-12][person:melinda f 16-16]
+angela| Ha ha okay I can do that What time shall I pick them up| [person:angela f 3-3][person:angela f 10-10][person:angela f 12-12]
+melinda| They would like to be picked up around 200pm Does that work for you| [person:melinda f 0-0][person:melinda f 13-13]
+angela| Yep that s fine Let them know I will be there I gotta run Have a good evening| [person:angela f 5-5][person:angela f 7-7][location:home s 10-10][person:angela f 11-11]
+
+conv:people_2019072902_13:aug_0:chat_0:chataug_0| brian rebecca| [person:brian m 0-0][person:rebecca f 1-1]
+brian| hi there hi are you doing| [location:there s 1-1][person:rebecca f 4-4]
+rebecca| Stuck at work B Could you please grab my books from Laura s| [location:work s 2-2][person:brian m 5-5][person:rebecca f 8-8][person:laura f 11-11]
+brian| I certainly will| [person:brian m 0-0]
+rebecca| Awesome Thanks You re the best I ll meet you whenever I can get out of the office| [person:brian m 2-2][person:rebecca f 6-6][person:brian m 9-9][person:rebecca f 11-11][location:office s 17-17]
+rebecca| Drinks on me| [person:rebecca f 2-2]
+brian| ok thank you| [person:rebecca f 2-2]
+brian| You have a good day| [person:rebecca f 0-0]
+rebecca| Of Course THanks for your help| [person:brian m 4-4]
+
+conv:people_2019072902_15:aug_0:chat_0:chataug_0| carol joe| [person:carol f 0-0][person:joe m 1-1]
+joe| Hey Carol Watched and tv shows lately| [person:carol f 1-1]
+carol| Hi Joe Yes I saw a couple movies recently with Henry and Kelly| [person:joe m 1-1][person:carol f 3-3][person:henry m 10-10][person:kelly f 12-12]
+carol| The Avengers and Detective Pikachu|
+joe| Were they good| [person:they g() 1-1]
+joe| Do you know what Henry and Kelly thought about them| [person:carol f 1-1][person:henry m 4-4][person:kelly f 6-6][person:them g() 9-9]
+carol| They were great Henry and Kelly especially liked Avengers They said it was one of the best they have ever seen| [person:they g() 0-0][person:henry m 3-3][person:kelly f 5-5][person:they g() 9-9][person:they g() 17-17]
+joe| That Great Which did you prefer| [person:carol f 4-4]
+carol| I liked Detective Pikachu I thought the character was so cute| [person:carol f 0-0][person:carol f 4-4]
+joe| Maybe I ll go see it Thanks bye| [person:joe m 1-1]
+
+conv:people_2019072902_17:aug_0:chat_0:chataug_0| malcolm roger| [person:malcolm m 0-0][person:roger m 1-1]
+malcolm| Can t wait to get away|
+roger| Hey Malcolm Are you ready to plan for our trip| [person:malcolm m 1-1][person:malcolm m 3-3][person:our g(malcolm:roger) 8-8][location:trip g() 9-9]
+roger| Same here| [location:here g() 1-1]
+malcolm| Yeah I think Shane found a good hotel| [person:malcolm m 1-1][person:shane m 3-3][location:hotel s 7-7]
+roger| Sweet Paul told me he had found some decent prices for plane tickets too| [person:paul m 1-1][person:roger m 3-3][person:paul m 4-4]
+malcolm| That s awesome I hope that Paul can get off of work that week| [person:malcolm m 3-3][person:paul m 6-6]
+roger| He d better I ve been looking forward to this trip for weeks I even have some tourist destinations in mind What about you Also did Ivan find out if he could bring his dog along| [person:paul m 0-0][person:roger m 3-3][location:trip g() 10-10][person:roger m 13-13][person:malcolm m 23-23][person:ivan m 26-26][person:ivan m 30-30][person:ivan m 33-33]
+malcolm| Yeah Ivan has one of those emotional support animal letters so its cool| [person:ivan m 1-1][person:those g(shane:paul:ivan) 5-5]
+roger| Awesome Cool then I think we should be set for the most part I ll have to remind everyone to make sure that they have all of their paperwork ready IDs Passports and all of that| [person:roger m 3-3][person:we g(roger:shane:paul:ivan) 5-5][person:roger m 13-13][person:everyone g(malcolm:shane:paul:ivan) 18-18][person:they g(shane:paul:ivan) 23-23]
+malcolm| I also got some free tickets for that music festival we were talking about going to| [person:malcolm m 0-0][person:we g(roger:shane:paul:ivan:malcolm) 10-10]
+roger| Awesome Great job I know that Paul will be excited to hear that| [person:roger m 3-3][person:paul m 6-6]
+malcolm| Cool can t wait can t wait to go|
+malcolm| Catch you later| [person:roger m 1-1]
+roger| Same here Talk you soon Have a good night| [location:here s 1-1][person:malcolm m 3-3]
+
+conv:people_2019072902_27:aug_0:chat_0:chataug_0| caroline samantha| [person:caroline f 0-0][person:samantha f 1-1]
+samantha| Ready for our trip| [person:our g(samantha:caroline) 2-2]
+caroline| yes of course|
+samantha| Where do you think we should go with Barbara Emily and Alice| [person:caroline f 2-2][person:we g(samantha:caroline) 4-4][person:barbara f 8-8][person:emily f 9-9][person:alice f 11-11]
+caroline| i think we all should go to miami| [person:caroline f 0-0][person:we g(samantha:caroline:barbara:emily:alice) 2-2][location:miami s 7-7]
+samantha| That sounds fun What are the ticket prices like|
+caroline| it seems that they are around 200 roundtrip|
+samantha| I saw a deal for Cancun for 499 all inclusive| [person:samantha f 0-0]
+caroline| oh wow that sounds fun|
+samantha| I like Miami though| [person:samantha f 0-0][location:miami s 2-2]
+caroline| what do you think barbara emily and alice would like| [person:samantha f 2-2][person:barbara f 4-4][person:emily f 5-5][person:alice f 7-7]
+samantha| I think Barbara Emily and Alice like to go out at night and the beach so both could be good| [person:samantha f 0-0][person:barbara f 2-2][person:emily f 3-3][person:alice f 5-5][location:beach s 14-14]
+caroline| ok lets go with Cancun i think it would be a fun trip| [person:caroline f 5-5]
+samantha| Awesome Caroline let s book it then| [person:caroline f 1-1]
+caroline| great|
+
+conv:people_2019072902_30:aug_0:chat_0:chataug_0| caroline samantha| [person:caroline f 0-0][person:samantha f 1-1]
+samantha| Hello there|
+caroline| hi how are you ready for the christmas party| [person:samantha f 3-3]
+samantha| Heck yeah You| [person:caroline f 2-2]
+caroline| yes did you invite barbara emily and alice any idea or choice besides las vegas or miami| [person:samantha f 2-2][person:barbara f 4-4][person:emily f 5-5][person:alice f 7-7]
+samantha| Yes i invited them both| [person:samantha f 1-1][person:them g(barbara:emily:alice) 3-3]
+samantha| Im thinking vegas baby|
+caroline| perfect with prices being so low i think that we shall go to Las Vegas as well Lets get wild| [person:caroline f 6-6][person:we g(samantha:caroline) 9-9]
+samantha| It s a date|
+caroline| perfect|
+
+conv:people_2019072902_36:aug_0:chat_0:chataug_0| malcolm roger| [person:malcolm m 0-0][person:roger m 1-1]
+roger| Hi Malcolm| [person:malcolm m 1-1]
+malcolm| Hey Rog Thanks for getting in touch We should figure out how we re going to split the driving with Shane Paul and Ivan| [person:we g(roger:malcolm) 7-7][person:we g(roger:malcolm) 12-12][person:shane m 20-20][person:paul m 21-21][person:ivan m 23-23]
+roger| Yes That sounds great we will all get a turn and be able to rest some| [person:we g(roger:malcolm) 4-4]
+malcolm| Cool maybe we pick two people and they can do the day s shift How much do you think everyone should pitch in monetarily It s going to be a week long trip| [person:we g(roger:malcolm) 2-2][person:they g() 7-7][person:roger m 17-17][person:everyone g(shane:paul:ivan) 19-19][location:trip s 32-32]
+roger| Well I think 200 00 each plus we all can take extra for the little things we want| [person:roger m 1-1][person:we g(roger:malcolm) 7-7][person:we g(roger:malcolm) 16-16]
+malcolm| Good call good call I ll check out some airbnb listing tomorrow and see what I can find| [person:malcolm m 4-4][person:malcolm m 15-15]
+roger| I will research a few outings also and get back to you about what I find Talk later on| [person:roger m 0-0][person:malcolm m 11-11][person:roger m 14-14]
+malcolm| Great Talk to you soon| [person:roger m 3-3]
+
+conv:people_2019072902_39:aug_0:chat_0:chataug_0| chris mark| [person:chris m 0-0][person:mark m 1-1]
+chris| Hey|
+mark| Hey Chris what would you like to go to a movie tonight| [person:chris m 1-1][person:chris m 4-4]
+chris| Hey Mark I would what do you want to see| [person:mark m 1-1][person:chris m 2-2][person:mark m 6-6]
+chris| Should we invite others| [person:we g(chris:mark) 1-1][person:others g() 3-3]
+mark| I think we should go see that new one Thor it seemed like a great action movie I think it would be great to have the others go with| [person:mark m 0-0][person:we g(chris:mark) 2-2][person:mark m 17-17][person:others g() 26-26]
+mark| Ill Call and find out who wants to go Should i drive the van or would you like to take us| [person:mark m 10-10][person:chris m 16-16][person:us g(chris:mark) 20-20]
+chris| Wow Tom wanted to see thaat| [person:tom m 1-1]
+chris| I can take everyone Thanks for calling it should be fun Tell everyone to meet at your house who agrees I pick you aup around 8| [person:chris m 0-0][person:everyone g() 3-3][person:everyone g() 12-12][person:mark m 16-16][person:chris m 20-20][person:mark m 22-22]
+chris| up|
+mark| Sounds great thanks for driving us| [person:us g(chris:mark) 5-5]
+mark| Ill bring extra money for drinks and food See you at 8| [person:chris m 9-9]
+chris| No problem See you then| [person:mark m 3-3]
+chris| Bye|
+mark| Bye|
+
+conv:people_2019072902_40:aug_0:chat_0:chataug_0| brian rebecca| [person:brian m 0-0][person:rebecca f 1-1]
+brian| Hi Rebecca your message said you needed to talk to me what s up| [person:rebecca f 1-1][person:rebecca f 2-2][person:rebecca f 5-5][person:brian m 10-10]
+rebecca| Hey Brian how s your day going so far| [person:brian m 1-1][person:brian m 4-4]
+brian| Pretty good I got off work early so I m just hanging out What abut you| [person:brian m 2-2][location:work u 5-5][person:brian m 8-8][person:rebecca f 15-15]
+rebecca| I m still at work currently but i wanted to know if you can do me a small favor| [person:rebecca f 0-0][location:work u 4-4][person:rebecca f 7-7][person:brian m 12-12][person:rebecca f 15-15]
+brian| Probably what is it|
+rebecca| I was going to pick up some of my books from Laura s house but i got stuck at work and was wondering if you would be able to stop by her house and get them for me| [person:rebecca f 0-0][person:rebecca f 8-8][person:laura f 11-11][person:rebecca f 15-15][person:brian m 24-24][person:laura f 31-31][person:them g() 35-35][person:rebecca f 37-37]
+brian| Sure I could do that does she still live in he same place| [person:brian m 1-1][person:laura f 6-6][person:brian m 10-10][location:laura_s_house s 12-12]
+rebecca| Yes she does and your are the best Thank you so much| [person:laura f 1-1][person:brian m 4-4][person:brian m 9-9]
+brian| So will you come pick them up here tonight or do you want me to bring them to work tomorrow| [person:rebecca f 2-2][person:them g() 5-5][location:here u 7-7][person:rebecca f 11-11][person:brian m 13-13][person:them g() 16-16][location:work s 18-18]
+rebecca| I ll try for tonight if i get off at a decent time but in case I don t would like for you to bring them to work for me| [person:rebecca f 0-0][person:rebecca f 6-6][person:rebecca f 16-16][person:brian m 22-22][person:them g() 25-25][location:work s 27-27][person:rebecca f 29-29]
+brian| Okay no problem if you are not here by 9 I ll just bring them to work so see then or then I m on may way now bye| [person:rebecca f 4-4][location:here u 7-7][person:brian m 10-10][person:them g() 14-14][location:work s 16-16][person:brian m 22-22]
+
+conv:people_2019072902_46:aug_0:chat_0:chataug_0| chris samantha| [person:chris m 0-0][person:samantha f 1-1]
+samantha| hello|
+chris| Hey Samantha| [person:samantha f 1-1]
+samantha| Hi Chris| [person:chris m 1-1]
+samantha| What do you think we need to take| [person:chris m 2-2][person:we g(samantha:chris) 4-4]
+chris| We probably need to bring food We can split the cost with Monica Robert and Kevin| [person:we g(samantha:chris) 0-0][person:we g(samantha:chris) 6-6][person:monica f 12-12][person:robert m 13-13][person:kevin m 15-15]
+samantha| That sounds good|
+samantha| I ll get some easy to carry snack foods| [person:samantha f 0-0]
+chris| Maybe Robert could bring drinks| [person:robert m 1-1]
+samantha| What do you want to bring| [person:chris m 2-2]
+chris| I made some matching shirts for us to wear| [person:chris m 0-0][person:we g(samantha:chris) 6-6]
+samantha| Wow youre really going above and beyond That s great| [person:chris m 1-1]
+samantha| What do they look like|
+chris| They have our names on the back| [person:we g(samantha:chris) 2-2]
+samantha| Oh cool|
+chris| They re orange|
+samantha| All of them are orange We ll be standouts for sure lol| [person:we g(samantha:chris) 5-5]
+
+conv:people_2019072902_49:aug_0:chat_0:chataug_0| brian rebecca| [person:brian m 0-0][person:rebecca f 1-1]
+rebecca| Hey Brian how are you doing| [person:brian m 1-1][person:brian m 4-4]
+rebecca| I hope this won t bother you but I need to ask you a favor| [person:rebecca f 0-0][person:brian m 6-6][person:rebecca f 8-8][person:brian m 12-12]
+rebecca| I am kind of busy today at work| [person:rebecca f 0-0]
+rebecca| So I wanted to know if you could pick some books at Laura s for me| [person:rebecca f 1-1][person:brian m 6-6][person:laura f 12-12][person:rebecca f 15-15]
+brian| Sure I could Where does she live| [person:brian m 1-1][person:laura f 5-5]
+rebecca| Glad to know she lives at 900 Main St Club Cortile 75| [person:laura f 3-3][location:900_main_st__club_cortile_75 s 9-9]
+brian| Is that the big blue house|
+rebecca| Yes that is the one She should be at home all day She is off today| [person:laura f 5-5][location:900_main_st__club_cortile_75 s 9-9][person:laura f 12-12]
+brian| Ok shoot her a text that I will be swinging by to pick them up| [person:laura f 2-2][person:brian m 6-6][person:them g() 13-13]
+rebecca| Sure I already let her know that you are on your way| [person:rebecca f 1-1][person:laura f 4-4][person:brian m 7-7][person:brian m 10-10]
+brian| Ok cool I will see you after| [person:brian m 2-2][person:rebecca f 5-5]
+
+conv:people_2019072902_54:aug_0:chat_0:chataug_0| gabriel tim| [person:gabriel m 0-0][person:tim m 1-1]
+gabriel| Hey Tim can t wait for this poker night right| [person:tim m 1-1]
+tim| yeah should we invite Thomas| [person:gabriel_and_tim g(gabriel:tim) 2-2][person:thomas m 4-4]
+gabriel| So I only have room for like two people at the house and I know Thomas Charles and Brian wants to go| [person:gabriel m 1-1][person:gabriel m 13-13][person:thomas m 15-15][person:charles m 16-16][person:brian m 18-18]
+gabriel| Yeah I like Thomas he s a good guy| [person:gabriel m 1-1][person:thomas m 3-3][person:thomas m 4-4]
+gabriel| Alright so one more person|
+tim| hmm so we don t mention it to Charles and Brian| [person:gabriel_and_tim g(gabriel:tim) 2-2][person:charles m 8-8][person:brian m 10-10]
+tim| will they be mad at us| [person:charles_and_brian g(charles:brian) 1-1][person:gabriel_and_tim g(gabriel:tim) 5-5]
+gabriel| I think they will but it doesn t matter My house my rules| [person:gabriel m 0-0][person:charles_and_brian g(charles:brian) 2-2][person:gabriel m 9-9][person:gabriel m 11-11]
+gabriel| So it s decided Thomas it is| [person:thomas m 4-4]
+tim| They re big boys They can handle it lol| [person:charles_and_brian g(charles:brian) 0-0][person:charles_and_brian g(charles:brian) 3-3][person:charles_and_brian g(charles:brian) 4-4]
+tim| yes|
+gabriel| Yup|
+tim| I ll bring Blue moon| [person:tim m 0-0]
+gabriel| Cool I ll get the Pabst Blue| [person:gabriel m 1-1]
+gabriel| ttyl|
+tim| see ya|
+
+conv:people_2019072902_62:aug_0:chat_0:chataug_0| andrew josh| [person:andrew m 0-0][person:josh m 1-1]
+andrew| can anyone leave work early to meet the handyman at home| [person:anyone g(andrew:josh) 1-1][location:work s 3-3][location:home s 10-10]
+josh| I don t think kevin and jason have signal in the warehouse 3hat time will he be there| [person:josh m 0-0][person:kevin m 4-4][person:jason m 6-6][location:warehouse s 11-11][person:handyman m 15-15][location:home s 17-17]
+andrew| I was only told that it would be sometime in the afternoon| [person:andrew m 0-0]
+andrew| I sent an email to my boss to see if I could leave around noon and have not heard back yet| [person:andrew m 0-0][person:andrew m 5-5][person:andrew m 10-10]
+andrew| can you check with yours| [person:josh m 1-1][person:josh m 4-4]
+josh| Ok Do you know whenbyour boss will get back to you| [person:andrew m 2-2][person:andrew m 10-10]
+josh| i can leave here at 2| [person:josh m 0-0][location:work s 3-3]
+josh| My job is only 5 minutes away| [person:josh m 0-0][location:work s 1-1]
+
+conv:people_2019072903_3:aug_0:chat_0:chataug_0| jack ronald| [person:jack m 0-0][person:ronald m 1-1]
+jack| Hello|
+ronald| Hello How are you today| [person:ronald m 3-3]
+jack| any plans for this week|
+ronald| Well the game is coming up on Thursday Patrick and Steve want to go too| [location:the_game s 1-2][person:ronald m 8-8][person:ronald m 10-10]
+jack| awesome they can tag along what game do you want to go see| [person:jack m 1-1][location:the_game s 6-6][person:jack m 8-8]
+ronald| It will be great weather for baseball|
+jack| which game have you decided on| [location:the_game s 1-1][person:jack m 3-3]
+ronald| It will be the Sharks vs the Buffalos| [location:it s 0-0]
+jack| so you will pick me up after the guys| [person:jack m 1-1][person:jack m 4-4]
+ronald| Patrick and Steve are free that night You re free to go Thursday too right| [person:ronald m 0-0][person:ronald m 2-2][person:ronald m 7-7]
+ronald| Yeah I can pick them up But I have to get up early the next morning for work Would you mind giving them a ride home after| [person:ronald m 1-1][person:ronald m 4-4][person:ronald m 7-7][person:ronald m 19-19][person:ronald m 22-22][location:home s 25-25]
+jack| Sure pick me up last because i have some errands to run before i leave| [person:jack m 2-2][person:jack m 6-6][person:jack m 13-13]
+jack| No problem ill drop them off| [person:jack m 4-4]
+ronald| Awesome Can t wait|
+jack| See you then| [person:jack m 1-1]
+ronald| I ll text you on Wednesday to double check everything with you Have a great day| [person:ronald m 0-0][person:ronald m 3-3][person:ronald m 11-11]
+
+conv:people_2019072903_8:aug_0:chat_0:chataug_0| george tim| [person:george m 0-0][person:tim m 1-1]
+george| Hello|
+tim| Hey how s it going|
+george| Good|
+george| How are you| [person:tim m 2-2]
+tim| I m doing good have Jeff and Matt decided where we re all going for our summer trip| [person:tim m 0-0][person:jeff m 5-5][person:matt m 7-7][person:we g(george:tim:jeff:matt) 10-10][person:we g(george:tim:jeff:matt) 15-15][location:trip s 17-17]
+george| No i have not heard from them| [person:george m 1-1][person:them g(jeff:matt) 6-6]
+george| Do you know of any locations they had in mind| [person:tim m 1-1][person:them g(jeff:matt) 6-6]
+tim| Matt was talking about the Grand Canyon or maybe hiking in Utah| [person:matt m 0-0][location:grand_canyon s 5-6][location:utah s 11-11]
+george| I like to hike so they both sound like fun to me| [person:george m 0-0][person:them g(jeff:matt) 5-5][person:them g(jeff:matt) 6-6][person:george m 11-11]
+tim| Sweet Jeff said he could book the tickets on his credit card because he gets bonus air miles| [person:jeff m 1-1][person:jeff m 3-3][person:jeff m 9-9][person:jeff m 13-13]
+george| Sweet|
+george| When do you think is a good time for us to go| [person:tim m 2-2][person:us g(george:tim) 9-9]
+george| Mid summer seems ideal|
+tim| That sounds sounds perfect to me| [person:tim m 5-5]
+george| There may be alot of day light for hiking around that time of year|
+tim| Oh definitely|
+george| Sound good to me| [person:george m 3-3]
+tim| Awesome we ll talk more about it once we hear back from Jeff and Matt| [person:we g(george:tim) 1-1][location:trip s 6-6][person:we g(george:tim) 8-8][person:jeff m 12-12][person:matt m 14-14]
+
+conv:people_2019072903_16:aug_0:chat_0:chataug_0| barry emma| [person:barry m 0-0][person:emma f 1-1]
+barry| Hi do you know what we should bring for the dinner| [person:emma f 2-2][person:we g(barry:emma) 5-5][location:dinner s 10-10]
+emma| Hey Barry what are you bringing to the Johnson s later| [person:barry m 1-1][person:barry m 4-4][person:johnson m 8-8]
+emma| I honestly don t want to bring anything at all but they invited us for dinner so I guess we have to I think I will bring some Pepsi| [person:emma f 0-0][person:they g() 11-11][person:we g(barry:emma) 13-13][person:emma f 17-17][person:we g(barry:emma) 19-19][person:emma f 22-22][person:emma f 24-24]
+barry| That is a great idea May be I can bring in some wine| [person:barry m 7-7]
+barry| So what kind of gift do you want to bring| [person:emma f 6-6]
+emma| It s not their birthday I m not bringing a gift The pepsi should be enough Maybe I ll get a babka for dessert but I assume they ve made something| [location:dinner s 0-0][person:their g() 3-3][person:emma f 5-5][person:emma f 17-17][person:emma f 25-25][person:they g() 27-27]
+emma| Any idea what they re cooking I m really in the mood for seafood but I obviously can t tell them what to make at their own dinner party| [person:they g() 3-3][person:emma f 6-6][person:emma f 15-15][person:they g() 20-20][person:their g() 25-25][location:dinner s 27-27][location:dinner s 28-28]
+barry| I am not sure But I heard that recently they go out for fishing I think they may cook something they got when they are out of sea| [person:barry m 0-0][person:barry m 5-5][person:they g() 9-9][person:barry m 14-14][person:they g() 16-16][person:they g() 20-20][person:they g() 23-23]
+barry| I am thinking to bring a book of how to fish for them| [person:barry m 0-0][person:they g() 12-12]
+
+conv:people_2019072903_29:aug_0:chat_0:chataug_0| stephanie william| [person:stephanie f 0-0][person:william m 1-1]
+william| Hey Stephanie| [person:stephanie f 1-1]
+stephanie| Hi|
+stephanie| Hi William| [person:william m 1-1]
+william| What are you planning to take next weekend| [person:stephanie f 2-2]
+stephanie| I guess I ll bring the pie Like I always do eye roll| [person:stephanie f 0-0][person:stephanie f 2-2][person:stephanie f 8-8]
+stephanie| Do you want to eat my pie next weekend| [person:william m 1-1][person:stephanie f 5-5]
+william| I wonder if there is anything special they would want us to bring| [person:william m 0-0][person:they g() 7-7][person:us g(william:stephanie) 10-10]
+stephanie| You could bring the sausage rihgt| [person:william m 0-0]
+william| Yes that and maybe some wine I will call and ask them| [person:william m 6-6][person:them g() 11-11]
+stephanie| Great|
+william| It should be a fun time I will also ask if they know what everyone else I bring in so we don t duplicate| [person:william m 6-6][person:they g() 11-11][person:everyone g(william:stephanie) 14-14][person:william m 16-16][person:we g(william:stephanie) 20-20]
+stephanie| You sure are worried about food William| [person:william m 0-0][person:william m 6-6]
+william| Yes I love food and picnics Also wine| [person:william m 1-1]
+stephanie| Ok goodbye|
+
+conv:people_2019072903_35:aug_0:chat_0:chataug_0| eric lauren| [person:eric m 0-0][person:lauren f 1-1]
+lauren| Hey it s Lauren we want to know how we can all get together| [person:lauren f 3-3][person:we g(lauren:eric) 4-4][person:we g(lauren:eric) 9-9]
+lauren| It s Shirley why don t I reach out to Anna and see when she is free| [person:shirley f 2-2][person:lauren f 6-6][person:anna f 10-10][person:anna f 14-14]
+eric| Yeah we don t know our way around Seattle so we need coordinate| [person:we g(lauren:eric) 1-1][person:our g(lauren:eric:shirley:anna) 5-5][location:seattle g() 7-8][location:seattle s 8-8][person:we g(lauren:eric) 10-10]
+eric| There s also 5 of us| [person:us g(lauren:eric:shirley:anna) 5-5]
+lauren| Good point Eric we need a solid plan to not get lost and arrange a visit| [person:eric m 2-2][person:we g(lauren:eric) 3-3]
+eric| Maybe we could form a group chat with all 5 of us in it That d be convenient| [person:we g(lauren:eric) 1-1][person:us g(lauren:eric:shirley:anna) 11-11][location:it_ s 13-13]
+eric| That way we could get everyone s opinion and reach everyone simultaneously| [person:we g(lauren:eric) 2-2][person:everyone g(lauren:eric:shirley:anna) 5-5][person:everyone g(lauren:eric:shirley:anna) 10-10]
+lauren| Great idea lets get started|
+eric| What do you think Lauren| [person:lauren f 2-2][person:lauren f 4-4]
+lauren| I don t have everyone on my phone do you Eric| [person:lauren f 0-0][person:everyone g(lauren:eric:shirley:anna) 4-4][person:lauren f 6-6][person:eric m 9-9][person:eric m 10-10]
+eric| Great I can set up the chat I ll send you an invite in the next few minutes| [person:eric m 1-1][person:eric m 7-7][person:lauren f 10-10]
+eric| Yeah I definitely don t mind| [person:eric m 1-1]
+lauren| This is exciting Can t wait to see everyone| [person:everyone g(lauren:eric:shirley:anna) 8-8]
+eric| Yeah It s going to be a great trip Can t wait| [location:trip s 8-8]
+
+conv:people_2019072903_38:aug_0:chat_0:chataug_0| anthony chris| [person:anthony m 0-0][person:chris m 1-1]
+anthony| Hey Chris| [person:chris m 1-1]
+chris| Hey Anthony| [person:anthony m 1-1]
+anthony| How s it going|
+chris| Alright here How about yourself| [person:anthony m 4-4]
+anthony| Pretty good hey I m planning to hang out with some colleagues later wanna join us| [person:anthony m 3-3][person:colleagues g() 11-11][person:colleagues g() 15-15]
+chris| Do I know your colleagues| [person:chris m 1-1][person:anthony m 3-3][person:colleagues g() 4-4]
+anthony| I believe you do I m hanging with Jason Gary and William| [person:anthony m 0-0][person:chris m 2-2][person:anthony m 4-4][person:jason m 8-8][person:gary m 9-9][person:william m 11-11]
+chris| Okay That sounds cool Just let me know when and where and I will be there Thanks for the invite| [person:chris m 6-6][person:chris m 12-12]
+anthony| You got it man I ll be in touch| [person:chris m 0-0][person:anthony m 4-4]
+
+conv:people_2019072903_44:aug_0:chat_0:chataug_0| chris samantha| [person:chris m 0-0][person:samantha f 1-1]
+samantha| Hello Chris i was thinking we should take our neighbors to lunch| [person:samantha f 1-1][person:samantha f 2-2][person:samantha f 5-5][person:samantha f 8-8][person:samantha f 9-9][location:lunch s 11-11]
+chris| I think we should ask the Robinsons if they know what the Martins like to eat| [person:chris m 0-0][person:chris m 2-2][person:chris m 6-6][person:chris m 8-8][person:chris m 12-12]
+samantha| That s a great ideal We should probably bring something with us| [person:samantha f 5-5][person:samantha f 11-11]
+chris| I think that would be the neighborly thing to do| [person:chris m 0-0]
+samantha| I can t decide on what would be appropriate Hopefully the Robinson will give us an ideal of what they like| [person:samantha f 0-0][person:samantha f 11-11][person:samantha f 14-14][person:samantha f 19-19]
+chris| Me either but I m glad we re getting to know the neighbors| [person:chris m 0-0][person:chris m 3-3][person:chris m 6-6][person:chris m 12-12]
+chris| I think I| [person:chris m 0-0][person:chris m 2-2]
+samantha| Mr too i m so excited that we moved here and i really like the neighborhood and the neighbors| [person:samantha f 2-2][person:samantha f 7-7][location:here s 9-9][person:samantha f 11-11][location:here s 15-15][person:samantha f 18-18]
+
+conv:people_2019072903_65:aug_0:chat_0:chataug_0| angela debra| [person:angela f 0-0][person:debra f 1-1]
+debra| Hey what do you think the Murphys and Smiths would like when we go to visit them| [person:angela f 3-3][person:murphys g() 6-6][person:smiths g() 8-8][person:we g(debra:angela) 12-12][person:them g() 16-16]
+angela| I was thinking about giving some nice wine to both groups| [person:angela f 0-0][person:both g() 9-9]
+debra| That s a great idea you can t go wrong with wine| [person:angela f 5-5]
+angela| I know that the Smiths love chocolate so I may get that for them in addition to the wine| [person:angela f 0-0][person:smiths g() 4-4][person:angela f 8-8][person:smiths g() 13-13]
+debra| That sounds good Maybe once we get to Charlotte we can find a local store with good wine and chocolates| [person:we g(debra:angela) 5-5][location:charlotte s 8-8][person:we g(debra:angela) 9-9]
+angela| Do you know if the Murphys like chocolate as well| [person:debra f 1-1][person:murphys g() 5-5]
+debra| I am not too sure but who doesn t like chocolate| [person:debra f 0-0]
+angela| That is true How about I get the wine and chocolate for the Smiths You can buy the wine and chocolate for the Murphys| [person:angela f 5-5][person:smiths g() 13-13][person:debra f 14-14][person:murphys g() 23-23]
+debra| That sounds perfect I look forward to spending time with everyone| [person:debra f 3-3][person:we g(debra:angela) 10-10]
+
+conv:people_2019072903_67:aug_0:chat_0:chataug_0| amanda melissa| [person:amanda f 0-0][person:melissa f 1-1]
+melissa| Hi|
+melissa| Should we ask Frank Catherine and Edward to go with us to Six Flags| [person:we g(melissa:amanda) 1-1][person:frank m 3-3][person:catherine f 4-4][person:edward m 6-6][person:we g(melissa:amanda) 10-10]
+amanda| Yes I think they d appreciate that| [person:amanda f 1-1][person:they g(frank:catherine:edward) 3-3]
+melissa| I m free this weekend are you| [person:melissa f 0-0][person:amanda f 6-6]
+amanda| I am| [person:amanda f 0-0]
+melissa| Great I will call them later today and see if their schedule is good to go too| [person:melissa f 1-1][person:they g(frank:catherine:edward) 4-4][person:they g(frank:catherine:edward) 10-10]
+amanda| Sounds great I hope they can make it| [person:amanda f 2-2][person:they g(frank:catherine:edward) 4-4]
+melissa| Me too they are a lot of fun| [person:melissa f 0-0][person:they g(frank:catherine:edward) 2-2]
+amanda| Yes and it s been a while since we ve seen them| [person:we g(melissa:amanda) 8-8][person:they g(frank:catherine:edward) 11-11]
+melissa| We will plan for this weekend and I will let you know later if the others can com Talk to you later| [person:we g(melissa:amanda) 0-0][person:melissa f 7-7][person:amanda f 10-10][person:they g(frank:catherine:edward) 15-15][person:amanda f 20-20]
+
+conv:people_2019080801_1:aug_0:chat_0:chataug_0| april leslie| [person:april f 0-0][person:leslie f 1-1]
+april| Hi Leslie how are you| [person:leslie f 1-1][person:leslie f 4-4]
+april| I m getting excited for cousin Donald s birthday party are you| [person:april f 0-0][person:donald m 5-5][person:donald m 6-6][person:leslie f 11-11]
+leslie| Hey Cool I am super excited too| [person:leslie f 2-2]
+april| Great|
+april| Have any ideas on what to get them| [person:them g(donald) 7-7]
+leslie| Hmmm I am still thinking about the gift| [person:leslie f 1-1]
+leslie| Do you have anything in mind| [person:april f 1-1]
+april| We could get them all ipads if you want I know they all could use them| [person:we g(april:leslie) 0-0][person:them g(donald) 3-3][person:leslie f 7-7][person:april f 9-9][person:them g(donald) 11-11]
+leslie| That s a great idea|
+leslie| They can play games on them| [person:them g(donald) 0-0]
+april| Perfect I ll buy them and get them sent to my house| [person:april f 1-1][person:april f 10-10]
+april| have a great day talk soon|
+leslie| Yeah hopefully we ll catch up again soon| [person:we g(april:leslie) 2-2]
+
+conv:people_2019080801_4:aug_0:chat_0:chataug_0| diana jacqueline| [person:diana f 0-0][person:jacqueline f 1-1]
+diana| I m nervous about my job interview| [person:diana f 0-0][person:diana f 4-4]
+jacqueline| I m sure you ll do fine How can I help| [person:jacqueline f 0-0][person:diana f 3-3][person:jacqueline f 9-9]
+diana| Can you give me Donna s contact number I hear she works for the company and might be able to help me| [person:jacqueline f 1-1][person:diana f 3-3][person:donna f 4-4][person:diana f 8-8][person:donna f 10-10][person:diana f 21-21]
+jacqueline| Sure her number is 5555555| [person:donna f 1-1]
+diana| Oh thanks so much|
+jacqueline| Sure I can put you in contact with Marilyn too She works there and can help| [person:jacqueline f 1-1][person:diana f 4-4][person:marilyn f 8-8][person:marilyn f 10-10]
+diana| Oh you are a treasure| [person:jacqueline f 1-1]
+jacqueline| I love to help any way I can| [person:jacqueline f 0-0][person:jacqueline f 6-6]
+diana| You are a great friend| [person:jacqueline f 0-0][person:jacqueline f 4-4]
+jacqueline| Thanks Diana I wish you well| [person:diana f 1-1][person:jacqueline f 2-2][person:diana f 4-4]
+
+conv:people_2019080801_7:aug_0:chat_0:chataug_0| justin keith| [person:justin m 0-0][person:keith m 1-1]
+keith| Hey Justin where should we go for Spring Break| [person:justin m 1-1][person:we g(keith:justin) 4-4]
+justin| Bruce was talking about Vegas| [person:bruce m 0-0][location:vegas s 4-4]
+keith| Harold want to go somewhere with a lot of babes| [person:harold m 0-0]
+justin| There are babes in Vegas Everyone scores there| [location:vegas s 4-4][person:everyone g(keith:justin:bruce:harold) 5-5][location:vegas s 7-7]
+keith| We re thinking about a place where you can score for free| [person:we g(keith:justin) 0-0][location:place s 5-5][person:justin m 7-7]
+justin| LOL Yeah Bruce is very transactional He needs to get some game| [person:bruce m 2-2][person:bruce m 6-6]
+keith| No doubt Harold can teach him a thing or two| [person:harold m 2-2][person:bruce m 5-5]
+justin| So how so ou feel about Mexico| [location:mexico s 6-6]
+keith| There s no wall blocking us So lets hit it| [person:us g(keith:justin:bruce:harold) 5-5]
+justin| Its a plan I ll tell Bruce and Harold They ll be psyched| [person:justin m 3-3][person:bruce m 6-6][person:harold m 8-8][person:they g(bruce:harold) 9-9]
+
+conv:people_2019080801_8:aug_0:chat_0:chataug_0| edward jonathan| [person:edward m 0-0][person:jonathan m 1-1]
+edward| so the super bowl is coming up|
+jonathan| I know we are watching it with Steve and Harold right| [person:jonathan m 0-0][person:we g(edward:jonathan) 2-2][person:steve m 7-7][person:harold m 9-9]
+edward| yes indeed we are| [person:we g(edward:jonathan:steve:harold) 2-2]
+jonathan| so do we agree on a location yet| [person:we g(edward:jonathan:steve:harold) 2-2]
+edward| not yet I think we should pick someone s place for a get together or meet at a bar or restaurant| [person:edward m 2-2][person:we g(edward:jonathan:steve:harold) 4-4][person:someone u 7-7][location:place s 9-9][location:bar s 18-18][location:restaurant s 20-20]
+jonathan| I think the home is more cozy and relaxing than having to sit at the restaurant for the entire game| [person:jonathan m 0-0][location:home s 3-3][location:restaurant s 15-15]
+edward| I agree with you on that we should meet at my place it is in the middle of everyone s location| [person:edward m 0-0][person:jonathan m 3-3][person:we g(edward:jonathan:steve:harold) 6-6][person:edward m 10-10][location:place s 11-11][location:place s 12-12][person:we g(edward:jonathan:steve:harold) 18-18]
+jonathan| you want to turn it into a party and invite some more people| [person:edward m 0-0]
+edward| I am ok if we bring in some more friends| [person:edward m 0-0][person:we g(edward:jonathan:steve:harold) 4-4][person:friends g() 9-9]
+jonathan| what about the food|
+edward| let s make it a pot luck|
+jonathan| all righty|
+
+conv:people_2019080801_9:aug_0:chat_0:chataug_0| richard tiffany| [person:richard m 0-0][person:tiffany f 1-1]
+tiffany| Hello|
+richard| hi|
+tiffany| How are you Richard| [person:richard m 2-2][person:richard m 3-3]
+richard| Doing well What is your schedule like| [person:tiffany f 4-4]
+tiffany| I am free tomorrow Are the handy men and the car guy coming tomorrow| [person:tiffany f 0-0][person:handy_men g() 7-7]
+richard| I can arrange that Let me check my schedule really quick| [person:richard m 0-0][person:richard m 5-5][person:richard m 7-7]
+tiffany| I don t work at all tomorrow| [person:tiffany f 0-0]
+richard| Tomorrow looks good|
+richard| what time is best|
+tiffany| 12 pm is fine depends on when they are there| [person:handy_men g() 7-7]
+richard| ok bruce can come then| [person:bruce m 1-1]
+richard| let me check on martin| [person:richard m 1-1][person:martin m 4-4]
+tiffany| alright then|
+richard| Martin can t make it until 2 is that ok| [person:martin m 0-0]
+tiffany| Yes that works|
+
+conv:people_2019080801_10:aug_0:chat_0:chataug_0| juan mark| [person:juan m 0-0][person:mark m 1-1]
+mark| hey juan are we going to watch superbowl| [person:juan m 1-1][person:we g(mark:juan) 3-3]
+juan| hello mark can we meet at 2 pm for the movie| [person:mark m 1-1][person:we g(mark:juan) 3-3]
+mark| have you informed samuel| [person:juan m 1-1][person:samuel m 3-3]
+juan| yes i did| [person:juan m 1-1]
+mark| How about Alan| [person:alan m 2-2]
+juan| Not yet let me call him now| [person:juan m 3-3][person:alan m 5-5]
+mark| Kindly do we need to keep time i don t wanna miss the movie| [person:we g(mark:juan) 2-2][person:mark m 7-7]
+juan| Alan has confirmed he will be coming with us| [person:alan m 0-0][person:alan m 3-3][person:us g(mark:juan:alan) 8-8]
+mark| where will we be watching the movie| [person:we g(mark:juan) 2-2]
+juan| i feel we should the theater| [person:juan m 0-0][person:we g(mark:juan) 2-2]
+mark| Okay then inform Samuel and Alan| [person:samuel m 3-3][person:alan m 5-5]
+mark| see you there| [person:juan m 1-1]
+
+conv:people_2019080801_13:aug_0:chat_0:chataug_0| amber marie| [person:amber f 0-0][person:marie f 1-1]
+amber| Hey hows it going|
+marie| Hey Amber| [person:amber f 1-1]
+amber| So we know some of the same people Small world| [person:we g(amber:marie) 1-1]
+marie| Yeah what do you know about Stephan and Janice| [person:amber f 3-3][person:stephan m 6-6][person:janice f 8-8]
+amber| They are both super rad| [person:they g(stephan:janice) 0-0]
+marie| That s good to hear I m going to be working with them| [person:marie f 5-5][person:they g(stephan:janice) 12-12]
+amber| they are super fun| [person:they g(stephan:janice) 0-0]
+marie| Anything odd about them I should know about| [person:they g(stephan:janice) 3-3][person:marie f 4-4]
+amber| and janice is totally hot| [person:janice f 1-1]
+marie| Well that s a plus haha|
+amber| It will be so much fun Just get your work done first lol| [person:marie f 8-8]
+marie| Haha I ll do my best to concentrate Ok thanks see you soon| [person:marie f 1-1][person:marie f 4-4][person:amber f 11-11]
+
+conv:people_2019080801_14:aug_0:chat_0:chataug_0| harold kevin| [person:harold m 0-0][person:kevin m 1-1]
+kevin| hello my friend how goes itt today| [person:kevin m 1-1][person:harold m 2-2]
+harold| I am doing great and yourself| [person:harold m 0-0][person:kevin m 5-5]
+kevin| Not bad not bad have you spoken to Rachel recently| [person:harold m 5-5][person:rachel f 8-8]
+harold| Yes I have she is doing great and I talked to her about the three of us going to lunch together in the near future even| [person:harold m 1-1][person:rachel f 3-3][person:harold m 8-8][person:rachel f 11-11][person:us g(kevin:harold:rachel) 16-16]
+kevin| Yes Rachel and I are getting pretty close these days so did you have a day in mind for the lunch| [person:rachel f 1-1][person:kevin m 3-3][person:harold m 12-12]
+harold| How about next Tuesday and do you have an idea for which place to eat lunch at| [person:kevin m 6-6][location:place s 12-12]
+kevin| Yes I think Tuesday will work for both of us do you like Italian Harold| [person:kevin m 1-1][person:us g(kevin:harold) 9-9][person:harold m 11-11][person:harold m 14-14]
+harold| As a matter of fact I do which restaurant do you suggest then| [person:harold m 5-5][location:restaurant s 8-8][person:kevin m 10-10]
+kevin| There is Josepies on Main Street how about that one great pizza and pasta| [location:josepies s 2-2][location:street s 5-5]
+harold| Yes that works let Rachael know and I will see you there next Tuesday at 1 PM thanks talk with you soon| [person:harold m 7-7][person:kevin m 10-10][location:josepies s 11-11][person:kevin m 20-20]
+kevin| Its a date talk with you soon| [person:harold m 5-5]
+
+conv:people_2019080801_19:aug_0:chat_0:chataug_0| kathleen philip| [person:kathleen f 0-0][person:philip m 1-1]
+philip| Hello Kathleen| [person:kathleen f 1-1]
+philip| how are your parents doing| [person:kathleen f 2-2][person:kathleen_s_parents g() 3-3]
+kathleen| They are doing well and looking forward to our visit| [person:kathleen_s_parents g() 0-0][person:philip_and_kathleen g(philip:kathleen) 8-8]
+philip| Im glad to hear that Im exited to see them as well| [person:kathleen_s_parents g() 9-9]
+philip| its been a really long time|
+kathleen| My mom Joan really loves wine so I think we should pick up a nice bottle before we go| [person:kathleen f 0-0][person:joan f 1-1][person:joan f 2-2][person:kathleen f 7-7][person:philip_and_kathleen g(philip:kathleen) 9-9][person:philip_and_kathleen g(philip:kathleen) 17-17]
+philip| Yeah thats a great idea what about Phillip| [person:philip m 7-7]
+philip| you obviously know him better| [person:philip m 0-0][person:philip m 3-3]
+philip| so what does he like| [person:philip m 3-3]
+kathleen| Phillip loves reading books about fishing Do you think we could find something like that| [person:philip m 0-0][person:philip m 7-7][person:philip_and_kathleen g(philip:kathleen) 9-9]
+philip| Im sure we can lelts go to that fish store near the mall| [person:philip_and_kathleen g(philip:kathleen) 2-2][location:mall s 12-12]
+philip| I think I saw a book section the other day| [person:philip m 0-0][person:philip m 2-2]
+kathleen| That would be great I think there is a nice book store there as well I m sure we could ask if they know of something he would like| [person:kathleen f 4-4][location:mall s 6-6][person:kathleen f 15-15][person:philip_and_kathleen g(philip:kathleen) 18-18][person:kathleen_s_parents g() 22-22][person:philip m 26-26]
+philip| yeah if not we can always buy Phillip cool fishing wear| [person:philip_and_kathleen g(philip:kathleen) 3-3][person:philip m 7-7]
+kathleen| I don t know much about fishing so I have no clue what to look for| [person:kathleen f 0-0][person:kathleen f 8-8]
+philip| I dont know much either but we can ask around| [person:philip m 0-0][person:philip_and_kathleen g(philip:kathleen) 6-6]
+philip| see you in a few minutes then| [person:kathleen f 1-1]
+kathleen| Sounds great|
+philip| ok bye|
+
+conv:people_2019080801_20:aug_0:chat_0:chataug_0| martin timothy| [person:martin m 0-0][person:timothy m 1-1]
+timothy| you Martin what is up homie| [person:martin m 0-0][person:martin m 1-1]
+timothy| It ihas been so long|
+timothy| i have exciting news| [person:timothy m 0-0]
+martin| What is the news|
+martin| and whats up I miss you| [person:martin m 3-3][person:timothy m 5-5]
+timothy| I am going to be on Jeopardy| [person:timothy m 0-0]
+timothy| It is real|
+timothy| i Swear| [person:timothy m 0-0]
+martin| no way|
+martin| I thought I heard that but didn t believe it| [person:martin m 0-0][person:martin m 2-2]
+martin| you are as smart as a box of rocks lol| [person:timothy m 0-0]
+timothy| I am bringing one person| [person:timothy m 0-0]
+timothy| I was hoping it was you| [person:timothy m 0-0][person:martin m 5-5]
+timothy| so you can teach me how to learn| [person:martin m 1-1][person:timothy m 4-4]
+martin| will do|
+martin| I am excited| [person:martin m 0-0]
+
+conv:people_2019080801_21:aug_0:chat_0:chataug_0| danielle diane| [person:danielle f 0-0][person:diane f 1-1]
+diane| Hi Danielle My cousins Patrick and Sherrie are coming to town| [person:danielle f 1-1][person:diane f 2-2][person:cousins g() 3-3][person:patrick m 4-4][person:sherrie f 6-6][location:town s 10-10]
+danielle| That s great What will you do with them| [person:diane f 5-5][person:cousins g(patrick:sherrie) 8-8]
+diane| Well I was wondering if you could help me out| [person:diane f 1-1][person:danielle f 5-5][person:diane f 8-8]
+danielle| Sure what can I help with| [person:danielle f 3-3]
+diane| I m working when they get in having a meeting and wondering if you could pick them up and take them to Union Station then for lunch| [person:diane f 0-0][person:cousins g(patrick:sherrie) 4-4][person:danielle f 13-13][person:cousins g(patrick:sherrie) 16-16][person:cousins g(patrick:sherrie) 20-20][location:station s 23-23]
+danielle| What time|
+diane| 300 PM Wednesday|
+danielle| Sure no problem I can take them for Chinese at the new restaurant| [person:danielle f 3-3][person:cousins g(patrick:sherrie) 6-6][location:restaurant s 12-12]
+diane| Thank you Danielle| [person:danielle f 1-1][person:danielle f 2-2]
+danielle| You are welcome| [person:diane f 0-0]
+diane| You are the best friend| [person:danielle f 0-0][person:danielle f 4-4]
+danielle| No you are the best| [person:diane f 1-1]
+danielle| Partick will be interesting to meet|
+diane| I can t wait to see my cousins I haven t seen them in so long| [person:diane f 0-0][person:diane f 6-6][person:cousins g(patrick:sherrie) 7-7][person:diane f 8-8][person:cousins g(patrick:sherrie) 12-12]
+danielle| I m sure you will have a wonderful time| [person:danielle f 0-0][person:diane f 3-3]
+
+conv:people_2019080801_22:aug_0:chat_0:chataug_0| alan sophia| [person:alan m 0-0][person:sophia f 1-1]
+alan| Hi friend| [person:sophia f 1-1]
+sophia| Hi Alan| [person:alan m 1-1]
+alan| Did you talk to Chloe recently| [person:sophia f 1-1][person:chloe f 4-4]
+sophia| Yes I have why| [person:sophia f 1-1]
+alan| Just curious about the party|
+sophia| Ah yes i am looking forward to it| [person:sophia f 2-2]
+alan| Did Chloe make reservations for the party| [person:chloe f 1-1]
+sophia| Not entirely sure|
+alan| Can you try to find out since I think you are meeting up with her soon anyways| [person:sophia f 1-1][person:alan m 7-7][person:sophia f 9-9][person:chloe f 14-14]
+sophia| Sure I am meeting up with her later anyways| [person:sophia f 1-1][person:chloe f 6-6]
+alan| Perfect looking forward to the respond|
+sophia| I forgot my phone thats why I couldn t reply| [person:sophia f 0-0][person:sophia f 2-2][person:sophia f 6-6]
+alan| No wonder you didn t reply to my messages| [person:sophia f 2-2][person:alan m 7-7]
+
+conv:people_2019080801_23:aug_0:chat_0:chataug_0| eric matt| [person:eric m 0-0][person:matt m 1-1]
+eric| hey matt| [person:matt m 1-1]
+matt| Hello Eric| [person:eric m 1-1]
+eric| Are we still going to watch the game| [person:we g(eric:matt) 1-1]
+matt| yeah which day|
+eric| Does this Saturday work for you| [person:matt m 5-5]
+matt| no problem but we need to confirm with Walter and Kenneth| [person:we g(eric:matt) 3-3][person:walter m 8-8][person:kenneth m 10-10]
+eric| kindly do|
+matt| so which game are we going to watch| [person:we g(eric:matt) 4-4]
+eric| Houston Astros or what do you think| [person:matt m 5-5]
+matt| Walter and Kenneth are Texas rangers fans| [person:walter m 0-0][person:kenneth m 2-2][location:texas s 4-4][person:rangers g() 5-5]
+eric| what do we do| [person:we g(eric:matt) 2-2]
+matt| i think we can watch both| [person:matt m 0-0][person:we g(eric:matt) 2-2]
+eric| then no problem if they agree| [person:they g(walter:kenneth) 4-4]
+matt| let me check with them i ll let you know| [person:matt m 1-1][person:they g(walter:kenneth) 4-4][person:matt m 5-5][person:eric m 8-8]
+
+conv:people_2019080801_24:aug_0:chat_0:chataug_0| amber kathryn| [person:amber f 0-0][person:kathryn f 1-1]
+kathryn| Hey Amber| [person:amber f 1-1]
+amber| Hey Kathyrn|
+amber| how are you| [person:amber f 2-2]
+amber| it has been a long time|
+amber| My parents are visiting and I don t know what to do with them| [person:amber f 0-0][person:parents g() 1-1][person:amber f 5-5][person:them g() 13-13]
+kathryn| Well if you are asking for recommendations| [person:amber f 2-2]
+kathryn| I have a few| [person:kathryn f 0-0]
+kathryn| go hiking and go to the mall| [location:mall s 6-6]
+amber| Those both sound so fun|
+amber| i think i will do that for real| [person:amber f 0-0][person:amber f 2-2]
+amber| thanks so much|
+kathryn| youre so welcome| [person:amber f 0-0]
+kathryn| let me come if I can| [person:kathryn f 1-1][person:kathryn f 4-4]
+kathryn| I need to get away from Eduardo and Mary| [person:kathryn f 0-0][person:eduardo m 6-6][person:mary f 8-8]
+amber| Come along it will be fun|
+
+conv:people_2019080801_25:aug_0:chat_0:chataug_0| brittany sharon| [person:brittany f 0-0][person:sharon f 1-1]
+sharon| hi|
+brittany| hi|
+brittany| how are you sharon| [person:sharon f 2-2][person:sharon f 3-3]
+sharon| I am oh so well Brittany| [person:sharon f 0-0][person:brittany f 5-5]
+sharon| how about yourself| [person:yourself g(sharon:brittany) 2-2]
+brittany| I am good| [person:brittany f 0-0]
+brittany| have a problem though|
+brittany| we are attending the uncle and aunts anniversary as you know| [person:we g(sharon:brittany) 0-0][person:sharon f 9-9]
+sharon| oh yea|
+sharon| aren t we doing something special for them| [person:we g(sharon:brittany) 2-2][person:them g(brittany) 7-7]
+brittany| yea we are recollecting pieces| [person:brittany f 1-1]
+brittany| have any|
+sharon| O yes I do| [person:sharon f 2-2]
+sharon| I will bring them to the party| [person:sharon f 0-0][person:them g(brittany) 3-3]
+sharon| it is of the city| [location:city s 4-4]
+brittany| nice that is exactly what we ned| [person:we g(sharon:brittany) 5-5]
+
+conv:people_2019080801_26:aug_0:chat_0:chataug_0| kayla stephanie| [person:kayla f 0-0][person:stephanie f 1-1]
+stephanie| Hey kayla| [person:kayla f 1-1]
+stephanie| how has my favorite person been| [person:stephanie f 2-2]
+kayla| Stephanie| [person:stephanie f 0-0]
+kayla| omg i missed you so much| [person:kayla f 1-1][person:stephanie f 3-3]
+kayla| we need to hangout| [person:we g(stephanie:kayla) 0-0]
+kayla| are you going to the Johnson s party| [person:stephanie f 1-1][person:johnson u 5-5]
+stephanie| Heck yea I am| [person:stephanie f 2-2]
+stephanie| Want to go with me| [person:kayla f 4-4]
+stephanie| we can share a gift too| [person:we g(stephanie:kayla) 0-0]
+stephanie| Jeffrey and Marilyn are coming| [person:jeffrey m 0-0][person:marilyn f 2-2]
+stephanie| they dislike the Johnsons| [person:they g(jeffrey:marilyn) 0-0][person:johnson u 3-3]
+stephanie| but we can still get a gift| [person:we g(stephanie:kayla) 1-1]
+kayla| yikes not them| [person:they g(jeffrey:marilyn) 2-2]
+kayla| lets get a gift of flaming dog poo|
+kayla| what do you think| [person:stephanie f 2-2]
+stephanie| heck yes|
+
+conv:people_2019080801_27:aug_0:chat_0:chataug_0| aaron doug| [person:aaron m 0-0][person:doug m 1-1]
+doug| Aaron do you want to go watch the Astros Wednesday| [person:aaron m 0-0][person:aaron m 2-2]
+aaron| Hey Doug Who are they playing| [person:doug m 1-1][person:astros g() 4-4]
+doug| The Angels 8pm|
+aaron| I m down but you know Richard and Samuel wanted to tag along and they are huge Rangers fans Would you be okay going to one of their games instead| [person:aaron m 0-0][person:doug m 4-4][person:richard m 6-6][person:samuel m 8-8][person:they g(richard:samuel) 14-14][person:rangers g() 17-17][person:doug m 20-20][person:rangers g() 27-27]
+doug| No way man I can t stand the Rangers| [person:doug m 3-3][person:rangers g() 8-8]
+aaron| I thought you d say that When do they play each other| [person:aaron m 0-0][person:doug m 2-2][person:astros g() 8-8]
+doug| Ohh actually next week Friday 9pm That just might work|
+aaron| Awesome I think that s definitely the best option for everyone How much are tickets| [person:aaron m 1-1][person:everyone g(doug:aaron:richard:samuel) 10-10]
+doug| 30 for terrace 50 for lower seating Should I buy them| [person:doug m 8-8]
+aaron| No let me make sure they re coming and I ll buy them Lower seating right| [person:aaron m 2-2][person:they g(richard:samuel) 5-5][person:aaron m 9-9]
+doug| For this game you bet| [person:aaron m 3-3]
+aaron| Alright I ll text you once I have them| [person:aaron m 1-1][person:doug m 4-4][person:aaron m 6-6]
+doug| Cool Thanks man|
+
+conv:people_2019080801_28:aug_0:chat_0:chataug_0| lara natalie| [person:lara f 0-0][person:natalie f 1-1]
+natalie| Lara whats up| [person:lara f 0-0]
+lara| Not too much how have you been| [person:natalie f 5-5]
+lara| It has been a minute|
+natalie| I have been great| [person:natalie f 0-0]
+natalie| I learned how to play soccer| [person:natalie f 0-0]
+natalie| can you believe that| [person:lara f 1-1]
+natalie| it is so fun i tell you| [person:natalie f 4-4][person:lara f 6-6]
+lara| No way|
+lara| I love it too| [person:lara f 0-0]
+lara| I am trying to teach Sandra how to play| [person:lara f 0-0][person:sandra f 5-5]
+lara| she has been wanting to play for a long time now| [person:sandra f 0-0]
+lara| can we let her play one time| [person:we g(natalie:lara) 1-1][person:sandra f 3-3]
+natalie| yea that is totally fine with me| [person:natalie f 6-6]
+natalie| lets do it|
+
+conv:people_2019080801_31:aug_0:chat_0:chataug_0| dwight jordan| [person:dwight m 0-0][person:jordan m 1-1]
+dwight| hello|
+dwight| are we still on for the movie| [person:we g(dwight:jordan) 1-1]
+jordan| hey I am good| [person:jordan m 1-1]
+jordan| How is Sunday|
+dwight| Sunday sound perfect for me| [person:dwight m 4-4]
+jordan| Should I invite Andrew and Philip| [person:jordan m 1-1][person:andrew m 3-3][person:philip m 5-5]
+dwight| I have no problem with Andrew but Philip may want us to watch a horror movie which I dont want| [person:dwight m 0-0][person:andrew m 5-5][person:philip m 7-7][person:us g(dwight:jordan:andrew:philip) 10-10][person:dwight m 17-17]
+jordan| Oh yah I dont like his movie preference too| [person:jordan m 2-2][person:philip m 5-5]
+jordan| so let its me you and Philip right| [person:jordan m 3-3][person:dwight m 4-4][person:philip m 6-6]
+dwight| That is right let me get the tickets| [person:dwight m 4-4]
+jordan| Thanks I am looking forward to it| [person:jordan m 1-1]
+dwight| please do Call Andrew and let him know about the plans| [person:andrew m 3-3][person:andrew m 6-6]
+
+conv:people_2019080801_33:aug_0:chat_0:chataug_0| james roger| [person:james m 0-0][person:roger m 1-1]
+james| Hey Roger| [person:roger m 1-1]
+roger| James How are you| [person:james m 0-0][person:james m 3-3]
+james| Great but a little stressed I m trying to throw a part for Jerry and Tiffany Eugene and have no idea where to start| [person:james m 5-5][person:jerry m 13-13][person:tiffany f 15-15][person:eugene m 16-16]
+roger| Oh i know Planning a party can be SO stressful| [person:roger m 1-1]
+james| You ve got that right I know them both pretty well but not specifics like their favorite snacks or beverages| [person:roger m 0-0][person:james m 5-5][person:them g(jerry:tiffany) 7-7][person:them g(jerry:tiffany) 15-15]
+roger| You know our friend Raymond is always going out to dinner and grabbing drinks with them| [person:james m 0-0][person:our g(james:roger) 2-2][person:raymond m 3-3][person:raymond m 4-4][person:them g(jerry:tiffany) 15-15]
+roger| He may have more insight on those kind of details| [person:raymond m 0-0]
+james| You re right| [person:roger m 0-0]
+james| Excellent idea i hadn t even thought about reaching out to Raymond| [person:james m 2-2][person:raymond m 11-11]
+roger| You should most definitely reach out to him He s super nice and would t mind helping out| [person:james m 0-0][person:raymond m 7-7][person:raymond m 8-8]
+james| Will do Where do you think i should have it| [person:roger m 4-4][person:james m 6-6]
+roger| Again i think Raymond would no best on all of these topics Hit him up| [person:roger m 1-1][person:raymond m 3-3][person:raymond m 13-13]
+james| Okay i will Thanks again Roger| [person:james m 1-1][person:roger m 5-5]
+roger| No problem Talk to you later| [person:james m 4-4]
+
+conv:people_2019080801_35:aug_0:chat_0:chataug_0| adam alice| [person:adam m 0-0][person:alice f 1-1]
+adam| Hey Alice good to see you how is life these days| [person:alice f 1-1][person:alice f 5-5]
+alice| Adam you old snort life is good very good Say via the rumor mill I heard you are having a party is this true| [person:adam m 0-0][person:adam m 1-1][person:alice f 14-14][person:adam m 16-16]
+adam| Yes my dear Alice it is and of course you are invited can you come| [person:adam m 1-1][person:alice f 3-3][person:alice f 9-9][person:alice f 13-13]
+alice| Yes of course I will be there| [person:alice f 3-3]
+adam| Say you know our mutual friend Rebecca I asked her to make a reservation for my party at a nice restuarant I know but I haven t heard from her how its going could you talk with her| [person:alice f 1-1][person:our g(adam:alice) 3-3][person:rebecca f 5-5][person:rebecca f 6-6][person:adam m 7-7][person:rebecca f 9-9][person:adam m 15-15][person:adam m 21-21]
+alice| Of course I will see her later today andd then I will get back to you does that work| [person:alice f 2-2][person:rebecca f 5-5][person:alice f 10-10][person:adam m 15-15]
+adam| Yah great ok talk with you later then have a good day| [person:alice f 5-5]
+alice| calls Adam via the phone Adam Alice here do you have a moment i did what you asked| [person:adam m 1-1][person:adam m 5-5][person:alice f 6-6][person:adam m 9-9][person:alice f 13-13][person:adam m 16-16]
+adam| Yeh go ahead please what is the news|
+alice| Rebecca told me she made the reservation so that is all done and she couldn t call you because she forgot to take her mobile phone so its all good| [person:rebecca f 0-0][person:alice f 2-2][person:rebecca f 3-3][person:rebecca f 13-13][person:adam m 17-17][person:rebecca f 19-19][person:rebecca f 23-23]
+adam| Great great thanks Alice for your help your amazin speak to you again soon bye| [person:alice f 3-3][person:alice f 5-5][person:alice f 7-7][person:alice f 11-11]
+
+conv:people_2019080801_37:aug_0:chat_0:chataug_0| eric juan| [person:eric m 0-0][person:juan m 1-1]
+juan| Hey Eric do you have any good recommendations for a sports bar to watch the Super Bowl| [person:eric m 1-1][person:eric m 3-3][location:sports_bar s 10-11]
+eric| Hey Juan Grady s on E 233 street is a good place| [person:juan m 1-1][location:street s 7-7][location:place s 11-11]
+juan| My brother Nate and his friend Albert are going to visit and I want to show them a good time| [person:juan m 0-0][person:nate m 1-1][person:nate m 4-4][person:albert m 5-5][person:albert m 6-6][person:juan m 12-12][person:them g(nate:albert) 16-16]
+eric| Grady s definitely will work then|
+juan| Do you have plans for the game If not it would be cool if you watch with us| [person:eric m 1-1][person:eric m 14-14][person:us g(juan:nate:albert) 17-17]
+eric| I was supposed to go to Jersey to my Aunt and Uncles but I m sure I can get out of it| [person:eric m 0-0][person:eric m 8-8][person:aunt f 9-9][person:eric m 13-13][person:eric m 16-16]
+eric| I m in| [person:eric m 0-0]
+juan| Sweet Should be a good time|
+juan| Thanks again for the recomendation|
+eric| Awesome I ll text you on Sunday What time you want to get there| [person:eric m 1-1][person:juan m 4-4][person:juan m 9-9]
+juan| Maybe 4|
+eric| Sounds great|
+eric| Alright this is going to be fun Looking forward to meeting your brother and his friend| [person:juan m 11-11][person:nate m 12-12][person:nate m 14-14][person:albert m 15-15]
+
+conv:people_2019080801_39:aug_0:chat_0:chataug_0| marie victoria| [person:marie f 0-0][person:victoria f 1-1]
+marie| Hello|
+victoria| hello|
+marie| How are you I feel like I have not seen you in a while| [person:victoria f 2-2][person:marie f 3-3][person:marie f 6-6][person:victoria f 10-10]
+victoria| I have been doing good Yea we definetely need to catch up sometime soon How about dinner| [person:victoria f 0-0][person:we g(marie:victoria) 6-6]
+marie| Dinner sound great What day works for you| [person:victoria f 7-7]
+victoria| Oh wait actually I can t do dinner Joshua has a company event How about lunch| [person:victoria f 3-3][person:joshua m 8-8]
+marie| Lunch is fine How about next Friday|
+victoria| That sounds good too me Will your husband be tagging along| [person:victoria f 4-4][person:marie f 6-6][person:husband m 7-7]
+marie| Of course he will I was thinking about 2 p m Is that OK| [person:husband m 2-2][person:marie f 4-4]
+victoria| Yea that s great|
+victoria| see you then| [person:marie f 1-1]
+marie| Cant wait to see you| [person:victoria f 4-4]
+victoria| Same here is has been soooo long since we saw each other| [person:we g(marie:victoria) 8-8]
+victoria| Actually forgot to ask where are we having dinner| [person:we g(marie:victoria:joshua:husband) 6-6]
+victoria| silly me| [person:victoria f 1-1]
+victoria| Lucille s fine|
+marie| Yes I love that place| [person:marie f 1-1][location:place s 4-4]
+marie| I will make a reservation| [person:marie f 0-0]
+marie| Ok I have to go now See you soon Bye| [person:marie f 1-1][person:victoria f 7-7]
+victoria| okay bye|
+
+conv:people_2019080801_41:aug_0:chat_0:chataug_0| arthur ruth| [person:arthur m 0-0][person:ruth f 1-1]
+arthur| Hi i am on my way home from work| [person:arthur m 1-1][person:arthur m 4-4][location:home s 6-6]
+ruth| Good for you Why did you tell me that| [person:arthur m 2-2][person:arthur m 5-5][person:ruth f 7-7]
+arthur| Well we invited lauren leslie philip and larry over for dinner| [person:we g(arthur:ruth) 1-1][person:lauren f 3-3][person:leslie f 4-4][person:philip m 5-5][person:larry m 7-7]
+ruth| I know that| [person:ruth f 0-0]
+arthur| So i wanted to tell you to decide if i need to pick up anything to prepare for the dinner| [person:arthur m 1-1][person:ruth f 5-5][person:arthur m 9-9]
+ruth| That makes sense We should determine what everyone likes| [person:we g(arthur:ruth) 3-3][person:everyone g(arthur:ruth:lauren:leslie:philip:larry) 7-7]
+arthur| I think we should make a few dish everyone likes and agree on| [person:arthur m 0-0][person:we g(arthur:ruth) 2-2][person:everyone g(arthur:ruth:lauren:leslie:philip:larry) 8-8]
+ruth| How about pasta and a salad some appetizers like mussels and clam steam|
+arthur| That sounds really good|
+ruth| I think so e fruit pie or cakes and ice cream for desert as well| [person:ruth f 0-0]
+arthur| I am with you in that| [person:arthur m 0-0][person:ruth f 3-3]
+ruth| So you know what to pick up then year we have pasta at home the other stuff we do need fresh tomatoes and desert are important and veggies for salad| [person:arthur m 1-1][person:we g(arthur:ruth) 9-9][location:home s 13-13][person:we g(arthur:ruth) 17-17]
+arthur| I got it see you in a bit get ready to do some cooking| [person:arthur m 0-0][person:ruth f 4-4]
+ruth| See you| [person:arthur m 1-1]
+
+conv:people_2019080801_42:aug_0:chat_0:chataug_0| henry walter| [person:henry m 0-0][person:walter m 1-1]
+henry| Hey Walter I want to throw a party for the Benjamin s| [person:walter m 1-1][person:henry m 2-2][person:benjamin m 10-10]
+walter| That sounds like a great idea Henry Where did you want to throw it| [person:henry m 6-6][person:henry m 9-9]
+henry| Well I know Tyler and Cameron like Andiamos So maybe I will throw it there| [person:henry m 1-1][person:tyler m 3-3][person:cameron f 5-5][person:henry m 10-10]
+walter| That might not be a bad idea Maybe you should also get Evan s input He knows best| [person:henry m 8-8][person:evan m 12-12][person:evan m 15-15]
+henry| Ok I will give him a call When do you think I should throw it| [person:henry m 1-1][person:him m 4-4][person:walter m 9-9][person:henry m 11-11]
+walter| I think the Saturday of Labor Day weekend would be a great time| [person:walter m 0-0]
+henry| Yes I agree People will have an extra day to cure their hangovers| [person:henry m 1-1][person:their g(henry:walter) 11-11]
+walter| Ok cool So talk to Evan and let me know what you figure out| [person:evan m 5-5][person:walter m 8-8][person:henry m 11-11]
+henry| Sounds good Walter Thank you for your help Talk to you soon| [person:walter m 2-2][person:walter m 4-4][person:your u 6-6][person:walter m 10-10]
+walter| Bye By the way It is good that your showing initiative on this party| [person:henry m 8-8]
+henry| Thanks|
+
+conv:people_2019080801_44:aug_0:chat_0:chataug_0| eric matt| [person:eric m 0-0][person:matt m 1-1]
+eric| hey matt| [person:matt m 1-1]
+matt| Hello Eric| [person:eric m 1-1]
+eric| Are we still going to watch the game| [person:we g(eric:matt) 1-1]
+matt| yeah which day|
+eric| Does this Saturday work for you| [person:matt m 5-5]
+matt| no problem but we need to confirm with Walter and Kenneth| [person:we g(eric:matt) 3-3][person:walter m 8-8][person:kenneth m 10-10]
+eric| kindly do|
+matt| so which game are we going to watch| [person:we g(eric:matt) 4-4]
+eric| Houston Astros or what do you think| [person:matt m 5-5]
+matt| Walter and Kenneth are Texas rangers fans| [person:walter m 0-0][person:kenneth m 2-2][location:texas s 4-4][person:rangers g() 5-5]
+eric| what do we do| [person:we g(eric:matt) 2-2]
+matt| i think we can watch both| [person:matt m 0-0][person:we g(eric:matt) 2-2]
+eric| then no problem if they agree| [person:they g(walter:kenneth) 4-4]
+matt| let me check with them i ll let you know| [person:matt m 1-1][person:they g(walter:kenneth) 4-4][person:matt m 5-5][person:eric m 8-8]
+
+conv:people_2019080801_45:aug_0:chat_0:chataug_0| alan sophia| [person:alan m 0-0][person:sophia f 1-1]
+alan| Hey Sophia I have a favor to ask of your for the party| [person:sophia f 1-1][person:alan m 2-2][person:sophia f 9-9]
+sophia| I m looking forward to the party What kind of help do you need| [person:sophia f 0-0][person:alan m 12-12]
+alan| I asked Chloe to make a reservation for everyone but now I can t get in touch with her Can you find out if she made it| [person:alan m 0-0][person:chloe f 2-2][person:everyone g(alan:sophia:chloe) 8-8][person:alan m 11-11][person:chloe f 18-18][person:sophia f 20-20][person:chloe f 24-24]
+sophia| Sure I m going to see her in a little bit and will ask her then| [person:sophia f 1-1][person:chloe f 6-6][person:chloe f 14-14]
+alan| Perfect Let me know what you find out| [person:alan m 2-2][person:sophia f 5-5]
+sophia| I just had lunch with Chloe and she said the reservation is all set| [person:sophia f 0-0][person:chloe f 5-5][person:chloe f 7-7]
+alan| That s good Do you know if she made it for everyone| [person:sophia f 4-4][person:chloe f 7-7][person:everyone g(alan:sophia:chloe) 11-11]
+sophia| Yes she said she made it for the whole group| [person:chloe f 1-1][person:chloe f 3-3]
+alan| Perfect I wonder why she didn t respond to me earlier| [person:alan m 1-1][person:chloe f 4-4][person:alan m 9-9]
+sophia| Oh I forgot to tell you She forgot her phone at home and that s why she didn t reply to you directly She was going home after lunch so you should be able to reach her soon| [person:sophia f 1-1][person:alan m 5-5][person:chloe f 6-6][person:chloe f 8-8][person:chloe f 16-16][person:alan m 21-21][person:chloe f 23-23][person:alan m 30-30]
+alan| Ah that makes perfect sense Thanks for your help| [person:sophia f 7-7]
+sophia| No problem See you at the party| [person:alan m 3-3]
+
+conv:people_2019080801_46:aug_0:chat_0:chataug_0| amy shirley| [person:amy f 0-0][person:shirley f 1-1]
+amy| hi Shirley| [person:shirley f 1-1]
+shirley| Hey Amy| [person:shirley f 1-1]
+shirley| How s your visit going| [person:amy f 2-2]
+amy| it s going great|
+amy| any idea what all 4 of us can do together| [person:us g(amy:shirley) 6-6]
+shirley| I was thinking we could do lunch at that outdoor cafe| [person:shirley f 0-0][person:us g(amy:shirley) 3-3][location:cafe s 10-10]
+amy| that sounds great|
+amy| any lunch spot you have in mind| [person:shirley f 3-3]
+shirley| And then maybe after we could catch a movie but I know that you and Jessica probably want to watch a different movie from us| [person:us g(amy:shirley) 4-4][person:shirley f 10-10][person:amy f 13-13][person:jessica f 15-15][person:us g(shirley) 24-24]
+amy| true they have different taste| [person:they g(shirley) 1-1]
+amy| what lunch spot is good|
+shirley| We could go to that little French cafe| [person:us g(amy:shirley:jessica) 0-0][location:cafe s 7-7]
+amy| that sounds nice|
+amy| what about for movies|
+shirley| There s a rom com and a horror movie playing at the same time I know your friend would probably prefer the rom com and susan likes horror movies| [person:shirley f 14-14][person:amy f 16-16][person:jessica f 17-17][person:susan f 25-25]
+shirley| Let me talk to susan and I ll give you a call in about an hour| [person:shirley f 1-1][person:susan f 4-4][person:shirley f 6-6][person:amy f 9-9]
+amy| that sounds fine|
+
+conv:people_2019080801_47:aug_0:chat_0:chataug_0| craig john| [person:craig m 0-0][person:john m 1-1]
+craig| Hey John Let s do something fun to celebrate the end of summer| [person:john m 1-1]
+john| I like that idea what do you have in mind| [person:john m 0-0][person:craig m 6-6]
+craig| I m not sure maybe pool party Or boating| [person:craig m 0-0]
+john| You know Steve just got that new boat So we could get a bigger group together since we can t all fit on yours| [person:craig m 0-0][person:steve m 2-2][person:we g(craig:john:steve) 9-9][person:we g(craig:john:steve) 17-17][person:craig m 23-23]
+craig| Oh yeah Let s get a hold of Steve and see if he s in for this weekend| [person:steve m 8-8][person:steve m 12-12]
+john| OK I ll text him Who else should we get| [person:john m 1-1][person:steve m 4-4][person:we g(craig:john:steve) 8-8]
+craig| Well I know Kevin Joseph and Anthony haven t left for school yet Maybe they d want to go| [person:craig m 1-1][person:kevin m 3-3][person:joseph m 4-4][person:anthony m 6-6][location:school s 11-11][person:they g(kevin:joseph:anthony) 14-14]
+john| Yeah Joseph is a natural when it comes to skiing and Kevin didn t get to go with us last time| [person:joseph m 1-1][person:kevin m 11-11][person:us g(craig:john) 18-18]
+craig| Now that i think about it Anthony can t swim Maybe he wouldn t want to go| [person:craig m 2-2][person:anthony m 6-6][person:anthony m 11-11]
+john| Well I don t think it would hurt to ask We have lots of life jackets and he s such a funny guy We can t have a party without him lol| [person:john m 1-1][person:us g(craig:john) 10-10][person:anthony m 17-17][person:us g(craig:john) 23-23][person:anthony m 30-30]
+craig| You re right about that lol| [person:john m 0-0]
+john| I ll get a hold of the other guys I can t wait This will be great| [person:john m 0-0][person:john m 9-9]
+craig| See ya bro|
+
+conv:people_2019080801_48:aug_0:chat_0:chataug_0| brittany nicole| [person:brittany f 0-0][person:nicole f 1-1]
+nicole| Did you get invited to the Johnson s party| [person:brittany f 1-1][person:johnson m 6-6]
+brittany| I did You| [person:brittany f 0-0][person:nicole f 2-2]
+nicole| Sure did It s a housewarming party so we should bring a gift right| [person:we g(nicole:brittany) 8-8]
+brittany| I think that s the etiquette| [person:brittany f 0-0]
+brittany| Do you have any ideas| [person:nicole f 1-1]
+nicole| Ivan and Dorris have so much money I feel like they have everything| [person:ivan m 0-0][person:nicole f 7-7][person:they g(ivan) 10-10]
+brittany| Don t they like fancy food and drinks| [person:they g(ivan) 2-2]
+nicole| They do Is that something you can bring to a housewarming party| [person:they g(ivan) 0-0][person:we g(nicole:brittany) 5-5]
+brittany| I think so| [person:brittany f 0-0]
+nicole| How about a bottle of wine|
+brittany| They might be a lot of those though| [person:they g(ivan) 0-0]
+nicole| What about wine accessories|
+brittany| You think they need any| [person:nicole f 0-0][person:they g(ivan) 2-2]
+nicole| I actually overheard Ivan complain that they need a wine chiller| [person:nicole f 0-0][person:ivan m 3-3][person:they g(ivan) 6-6]
+brittany| That sounds like a good idea I ll check on amazon| [person:brittany f 6-6]
+nicole| Let s keep it under 50 and split the cost|
+brittany| Works for me| [person:brittany f 2-2]
+
+conv:people_2019080801_49:aug_0:chat_0:chataug_0| janet theresa| [person:janet f 0-0][person:theresa f 1-1]
+janet| Have you registered for next semester yet| [person:theresa f 1-1]
+theresa| No I was just thinking about this I just spoke to Denise and know she wants to register for the film class on Thursday mornings| [person:theresa f 1-1][person:theresa f 7-7][person:denise f 11-11][person:denise f 14-14]
+janet| That could work for me I also need a history class Are you taking any of those| [person:janet f 4-4][person:janet f 5-5][person:theresa f 12-12]
+theresa| I was thinking about taking an Egyptian history class on Friday afternoons| [person:theresa f 0-0]
+janet| I think I would like that| [person:janet f 0-0][person:janet f 2-2]
+theresa| I wanted to take an athletic class as well as I think I need to stay in shape Do you have any feelings about those| [person:theresa f 0-0][person:theresa f 10-10][person:theresa f 12-12][person:janet f 19-19]
+janet| Well you know I personally stay away from the gym But I believe Evelyn wanted to take a biking class on Tuesday mornings| [person:theresa f 1-1][person:janet f 3-3][location:gym s 9-9][person:janet f 11-11][person:evelyn f 13-13]
+theresa| Hmm that sounds great|
+theresa| Oh I almost forgot Jessica had been looking at a calculus class on Wednesday afternoons She wanted us all to sign up for that It works for me What about you| [person:theresa f 1-1][person:jessica f 4-4][person:jessica f 15-15][person:us g(janet:theresa:denise:evelyn) 17-17][person:theresa f 27-27][person:janet f 30-30]
+janet| Sure I d be able to do that| [person:janet f 1-1]
+theresa| That s good I think we ve got next semester all figured out then| [person:theresa f 3-3][person:we g(janet:theresa:denise:evelyn:jessica) 5-5]
+
+conv:people_2019080801_51:aug_0:chat_0:chataug_0| richard tom| [person:richard m 0-0][person:tom m 1-1]
+tom| Hello Richard| [person:richard m 1-1]
+richard| Tom How s it going buddy| [person:tom m 0-0][person:richard m 5-5]
+tom| Oh you know the usual| [person:richard m 1-1]
+tom| Let s get this poker event planned that we always talk about but never follow through with| [person:we g(tom:richard) 8-8]
+richard| I agree I haven t got together with friends in ahwile to play some poker| [person:richard m 0-0][person:richard m 2-2][person:friends g() 8-8]
+richard| Who should we invite| [person:we g(tom:richard) 2-2]
+tom| Obviously Malcom and Kyle they are both great to play cards with| [person:kyle m 3-3][person:they g(kyle) 4-4]
+richard| Yeah|
+richard| Susan and Kimberly are really into poker as well let s get them on the list| [person:susan f 0-0][person:kimberly f 2-2][person:them g(susan:kimberly) 12-12]
+tom| Excellent idea|
+tom| When and where|
+richard| How about my place on Friday around 8pm| [person:richard m 2-2][location:place s 3-3]
+tom| Say no more|
+tom| I ll send the invites out via text Let me know what you d like people to bring| [person:tom m 0-0][person:tom m 9-9][person:richard m 12-12]
+richard| Sounds great Talk to you then| [person:richard m 4-4]
+
+conv:people_2019080801_52:aug_0:chat_0:chataug_0| julia victoria| [person:julia f 0-0][person:victoria f 1-1]
+victoria| Hello|
+julia| Hey V It s Uncle and Aunty s anniversary What should we get them| [person:we g(victoria:julia) 11-11][person:them g() 13-13]
+victoria| Let s get them a coffee maker| [person:them g() 3-3]
+julia| Yeah They got up early to help us so that makes sense| [person:them g() 1-1][person:we g(victoria:julia) 7-7]
+victoria| They ve been helping us our whole life| [person:them g() 0-0][person:we g(victoria:julia) 4-4][person:we g(victoria:julia) 5-5]
+julia| Yesh they deserve an Irish Coffee maker at this point| [person:them g() 1-1]
+victoria| Let s do that then|
+julia| Or maybe we should just get them a huge bottle of Bourban| [person:we g(victoria:julia) 2-2][person:them g() 6-6]
+victoria| Remember when we were six and they took care of us when we were sick| [person:we g(victoria:julia) 2-2][person:them g() 6-6][person:we g(victoria:julia) 10-10][person:we g(victoria:julia) 12-12]
+julia| Yeah You puked on me LOL| [person:victoria f 1-1][person:julia f 4-4]
+victoria| Yeah you never will let that go| [person:julia f 1-1]
+victoria| See you later Julia| [person:julia f 1-1][person:julia f 3-3]
+
+conv:people_2019080801_56:aug_0:chat_0:chataug_0| cathy sam| [person:cathy f 0-0][person:sam m 1-1]
+cathy| Hello|
+sam| hello|
+sam| i need your help| [person:sam m 0-0][person:cathy f 2-2]
+cathy| We need to call to make an appointment| [person:we g(cathy:sam) 0-0]
+cathy| We need to call Ricky and Albert| [person:we g(cathy:sam) 0-0][person:ricky m 4-4][person:albert m 6-6]
+cathy| But when are you available to be home| [person:sam m 3-3][location:home s 7-7]
+sam| Call Ricky for me| [person:ricky m 1-1][person:ricky m 3-3]
+cathy| Dialing right now|
+cathy| He is coming tomorrow at 9 am Will you be home| [person:ricky m 0-0][person:sam m 8-8][location:home s 10-10]
+cathy| Hello|
+sam| thank you| [person:cathy f 1-1]
+sam| you have been helpful| [person:cathy f 0-0]
+cathy| I won t be home tomorrow| [person:cathy f 0-0][location:home s 4-4]
+sam| ok|
+sam| what will you be doing| [person:cathy f 2-2]
+cathy| Are you| [person:cathy f 1-1]
+cathy| I work tomorrow at 8 am| [person:cathy f 0-0]
+sam| Im going to a business meeting|
+cathy| Should we schedule them to come next week| [person:we g(cathy:sam) 1-1][person:them g(ricky:albert) 3-3]
+sam| yes we should| [person:we g(cathy:sam) 1-1]
+cathy| Great I will tell them to come next Tuesday at 10am| [person:cathy f 1-1][person:them g(ricky:albert) 4-4]
+sam| That sounds great|
+
+conv:people_2019080801_57:aug_0:chat_0:chataug_0| johnny julie| [person:johnny m 0-0][person:julie f 1-1]
+johnny| Hey Julie do you have any suggestions on some fun things to do with Kimberly and Cameron during their visit| [person:julie f 1-1][person:julie f 3-3][person:kimberly f 14-14][person:cameron f 16-16][person:their g(kimberly:cameron) 18-18]
+julie| Hey Johnny I was just trying to decide that myself when you hit me Do you think they d rather go to the museums on the north side of town or the concert later tonight| [person:johnny m 1-1][person:julie f 2-2][person:julie f 9-9][person:johnny m 11-11][person:julie f 13-13][person:johnny m 15-15][person:their g(kimberly:cameron) 17-17]
+johnny| I think the concernt tonight Since they re staying several days we could do the museum the next day| [person:johnny m 0-0][person:their g(kimberly:cameron) 6-6][person:we g(johnny:julie:kimberly:cameron) 11-11][location:museum s 15-15]
+julie| Sounds like a plan There s a good taco place right outside of the venue we could probably go there first and load up on margaritas Do you know what time their flight is to arrive| [location:place s 9-9][person:we g(johnny:julie:kimberly:cameron) 15-15][person:johnny m 27-27][person:their g(kimberly:cameron) 31-31]
+johnny| Kimberly said around noon That sounds like fun Let s do a day spa trip too Kimberly has been very stressed at work I think we could all use some relaxation Do you want to grill out one night| [person:kimberly f 0-0][person:kimberly f 16-16][person:johnny m 23-23][person:we g(johnny:julie) 25-25][person:julie f 32-32]
+julie| A spa trip would be excellent I m down Yeah Cameron said that Kimberly s new job is something else Grilling out would be fun like old days I recently got a projector should I bring that too| [person:julie f 6-6][person:cameron f 10-10][person:kimberly f 13-13][person:julie f 28-28][person:julie f 34-34]
+julie| For when we grill out I mean| [person:we g(johnny:julie:kimberly:cameron) 2-2][person:julie f 5-5]
+johnny| Yes personally memories would be a fun thing Do you have some with Cameron and Kimberly in it too They d love it| [person:julie f 9-9][person:cameron f 13-13][person:kimberly f 15-15][person:their g(kimberly:cameron) 19-19]
+julie| As a matter of fact I do I ve got some of everybody This is gonna be so fun Did they say how long they were going to be in town| [person:julie f 5-5][person:julie f 7-7][person:we g(johnny:julie) 12-12][person:their g(kimberly:cameron) 20-20][person:their g(kimberly:cameron) 24-24][location:town s 30-30]
+johnny| They re staying 4 nights Sounds like we have some fun activities and great meals worked out I m excited Let s get them at the airport at noon on Friday I can t wait to get started on spending time with great friends and making new memories See you Friday| [person:their g(kimberly:cameron) 0-0][person:we g(johnny:julie) 7-7][person:johnny m 17-17][person:their g(kimberly:cameron) 23-23][person:johnny m 31-31][person:their g(kimberly:cameron) 43-43]
+
+conv:people_2019080801_58:aug_0:chat_0:chataug_0| barbara carol| [person:barbara f 0-0][person:carol f 1-1]
+carol| Hey Barb You re still coming to dinner right| [person:barbara f 2-2]
+barbara| Of course I ll be there| [person:barbara f 2-2]
+carol| I m planning what to make You know everyone better than I do What does everyone like| [person:carol f 0-0][person:barbara f 6-6][person:everyone g(carol:barbara) 8-8][person:carol f 11-11][person:everyone g(carol:barbara) 15-15]
+barbara| Well I know that Jean and Andrea love Italian ever since they went to Italy last summer| [person:barbara f 1-1][person:jean f 4-4][person:andrea f 6-6][person:they g(jean:andrea) 11-11][location:italy s 14-14]
+carol| Ok and what about Diane| [person:diane f 4-4]
+barbara| Diane s absolute favorite is Mexican| [person:diane f 0-0]
+carol| Hmm those are completely different Maybe we can do multiple Mexican dishes for apps and Italian for the main course| [person:everyone g(carol:barbara:jean:andrea:diane) 6-6]
+barbara| I think that would be perfect How about a Mexican quiche as one of the apps and veggie lasagna for the main| [person:barbara f 0-0]
+carol| Oh I can make both of those Perfect And I ll make margaritas for predinner drinks and then have some nice wine choices for dinner| [person:carol f 1-1][person:carol f 9-9]
+barbara| Excellent Let me know what I can bring| [person:barbara f 2-2][person:barbara f 5-5]
+carol| Ok I will make a list and figure that out I m excited| [person:carol f 1-1][person:carol f 10-10]
+barbara| Great talk to you soon| [person:carol f 3-3]
+
+conv:people_2019080801_62:aug_0:chat_0:chataug_0| danielle diane| [person:danielle f 0-0][person:diane f 1-1]
+diane| Danielle do you have a moment| [person:danielle f 0-0][person:danielle f 2-2]
+danielle| Sure What s up|
+diane| My cousins are coming to visit this weekend| [person:diane f 0-0][person:cousins g() 1-1]
+danielle| Partick and Sherrie| [person:sherrie f 2-2]
+diane| Yeah|
+danielle| That s nice|
+diane| It is but a problem came up|
+danielle| What happened|
+diane| I m supposed to pick them up from Union Station but I have a work meeting| [person:diane f 0-0][person:cousins g(sherrie) 5-5][location:station s 9-9][person:diane f 11-11]
+danielle| Would you like me to pick them up| [person:diane f 1-1][person:danielle f 3-3][person:cousins g(sherrie) 6-6]
+diane| As long as you don t mind| [person:danielle f 3-3]
+danielle| Sure|
+diane| Can you bring them to lunch after I can pay| [person:danielle f 1-1][person:cousins g(sherrie) 3-3][person:diane f 7-7]
+danielle| Sounds nice to me How about condado| [person:danielle f 3-3]
+diane| They might like that But local is closer to the train station| [person:cousins g(sherrie) 0-0][location:train_station s 10-11]
+danielle| Local it is|
+danielle| Thanks again so much|
+
+conv:people_2019080801_63:aug_0:chat_0:chataug_0| edgar ronald| [person:edgar m 0-0][person:ronald m 1-1]
+edgar| Hi Ronald Do you want to go to the movies with Wayne| [person:ronald m 1-1][person:ronald m 3-3][person:wayne m 11-11]
+ronald| Can we bring Juan and Douglas too| [person:we g(edgar:ronald) 1-1][person:juan m 3-3][person:douglas m 5-5]
+edgar| Sure that would be great|
+ronald| What movie do you want to watch| [person:edgar m 3-3]
+edgar| Well Juan likes action movies| [person:juan m 1-1]
+ronald| I hear that Douglas likes Horror| [person:ronald m 0-0][person:douglas m 3-3]
+edgar| I m not a fan of horror but like action movies| [person:edgar m 0-0]
+ronald| How about the new Avengers movie|
+edgar| I hear it is very exciting| [person:edgar m 0-0]
+ronald| Let s do that I think the men will love it| [person:ronald m 4-4][person:men m 7-7]
+
+conv:people_2019080801_64:aug_0:chat_0:chataug_0| jack sharon| [person:jack m 0-0][person:sharon f 1-1]
+jack| hello|
+jack| What would your parents appreciate as a gift| [person:sharon f 2-2][person:parents g() 3-3]
+jack| Are you there Sharon| [person:sharon f 1-1][person:sharon f 3-3]
+jack| I was thinking that Martin and Lauren might like a bottle of wine as a gift| [person:jack m 0-0][person:martin m 4-4][person:lauren f 6-6]
+jack| Do they drink| [person:they g(martin:lauren) 1-1]
+sharon| Hello Jack| [person:jack m 1-1]
+sharon| Sorry for the wait|
+sharon| I was busy finding out if they drink| [person:sharon f 0-0][person:they g(martin:lauren) 6-6]
+sharon| Martin and Lauren do like wine so that could be a perfect gift| [person:martin m 0-0][person:lauren f 2-2]
+jack| Would they prefer red or white| [person:they g(martin:lauren) 1-1]
+sharon| They prefer red wine| [person:they g(martin:lauren) 0-0]
+jack| How about a Boujelais|
+sharon| They would love a Boujelais| [person:they g(martin:lauren) 0-0]
+jack| French wines are always nice|
+sharon| For sure The French know how to make their wine| [person:they g(martin:lauren) 8-8]
+jack| I will pick up a bottle this afternoon See you when I pick you up at 7 pm| [person:jack m 0-0][person:sharon f 9-9][person:jack m 11-11][person:sharon f 13-13]
+
+conv:people_2019080801_65:aug_0:chat_0:chataug_0| henry ralph| [person:henry m 0-0][person:ralph m 1-1]
+henry| So you remember that fishing trip that we re going on tomorrow| [person:ralph m 1-1][location:trip s 5-5][person:we g(henry:ralph) 7-7]
+ralph| Yep I m looking forward to it| [person:ralph m 1-1]
+henry| We need to organize the supplies We still haven t figured it out I know Kyle just got a new fishing pole so he can bring that| [person:we g(henry:ralph) 0-0][person:we g(henry:ralph) 6-6][person:henry m 13-13][person:kyle m 15-15][person:kyle m 23-23]
+ralph| OK I ve got lots of bait so I can supply that| [person:ralph m 1-1][person:ralph m 8-8]
+ralph| Also Jim was telling me that he did some shopping for the trip So I think he s got food covered| [person:jim m 1-1][person:ralph m 4-4][person:jim m 6-6][person:ralph m 14-14][person:jim m 16-16]
+henry| That sounds good What about insect reppelent does any one have that|
+ralph| Hmm I know Eddie always stocks up on those things I can ask him| [person:ralph m 1-1][person:eddie m 3-3][person:ralph m 10-10][person:eddie m 13-13]
+ralph| You still have that giant ice box that we stored the fish in right| [person:henry m 0-0][person:we g(henry:ralph:kyle:jim:eddie) 8-8]
+henry| Yeah I ll be bringing that| [person:henry m 1-1]
+ralph| Great sounds good So I think we ve got this all planned out| [person:ralph m 4-4][person:we g(henry:ralph:kyle:jim:eddie) 6-6]
+henry| Looks that way to me Thanks for the help| [person:henry m 4-4]
+
+conv:people_2019080801_66:aug_0:chat_0:chataug_0| cheryl christine| [person:cheryl f 0-0][person:christine f 1-1]
+christine| So where should we go| [person:we g(christine:cheryl) 3-3]
+christine| Hello|
+cheryl| how about we go out to dinner| [person:we g(christine:cheryl) 2-2]
+christine| How about dinner in Vegasw| [location:vegasw s 4-4]
+christine| That should be Vegas| [location:vegasw s 3-3]
+cheryl| that sounds amazing and fun|
+christine| Cool Kelly Susan and Samantha will be there| [person:kelly f 1-1][person:susan f 2-2][person:samantha f 4-4][location:vegasw s 7-7]
+cheryl| awesome sounds great|
+christine| Do you think we should book a room at the Belagio| [person:cheryl f 1-1][person:we g(christine:cheryl) 3-3][location:belagio s 10-10]
+christine| Hey are you there Cheryl| [person:cheryl f 2-2][person:cheryl f 4-4]
+cheryl| o yes lets do it up|
+christine| Gret I ll look for a suite with a fullystocked bar You know what a boozer Sam is| [person:christine f 1-1][person:cheryl f 11-11][person:samantha f 16-16]
+cheryl| sounds great looking forward to the trip|
+christine| Me to I m sure the rest of them are too| [person:christine f 0-0][person:christine f 2-2][person:them g(kelly:susan:samantha) 8-8]
+
+conv:people_2019080801_67:aug_0:chat_0:chataug_0| david ryan| [person:david m 0-0][person:ryan m 1-1]
+david| Ryan I really hate you could not join us for this fabulous trip| [person:ryan m 0-0][person:david m 1-1][person:ryan m 4-4][person:us g(david) 8-8][location:trip s 12-12]
+ryan| Same here I am so jealous of you and the others I know everything was great and I am sorry I could not go| [person:ryan m 2-2][person:david m 7-7][person:others g() 10-10][person:ryan m 11-11][person:ryan m 17-17][person:ryan m 20-20]
+ryan| What are some of the things you did| [person:david m 6-6]
+david| Well we spent most of our days on the beach soaking up the sun and watching the beach babes The weather was fabulous| [person:us g(david) 1-1][person:us g(david) 5-5][location:beach s 9-9][location:beach s 17-17]
+david| At night we took advantage of the night life and visited some of the popular restaurants and night spots| [person:us g(david) 2-2][location:restaurants g() 15-15]
+ryan| I bet Roger Marcus and Logan enjoyed all that excitement| [person:ryan m 0-0][person:roger m 2-2][person:marcus m 3-3][person:logan m 5-5]
+david| We hope to go again soon and you really have to join us this time| [person:us g(david:roger:marcus:logan) 0-0][person:ryan m 7-7][person:us g(david:roger:marcus:logan) 12-12]
+ryan| Your week was definitely more fun than mine was and I will try to get off from work and go the next time| [person:david m 0-0][person:ryan m 7-7][person:ryan m 10-10]
+david| Take care and I will speak with you again soon| [person:david m 3-3][person:ryan m 7-7]
+ryan| Same to you maybe we can hook up later in the week for a drink| [person:david m 2-2][person:we g(david:ryan:roger:marcus:logan) 4-4]
+
+conv:people_2019080801_71:aug_0:chat_0:chataug_0| darren malcolm| [person:darren m 0-0][person:malcolm m 1-1]
+darren| Hey Malcolm how are you| [person:malcolm m 1-1][person:malcolm m 4-4]
+malcolm| Hi Darren not bad Yourself| [person:darren m 1-1][person:darren m 4-4]
+darren| Pretty good my friend Hey I was meaning to ask you some friends of mine will be visiting New York City soon do you think you could ahow them around a bit| [person:darren m 2-2][person:malcolm m 3-3][person:darren m 5-5][person:malcolm m 10-10][person:friends g() 12-12][person:darren m 14-14][person:malcolm m 23-23][person:malcolm m 25-25]
+malcolm| Sure man Send them my way What are they into| [person:friends g() 3-3][person:malcolm m 4-4][person:friends g() 8-8]
+darren| Well Darren is very much into sports basketball in particular Bruce is an artist| [person:darren m 1-1][person:bruce m 10-10]
+malcolm| Awesome I know just where to take them We ll catch a Knicks game at the Garden and visit the Guggenheim museum They ll have a great time| [person:malcolm m 1-1][person:friends g(darren:bruce) 7-7][person:we g(malcolm:darren:bruce) 8-8][location:museum s 21-21][person:friends g(darren:bruce) 22-22]
+darren| That sounds right up their alley I will give them your number if that s alright| [person:friends g(darren:bruce) 4-4][person:darren m 6-6][person:friends g(darren:bruce) 9-9][person:malcolm m 10-10]
+malcolm| Of course I will await their call Tell them to contact me with any questions as well| [person:malcolm m 2-2][person:friends g(darren:bruce) 5-5][person:friends g(darren:bruce) 8-8][person:malcolm m 11-11]
+darren| Thank you so much Malcolm| [person:malcolm m 1-1][person:malcolm m 4-4]
+malcolm| No problem bud We ll be in touch| [person:we g(darren:malcolm) 3-3]
+
+conv:people_2019080801_72:aug_0:chat_0:chataug_0| jose paul| [person:jose m 0-0][person:paul m 1-1]
+jose| Hey do you want to get dinner tomorrow| [person:paul m 2-2]
+paul| that sounds like fun|
+jose| you want to cook or eat out| [person:paul m 0-0]
+paul| let s eat out so we can cruise around town a bit too| [person:we g(jose:paul) 5-5][location:town s 9-9]
+jose| all righty|
+paul| I want to invite Sandra and larry too| [person:paul m 0-0][person:sandra f 4-4][person:larry m 6-6]
+jose| I am fine with that| [person:jose m 0-0]
+paul| I know what restaurant they like what about you any idea or objection or choices| [person:paul m 0-0][location:restaurant s 3-3][person:they g(sandra:larry) 4-4][person:jose m 8-8]
+jose| I am easy with restaurant choice| [person:jose m 0-0][location:restaurant s 4-4]
+paul| let s all go to zippy and get some local food|
+jose| sounds like a plan|
+jose| can you make the reservation| [person:paul m 1-1]
+paul| Yes I will| [person:paul m 1-1]
+
+conv:people_2019080801_73:aug_0:chat_0:chataug_0| christian rafael| [person:christian m 0-0][person:rafael m 1-1]
+christian| Hey Rafael| [person:rafael m 1-1]
+rafael| Yeah what is going on|
+christian| I was thinking where we should invite Jose Benjamin Harry and Steve| [person:christian m 0-0][person:we g(christian:rafael) 4-4][person:jose m 7-7][person:benjamin m 8-8][person:harry m 9-9][person:steve m 11-11]
+rafael| Same here I was thinking the same thing as well| [person:rafael m 2-2]
+christian| Where do you think is the best place to invite them| [person:rafael m 2-2][location:place s 7-7][person:them g(jose:benjamin:harry:steve) 10-10]
+rafael| I am not sure When are they coming to town| [person:rafael m 0-0][person:them g(jose:benjamin:harry:steve) 6-6][location:town s 9-9]
+christian| They get here by next Friday| [person:them g(jose:benjamin:harry:steve) 0-0][location:town s 2-2]
+rafael| Great I think we should take them out to Venice Beach and later to meet with everyone at your birthday| [person:rafael m 1-1][person:we g(christian:rafael) 3-3][person:them g(jose:benjamin:harry:steve) 6-6][location:beach s 10-10][person:everyone g() 16-16][person:christian m 18-18]
+christian| Right I think that is a great idea| [person:christian m 1-1]
+rafael| I think we should do that It will be great for Jose Benjamin Harry and Steve| [person:rafael m 0-0][person:we g(christian:rafael) 2-2][person:jose m 11-11][person:benjamin m 12-12][person:harry m 13-13][person:steve m 15-15]
+christian| That way they can all meet the family again It has been a long time since we all met each other| [person:them g(jose:benjamin:harry:steve) 2-2][person:family g() 7-7][person:we g(christian:rafael:jose:benjamin:harry:steve) 16-16]
+
+conv:people_2019080801_74:aug_0:chat_0:chataug_0| eva josh| [person:eva f 0-0][person:josh m 1-1]
+josh| Hey Eva Remember we are going to the Bryant s for lunch tomorrow| [person:eva f 1-1][person:we g(josh:eva) 3-3][person:bryant m 8-8]
+eva| I know But Harry is arriving tomorrow I don t know what to do| [person:eva f 0-0][person:harry m 3-3][person:eva f 7-7]
+josh| Oh that s bad timing|
+eva| Yes it is Do you think they would mind if I invited him along| [person:josh m 4-4][person:they g(bryant:harry) 6-6][person:josh m 10-10][person:bryant m 12-12]
+josh| Not at all Especially if you explained the situation to them You haven t seen your cousin in a long time| [person:eva f 5-5][person:them g(bryant:harry) 10-10][person:eva f 11-11][person:eva f 15-15][person:harry m 16-16]
+eva| Okay maybe I will then I wonder if he d even want to come| [person:eva f 2-2][person:eva f 5-5][person:harry m 8-8]
+josh| Harry enjoys anything that involves food I m sure he d have a good time| [person:harry m 0-0][person:josh m 6-6][person:harry m 9-9]
+eva| Yeah but they like strange world cuisine and Harry is more of a meat and potoatoes kind of guy| [person:they g(bryant:harry) 2-2][person:harry m 8-8]
+josh| We ll stop by In n Out on the way so he can fill up just in case Maybe I ll get myself a Double Double as well| [person:we g(josh:eva) 0-0][person:harry m 11-11][person:josh m 19-19][person:josh m 22-22]
+eva| Okay I ll call the Bryant s and ask if I can invite him| [person:eva f 1-1][person:bryant m 5-5][person:eva f 10-10][person:harry m 13-13]
+josh| I m sure they ll be fine with it Okay sounds good| [person:josh m 0-0][person:they g(bryant:harry) 3-3]
+
+conv:people_2019080801_76:aug_0:chat_0:chataug_0| albert evan| [person:albert m 0-0][person:evan m 1-1]
+albert| Hey Evan| [person:evan m 1-1]
+albert| How are you doing| [person:evan m 2-2]
+evan| Pretty well How are you Still coming to town| [person:albert m 4-4][location:town s 8-8]
+albert| I am well thank you Yes I am coming next week and I was thinking of getting your parents a gift They have always been good to me| [person:albert m 0-0][person:evan m 4-4][person:albert m 6-6][person:albert m 12-12][person:evan m 17-17][person:parents g() 18-18][person:parents g() 21-21][person:albert m 27-27]
+albert| Any ideas on what I can get them| [person:albert m 4-4][person:parents g() 7-7]
+evan| Great Well they always have loved New York any little trinkets that you could pick up for Brandon and Theresa they would love I m sure| [person:parents g() 2-2][location:new_york s 6-7][person:albert m 12-12][person:brandon m 17-17][person:theresa f 19-19][person:parents g(brandon:theresa) 20-20][person:evan m 23-23]
+albert| Does Brandon like whiskey| [person:brandon m 1-1]
+albert| I was thinking whiskey for Brandon and a nice bottle of wine for Theresa| [person:albert m 0-0][person:brandon m 5-5][person:theresa f 13-13]
+evan| He sure does| [person:brandon m 0-0]
+evan| That would be fantastic They re doing pretty well by the way| [person:parents g(brandon:theresa) 4-4]
+albert| Awesome Thank you so much for the help and pass my regards to them| [person:evan m 2-2][person:albert m 10-10][person:parents g(brandon:theresa) 13-13]
+evan| Absolutely We re all looking forward to seeing you| [person:we g(evan:brandon:theresa) 1-1][person:albert m 8-8]
+
+conv:people_2019080801_79:aug_0:chat_0:chataug_0| eddie harold| [person:eddie m 0-0][person:harold m 1-1]
+harold| hey Eddie| [person:eddie m 1-1]
+eddie| Hello Harold how are you| [person:harold m 1-1][person:harold m 4-4]
+harold| are you set for the game next week| [person:eddie m 1-1]
+eddie| Yeah Aaron informed me he will be available from 6pm| [person:aaron m 1-1][person:eddie m 3-3][person:aaron m 4-4]
+harold| The court won t be available at that time|
+harold| but we can play at stephan s place as it is available| [person:we g(harold:eddie:aaron) 1-1][person:stephan m 5-5][location:place s 7-7][location:place s 9-9]
+eddie| won t that be too far for you| [person:harold m 7-7]
+harold| Yeah it s a bit far but i ll try my beat to be there on time| [location:place s 1-1][person:harold m 7-7][person:harold m 10-10][location:place s 14-14]
+eddie| Okay then let me inform Aaron| [person:eddie m 3-3][person:aaron m 5-5]
+harold| Okay then see you there| [person:eddie m 3-3][location:place s 4-4]
+eddie| see you there too| [person:harold m 1-1][location:place s 2-2]
+
+conv:people_2019080801_81:aug_0:chat_0:chataug_0| martin timothy| [person:martin m 0-0][person:timothy m 1-1]
+timothy| you Martin what is up homie| [person:martin m 0-0][person:martin m 1-1]
+timothy| It ihas been so long|
+timothy| i have exciting news| [person:timothy m 0-0]
+martin| What is the news|
+martin| and whats up I miss you| [person:martin m 3-3][person:timothy m 5-5]
+timothy| I am going to be on Jeopardy| [person:timothy m 0-0]
+timothy| It is real|
+timothy| i Swear| [person:timothy m 0-0]
+martin| no way|
+martin| I thought I heard that but didn t believe it| [person:martin m 0-0][person:martin m 2-2]
+martin| you are as smart as a box of rocks lol| [person:timothy m 0-0]
+timothy| I am bringing one person| [person:timothy m 0-0]
+timothy| I was hoping it was you| [person:timothy m 0-0][person:martin m 5-5]
+timothy| so you can teach me how to learn| [person:martin m 1-1][person:timothy m 4-4]
+martin| will do|
+martin| I am excited| [person:martin m 0-0]
+
+conv:people_2019080801_83:aug_0:chat_0:chataug_0| jack pete| [person:jack m 0-0][person:pete m 1-1]
+jack| Pete what is up homie| [person:pete m 0-0]
+pete| Jack my dude| [person:jack m 0-0][person:pete m 1-1]
+pete| not much whats up with you| [person:jack m 5-5]
+jack| not much|
+jack| its been so long since I have seen you| [person:jack m 5-5][person:pete m 8-8]
+jack| I am about to play soccer with Philip and Rusell| [person:jack m 0-0][person:philip m 7-7][person:rusell m 9-9]
+jack| you want to come| [person:pete m 0-0]
+pete| I am not sure I kind of suck at soccer| [person:pete m 0-0][person:pete m 4-4]
+pete| but could use the practice|
+jack| Come on man|
+jack| It will be so fun|
+jack| who care if you suck you need to practice and it will be great| [person:pete m 3-3][person:pete m 5-5]
+pete| Ok sounds good|
+pete| I will be there| [person:pete m 0-0]
+pete| thanks for the motivation|
+
+conv:people_2019080801_84:aug_0:chat_0:chataug_0| ellen samantha| [person:ellen f 0-0][person:samantha f 1-1]
+ellen| I need you to pick up Patrick and Denise| [person:ellen f 0-0][person:samantha f 2-2][person:patrick m 6-6][person:denise f 8-8]
+samantha| That is fine with me| [person:samantha f 4-4]
+ellen| Can you take them out| [person:samantha f 1-1][person:them g(patrick:denise) 3-3]
+samantha| sure where to|
+ellen| Just take them to lunch| [person:them g(patrick:denise) 2-2]
+samantha| what do they like| [person:them g(patrick:denise) 2-2]
+ellen| They are Italian fans| [person:them g(patrick:denise) 0-0]
+samantha| Maybe pizza then|
+ellen| Yes that will be good|
+samantha| Sure Union Station rightj| [location:station s 2-2]
+ellen| Yes that is correct|
+samantha| I will get them and take them for pizza| [person:samantha f 0-0][person:them g(patrick:denise) 3-3][person:them g(patrick:denise) 6-6]
+ellen| Thanks I am very busy| [person:ellen f 1-1]
+
+conv:people_2019080801_87:aug_0:chat_0:chataug_0| chloe eva| [person:chloe f 0-0][person:eva f 1-1]
+eva| Hey Chloe I wanted to host a dinner party tonight Would you be interested| [person:chloe f 1-1][person:eva f 2-2][person:chloe f 11-11]
+chloe| Eva you know I am always down to party Who were you thinking to invite| [person:eva f 0-0][person:eva f 1-1][person:chloe f 3-3][person:eva f 11-11]
+eva| I was going to invite Tiffany Margaret and Cynthia Are you cool with that| [person:eva f 0-0][person:tiffany f 5-5][person:margaret f 6-6][person:cynthia f 8-8][person:chloe f 10-10]
+chloe| Of course I am I love those girls What are you cooking| [person:chloe f 2-2][person:chloe f 4-4][person:eva f 10-10]
+eva| That is what I needed to ask you I am not really sure what they like to eat| [person:eva f 3-3][person:chloe f 7-7][person:eva f 8-8][person:girls_to_be_invited g(tiffany:margaret:cynthia) 14-14]
+chloe| Tiffany and Cynthia like Italian food the most while Margaret likes Mexican food| [person:tiffany f 0-0][person:cynthia f 2-2][person:margaret f 9-9]
+eva| Well I have no issue going half and half on both of those| [person:eva f 1-1]
+chloe| Variety is good I can even help you if you d like| [person:chloe f 3-3][person:eva f 7-7][person:eva f 9-9]
+eva| Yes That would be great This will be a lot of work|
+chloe| Awesome What time should I be there| [person:chloe f 4-4][location:there u 6-6]
+eva| Come here at 5 p m We can pre drink as well Hahah| [location:there u 1-1][person:eva_and_chloe g(eva:chloe) 6-6]
+chloe| Sounds like an awesome plan to me See you soon| [person:chloe f 6-6][person:eva f 8-8]
+
+conv:people_2019080801_88:aug_0:chat_0:chataug_0| caroline sam| [person:caroline f 0-0][person:sam m 1-1]
+sam| Hi caroline| [person:caroline f 1-1]
+caroline| Hi sam| [person:sam m 1-1]
+sam| I heard you were getting together with Joe| [person:sam m 0-0][person:caroline f 2-2][person:joe m 7-7]
+caroline| Yes|
+sam| I would like to join you| [person:sam m 0-0][person:caroline f 5-5]
+caroline| Sounds good|
+sam| I would like my friend Nick to join us as well| [person:sam m 0-0][person:sam m 3-3][person:nick m 4-4][person:nick m 5-5][person:us g(sam:caroline) 8-8]
+caroline| Do you think he and Joe would get along| [person:sam m 1-1][person:nick m 3-3][person:joe m 5-5]
+sam| Yes I think they would like each other| [person:sam m 1-1][person:they g(joe:nick) 3-3]
+caroline| Ok Invite him along| [person:nick m 2-2]
+sam| Sounds good Will do|
+caroline| Ok See you then| [person:sam m 2-2]
+sam| Looking forward to it|
+sam| Me too| [person:sam m 0-0]
+caroline| Have a good night|
+sam| You too| [person:caroline f 0-0]
+
+conv:people_2019080801_89:aug_0:chat_0:chataug_0| abigail sophia| [person:abigail f 0-0][person:sophia f 1-1]
+sophia| I can t wait to get to Los Angeles and see you It s been so long| [person:sophia f 0-0][location:los_angeles s 7-8][person:abigail f 11-11]
+abigail| I know I m so excited too The whole gang wants to meet you when you re here| [person:abigail f 0-0][person:abigail f 2-2][person:sophia f 13-13][person:sophia f 15-15][location:los_angeles s 17-17]
+sophia| That sounds fun Maybe we should plan a dinner| [person:we g(sophia:abigail) 4-4]
+abigail| OK I like that idea There will be five of us total| [person:abigail f 1-1][person:us g(sophia:abigail) 10-10]
+sophia| Wow Five Who all is going to be there|
+abigail| Well the two of us Then Ethan Chloe and Pedro all want to come| [person:us g(sophia:abigail) 4-4][person:ethan m 6-6][person:chloe f 7-7][person:pedro m 9-9]
+sophia| OK Do you have any thoughts on where we can go I m hungry from some good sushi| [person:abigail f 2-2][person:us g(sophia:abigail:ethan:chloe:pedro) 8-8][person:sophia f 11-11]
+abigail| Well you re in luck I know the best sushi restaurant in Los Angeles| [person:sophia f 1-1][person:abigail f 5-5][location:restaurant s 10-10][location:los_angeles s 12-13]
+sophia| I can always count on you to know the best places lol Hopefully everyone else can join us I think tomorrow night would work best| [person:sophia f 0-0][person:abigail f 5-5][location:places g() 10-10][person:everyone g(ethan:chloe:pedro) 13-13][person:we g(sophia:abigail) 17-17][person:sophia f 18-18]
+abigail| Oh I just remembered that Ethan won t want to drive that far He hates Los Angeles traffic| [person:abigail f 1-1][person:ethan m 5-5][person:ethan m 13-13][location:los_angeles s 15-16]
+sophia| Well I don t want to leave him out Is there somewhere else we can go that s closer to his house| [person:sophia f 1-1][person:ethan m 7-7][location:there u 10-10][person:us g(sophia:abigail:ethan:chloe:pedro) 13-13][person:ethan m 20-20][location:house s 21-21]
+abigail| Yep It just happens that the 2nd best sushi place is two blocks from his house lol| [location:place s 9-9][person:ethan m 14-14]
+sophia| Perfect That sounds like a great plan|
+
+conv:people_2019080801_90:aug_0:chat_0:chataug_0| noah stella| [person:noah m 0-0][person:stella f 1-1]
+stella| Noah I hate to do this to you but I need a favor Can you please help me| [person:noah m 0-0][person:stella f 1-1][person:noah m 7-7][person:stella f 9-9][person:noah m 14-14][person:stella f 17-17]
+noah| Stella you know I would do anything for you What can I help you with| [person:stella f 0-0][person:stella f 1-1][person:noah m 3-3][person:stella f 8-8][person:noah m 11-11][person:stella f 13-13]
+stella| My parents are visiting her but I am stuck at work and cannot go to pick them up Can you please get them| [person:stella f 0-0][person:parents g() 1-1][person:her f 4-4][person:stella f 6-6][person:parents g() 16-16][person:noah m 19-19][person:parents g() 22-22]
+noah| Sure I have no issue with that They are probably hungry What can I buy them| [person:noah m 1-1][person:parents g() 7-7][person:noah m 13-13][person:parents g() 15-15]
+stella| George loved American and Italian food while Martha will just about anything| [person:george m 0-0][person:martha f 7-7]
+noah| I can get them burgers from Five Guys You can t go wrong with that can also take them to Bronx Burger They have great reviews| [person:noah m 0-0][person:parents g(george:martha) 3-3][person:stella f 8-8][person:parents g(george:martha) 18-18][location:bronx s 20-20][person:parents g(george:martha) 22-22]
+stella| Noah you re amazing Either one of those will do I owe you| [person:noah m 0-0][person:noah m 1-1][person:stella f 10-10][person:noah m 12-12]
+noah| It is no problem at all You mean a lot to me and I would do anything for you I am excited to meet your parents| [person:stella f 6-6][person:noah m 11-11][person:noah m 13-13][person:stella f 18-18][person:noah m 19-19][person:stella f 24-24][person:parents g(george:martha) 25-25]
+stella| Great well let me know when you pick them up I will text you the code to my garage| [person:stella f 3-3][person:noah m 6-6][person:parents g(george:martha) 8-8][person:stella f 10-10][person:noah m 13-13][person:stella f 17-17]
+noah| Ok will do I will see you soon| [person:noah m 3-3][person:stella f 6-6]
+
+conv:people_2019080801_91:aug_0:chat_0:chataug_0| judith virginia| [person:judith f 0-0][person:virginia f 1-1]
+judith| Hey Virginia| [person:virginia f 1-1]
+virginia| I am glad we had them here for us when we moved here| [person:virginia f 0-0][person:we g(judith:virginia) 3-3][person:them g() 5-5][location:here u 6-6][person:we g(judith:virginia) 8-8][person:we g(judith:virginia) 10-10][location:here u 12-12]
+judith| I know I don t know what I would have done otherwise| [person:judith f 0-0][person:judith f 2-2][person:judith f 7-7]
+virginia| It is nice to see them again at their anniversary| [person:them g() 5-5][person:them g() 8-8]
+judith| Yeah I m a bad niece for not seeing them more often| [person:judith f 1-1][person:them g() 9-9]
+virginia| Yes I had not talked to them in the last several months| [person:virginia f 1-1][person:them g() 6-6]
+judith| It s only a 20 minute train ride away|
+judith| Remember how scared we were when we first got here| [person:we g(judith:virginia) 3-3][person:we g(judith:virginia) 6-6][location:here u 9-9]
+virginia| we should go see them more often| [person:we g(judith:virginia) 0-0][person:them g() 4-4]
+virginia| yes it was frightning|
+judith| And Uncle Wayne took us to Yankee Stadium to make us feel better That was so cool| [person:wayne m 2-2][person:we g(judith:virginia) 4-4][location:stadium s 7-7][person:we g(judith:virginia) 10-10]
+virginia| yes i remember that the yankees won| [person:virginia f 1-1]
+judith| Don t they always haha Well let s hit the bar what do you say| [location:bar s 10-10][person:virginia f 13-13]
+virginia| i am all in see you later| [person:virginia f 0-0][person:judith f 5-5]
+
+conv:people_2019080801_92:aug_0:chat_0:chataug_0| david wilson| [person:david m 0-0][person:wilson m 1-1]
+david| Hey Wil how you doing| [person:wilson m 3-3]
+wilson| David What s up man| [person:david m 0-0]
+david| Not much man I wanted to invite you and Mary for lunch to thank you for finding me the apartment| [person:david m 3-3][person:wilson m 7-7][person:mary f 9-9][person:wilson m 14-14][person:david m 17-17]
+wilson| Oh man you don t have to do that it was really nothing| [person:david m 2-2]
+david| I know I don t have to but I want to Plus you two can see how nice the place looks now| [person:david m 0-0][person:david m 2-2][person:david m 8-8][person:wilson m 12-12]
+wilson| Alright but nothing fancy Plus you know I work late and Mary is taking a class on Saturdays| [person:david m 5-5][person:wilson m 7-7][person:mary f 11-11]
+david| What about after her class What time does it end| [person:mary f 3-3]
+wilson| She usually gets home around 1pm| [person:mary f 0-0]
+david| Ok so it ll be a late lunch Come over around 2pm I ll cook some pasta and we ll have a nice bottle of wine nothing fancy| [person:david m 12-12][person:we g(david:wilson:mary) 18-18]
+wilson| Hmm that does sound good Let me tell Mary and I ll confirm this afternoon ok| [person:wilson m 6-6][person:mary f 8-8][person:wilson m 10-10]
+david| Alright sure But tell her I won t take no for an answer| [person:mary f 4-4][person:david m 5-5]
+wilson| Will do Speak to you later| [person:david m 4-4]
+david| Later|
+
+conv:people_2019080801_93:aug_0:chat_0:chataug_0| adam ben| [person:adam m 0-0][person:ben m 1-1]
+ben| Adam I miss you so much| [person:adam m 0-0][person:ben m 1-1][person:adam m 3-3]
+adam| Adam whats up| [person:adam m 0-0]
+adam| lets hang out soon it has been too long|
+ben| I agree| [person:ben m 0-0]
+ben| I heard Dnaiel and Robert are planning to go on a trip| [person:ben m 0-0][person:robert m 4-4]
+ben| to the movies|
+adam| I heard that too| [person:adam m 0-0]
+adam| Douglas wants to go and Robert said yea but I am not sure anymore| [person:douglas m 0-0][person:robert m 5-5][person:adam m 9-9]
+ben| yea i was worried that would happen| [person:ben m 1-1]
+ben| lets not let it get to us though| [person:us g(ben:adam) 6-6]
+ben| lets go to a good movie|
+ben| what do you say| [person:adam m 2-2]
+adam| OK I will get over it as long as you sit by me| [person:adam m 1-1][person:ben m 9-9][person:adam m 12-12]
+adam| deal|
+
+conv:people_2019080801_94:aug_0:chat_0:chataug_0| christian rafael| [person:christian m 0-0][person:rafael m 1-1]
+christian| Hey Rafael| [person:rafael m 1-1]
+rafael| Yeah what is going on|
+christian| I was thinking where we should invite Jose Benjamin Harry and Steve| [person:christian m 0-0][person:we g(christian:rafael) 4-4][person:jose m 7-7][person:benjamin m 8-8][person:harry m 9-9][person:steve m 11-11]
+rafael| Same here I was thinking the same thing as well| [person:rafael m 2-2]
+christian| Where do you think is the best place to invite them| [person:rafael m 2-2][location:place s 7-7][person:them g(jose:benjamin:harry:steve) 10-10]
+rafael| I am not sure When are they coming to town| [person:rafael m 0-0][person:them g(jose:benjamin:harry:steve) 6-6][location:town s 9-9]
+christian| They get here by next Friday| [person:them g(jose:benjamin:harry:steve) 0-0][location:town s 2-2]
+rafael| Great I think we should take them out to Venice Beach and later to meet with everyone at your birthday| [person:rafael m 1-1][person:we g(christian:rafael) 3-3][person:them g(jose:benjamin:harry:steve) 6-6][location:beach s 10-10][person:christian m 18-18]
+christian| Right I think that is a great idea| [person:christian m 1-1]
+rafael| I think we should do that It will be great for Jose Benjamin Harry and Steve| [person:rafael m 0-0][person:we g(christian:rafael) 2-2][person:jose m 11-11][person:benjamin m 12-12][person:harry m 13-13][person:steve m 15-15]
+christian| That way they can all meet the family again It has been a long time since we all met each other| [person:them g(jose:benjamin:harry:steve) 2-2][person:family g() 7-7][person:we g(christian:rafael:jose:benjamin:harry:steve) 16-16]
+
+conv:people_2019080801_95:aug_0:chat_0:chataug_0| caroline shirley| [person:caroline f 0-0][person:shirley f 1-1]
+caroline| hello caroline| [person:caroline f 1-1]
+shirley| hey shirley what is up| [person:shirley f 1-1]
+shirley| We going to Boston or what| [person:we g(caroline:shirley) 0-0][location:boston s 3-3]
+caroline| heck yea|
+caroline| we started planning| [person:we g(caroline:shirley) 0-0]
+caroline| it wasn t for nothing|
+shirley| that is what i like to hear I heard Heather visited Boston and loved it| [person:shirley f 3-3][person:shirley f 7-7][person:heather f 9-9][location:boston s 11-11]
+shirley| I will ask her what her favorite thing was| [person:shirley f 0-0][person:heather f 3-3][person:heather f 5-5]
+caroline| that sounds so good to me| [person:caroline f 5-5]
+caroline| let get something in the books|
+caroline| what do you say| [person:shirley f 2-2]
+shirley| There is so much history there| [location:boston s 5-5]
+shirley| lets visit it all|
+
+conv:people_2019080801_97:aug_0:chat_0:chataug_0| alan sophia| [person:alan m 0-0][person:sophia f 1-1]
+alan| Hi Sophia I can t wait for my party| [person:sophia f 1-1][person:alan m 2-2][person:alan m 7-7]
+alan| Can you contact Chloe and see if she made the reservation I asked her to| [person:sophia f 1-1][person:chloe f 3-3][person:chloe f 7-7][person:alan m 11-11][person:chloe f 13-13]
+sophia| Sure hasn t she gotten in touch with you about it| [person:chloe f 3-3][person:alan m 8-8]
+alan| No I haven t heard back from her in a week| [person:alan m 1-1][person:chloe f 7-7]
+sophia| I m going to meet her right now I ll ask her| [person:sophia f 0-0][person:chloe f 5-5][person:sophia f 8-8][person:chloe f 11-11]
+alan| Great tell her that I said hi to her| [person:chloe f 2-2][person:alan m 4-4][person:chloe f 8-8]
+sophia| Sure she says hi back She said she left her phone at home so she couldn t call you| [person:chloe f 1-1][person:chloe f 5-5][person:chloe f 7-7][person:chloe f 9-9][location:home s 12-12][person:chloe f 14-14][person:alan m 18-18]
+alan| Oh that makes sense Did she make the reservation| [person:chloe f 5-5]
+sophia| Yes she made the reservation for the party| [person:chloe f 1-1]
+alan| That is terrific I can t wait for the party| [person:alan m 3-3]
+sophia| Me too I can t wait for the party as well It is exciting| [person:sophia f 0-0][person:sophia f 2-2]
+
+conv:people_2019080801_98:aug_0:chat_0:chataug_0| angela noah| [person:angela f 0-0][person:noah m 1-1]
+noah| hello Angela| [person:angela f 1-1]
+angela| hello Noah how was your day| [person:noah m 1-1][person:noah m 4-4]
+noah| my day was great how about you| [person:noah m 0-0][person:angela f 6-6]
+angela| Was good How are we going to go about the gardening issue| [person:we g(noah:angela) 4-4]
+noah| I feel we should talk to Laura for some Gardening tips| [person:noah m 0-0][person:we g(noah:angela) 2-2][person:laura f 6-6]
+angela| Yeah that was my thought too but you know we are still new here and we ain t close to the Anderson s| [person:angela f 3-3][person:noah m 7-7][person:we g(noah:angela) 9-9][person:we g(noah:angela) 15-15][person:anderson u 21-21]
+noah| We can give it a try and see if Laura will help us| [person:we g(noah:angela) 0-0][person:laura f 9-9][person:us g(noah:angela) 12-12]
+angela| Lets approach her and see if she will share any tips| [person:laura f 2-2][person:laura f 6-6]
+noah| Lets be positive i know she will help us out| [person:noah m 3-3][person:laura f 5-5][person:us g(noah:angela) 8-8]
+angela| How do we make the first move| [person:we g(noah:angela) 2-2]
+noah| we can befriend her Laura first| [person:we g(noah:angela) 0-0][person:laura f 3-3][person:laura f 4-4]
+angela| that s a good idea let me see if it will work| [person:angela f 6-6]
+
+conv:people_2019080801_99:aug_0:chat_0:chataug_0| danielle stephanie| [person:danielle f 0-0][person:stephanie f 1-1]
+danielle| Hey Stephanie| [person:stephanie f 1-1]
+stephanie| Hey Danielle You excited for the Smith s dinner| [person:danielle f 1-1][person:danielle f 2-2][person:smith m 6-6]
+danielle| You bet Do you think we should bring something to the dinner| [person:stephanie f 0-0][person:stephanie f 3-3][person:we g(danielle:stephanie) 5-5]
+stephanie| How about some beer for the drinks and pastries for a dessert|
+danielle| Sounds good What kind of beer does Tom and Leslie enjoy| [person:tom m 7-7][person:leslie f 9-9]
+stephanie| I m pretty sure they love Dogfish Head IPA so let s get that How about pastries though| [person:stephanie f 0-0][person:they g(tom:leslie) 4-4]
+danielle| We could get those famous assorted eclairs from that bakery we went to over in the downtown area| [person:we g(danielle:stephanie) 0-0][location:bakery s 9-9][person:we g(danielle:stephanie) 10-10][location:downtown s 16-16]
+stephanie| Yes that would be perfect I might not have time after work though to get ready as well as get the pasties Do you mind getting them| [person:stephanie f 5-5][person:danielle f 23-23][person:they g(tom:leslie) 26-26]
+danielle| Of course not I ll get the pastries then and we can just get the beer at the liquor store on the way to the Smith s house| [person:danielle f 3-3][person:we g(danielle:stephanie) 10-10][person:smith m 25-25]
+stephanie| Okay that s the plan then you ll grab the pastries and we ll grab the beer together Thanks again| [person:danielle f 6-6][person:we g(danielle:stephanie:smith:tom:leslie) 12-12]
+danielle| Yeah sure it s no problem Stephanie and just in case they don t have that particular beer I m sure we can get another IPA since we know they like that type of beer| [person:stephanie f 6-6][person:they g(tom:leslie) 11-11][person:danielle f 18-18][person:we g(danielle:stephanie) 21-21][person:we g(danielle:stephanie) 27-27][person:they g(tom:leslie) 29-29]
+stephanie| Okay I ll see you soon then I can t wait for the dinner Bye| [person:stephanie f 1-1][person:danielle f 4-4][person:stephanie f 7-7]
+
+conv:people_2019080801_101:aug_0:chat_0:chataug_0| brittany patricia| [person:brittany f 0-0][person:patricia f 1-1]
+patricia| Hello|
+patricia| Whats up Brittany| [person:brittany f 2-2]
+brittany| Nothing much Patricia How are you| [person:patricia f 2-2][person:patricia f 5-5]
+patricia| So Im visiting with Margaret Mary ans Suzie and wondered if you have any reccomendations on where we should go and what we should do| [person:margaret f 4-4][person:mary f 5-5][person:brittany f 11-11][person:we g(patricia:margaret:mary) 17-17][person:we g(patricia:margaret:mary) 22-22]
+brittany| What types of activities do you enjoy doing| [person:we g(patricia:margaret:mary) 5-5]
+patricia| Margaret and Suzie like to go wine tasting and Mary likes live concerts| [person:margaret f 0-0][person:mary f 9-9][location:concerts g() 12-12]
+patricia| Im up for whatever|
+brittany| I think the free live concert tonight is a great place to visit then It has many different stalls including those that sell wine| [person:brittany f 0-0][location:concert s 5-5][location:concert s 10-10][location:concert s 14-14]
+patricia| That sounds wonderful Thank you so much Maybe we will drop in on you| [person:brittany f 4-4][person:we g(patricia:margaret:mary) 8-8][person:brittany f 13-13]
+brittany| The concert is at the park right by my place| [location:concert s 1-1][location:park s 5-5][person:brittany f 8-8][location:place s 9-9]
+brittany| I might drop by as well if I m free| [person:brittany f 0-0][person:brittany f 7-7]
+patricia| Excellent We will hopefully see you there| [person:we g(patricia:margaret:mary) 1-1][person:brittany f 5-5][location:concert s 6-6]
+brittany| Sure Patricia I m so glad you ve come to visit with you friends Talk to you later| [person:patricia f 1-1][person:brittany f 2-2][person:patricia f 6-6][person:patricia f 12-12][person:friends g(margaret:mary) 13-13][person:patricia f 16-16]
+patricia| Love you Take care hon| [person:brittany f 1-1]
+
+conv:people_2019080801_102:aug_0:chat_0:chataug_0| pedro willie| [person:pedro m 0-0][person:willie m 1-1]
+pedro| Hey Willie so which movie do you want to watch tonight| [person:willie m 1-1][person:willie m 6-6]
+willie| I was thinking the new Seth Rogen movie Long Shot What do you think| [person:willie m 0-0][person:pedro m 12-12]
+pedro| Yeah I m down the trailer looked pretty good| [person:pedro m 1-1]
+willie| Cool Should we tell Carlos and John| [person:we g(pedro:willie) 2-2][person:carlos m 4-4][person:john m 6-6]
+pedro| Carlos sure John always wants to watch horror movies he ll either make us change our plans or be miserable| [person:carlos m 0-0][person:john m 2-2][person:john m 9-9][person:us g(pedro:willie:carlos) 13-13][person:us g(pedro:willie:carlos) 15-15]
+willie| Yes you are right Are there even any good horror movies playing now| [person:pedro m 1-1]
+pedro| I think La Llorona is still playing but I don t feel like watching that I d rather stick with the comedy| [person:pedro m 0-0][person:pedro m 8-8][person:pedro m 15-15]
+willie| Alright then I ll just ask Carlos 9pm good with you| [person:willie m 2-2][person:carlos m 6-6][person:pedro m 10-10]
+pedro| 9pm works for me I ll ask him since I have to speak to him about something else anyway I ll get back to you shortly| [person:pedro m 3-3][person:pedro m 4-4][person:carlos m 7-7][person:pedro m 9-9][person:carlos m 14-14][person:pedro m 19-19][person:willie m 24-24]
+willie| Alright let me know what he says Talk to you later| [person:willie m 2-2][person:carlos m 5-5][person:pedro m 9-9]
+
+conv:people_2019080801_103:aug_0:chat_0:chataug_0| kevin walt| [person:kevin m 0-0][person:walt m 1-1]
+walt| Hi|
+walt| I can t wait to go to the Smith s| [person:walt m 0-0][person:smith u 8-8]
+walt| What do you think we should take with us for dinner| [person:kevin m 2-2][person:we g(walt:kevin) 4-4][person:we g(walt:kevin) 8-8]
+walt| Could you ask Ralph what might be good| [person:kevin m 1-1][person:ralph m 3-3]
+kevin| Sure I can do that| [person:kevin m 1-1]
+kevin| I will call him tonight| [person:kevin m 0-0][person:ralph m 3-3]
+walt| What was their address again| [person:their g(smith) 2-2]
+kevin| Their address was 1500 Walnut Street| [person:their g(smith) 0-0][location:street s 5-5]
+walt| Great Do you think they like Italian food| [person:kevin m 2-2][person:their g(smith) 4-4]
+kevin| I m not completely sure but I ll ask Ralph| [person:kevin m 0-0][person:kevin m 6-6][person:ralph m 9-9]
+walt| Great That sounds terrific I can t wait to visit| [person:walt m 4-4]
+kevin| Me too I will call you later| [person:kevin m 0-0][person:kevin m 2-2][person:walt m 5-5]
+
+conv:people_2019080801_106:aug_0:chat_0:chataug_0| darren william| [person:darren m 0-0][person:william m 1-1]
+william| Hey Darren| [person:darren m 1-1]
+darren| What s up man|
+william| Nothing much just wanted to say I m gonna join a basketball league and wanted to see if you re down| [person:william m 6-6][person:darren m 18-18]
+darren| You know I love to play ball I m in| [person:william m 0-0][person:darren m 2-2][person:darren m 7-7]
+william| Great I need to fill the other spots I know your friends Ron Howard and Douglas used to play in High School do you think any of them would be game| [person:william m 1-1][person:william m 8-8][person:darren m 10-10][person:friends g() 11-11][person:ron m 12-12][person:howard m 13-13][person:douglas m 15-15][person:darren m 23-23]
+darren| Yeah they all keep in pretty good shape and I think they would all be down| [person:friends g() 1-1][person:darren m 9-9][person:friends g() 11-11]
+william| Great so let s go and make this happen|
+darren| Yes that sounds fun|
+william| OK I ll shoot you more details soon| [person:william m 1-1][person:darren m 4-4]
+darren| Great thanks and take care|
+william| You too buddy| [person:darren m 0-0][person:darren m 2-2]
+darren| Thanks Can t wait to see how good you ve gotten| [person:william m 8-8]
+william| You know me man I try hard| [person:darren m 0-0][person:william m 2-2][person:william m 4-4]
+darren| I know William you ve always been good| [person:darren m 0-0][person:william m 2-2][person:william m 3-3]
+
+conv:people_2019080801_107:aug_0:chat_0:chataug_0| megan teresa| [person:megan f 0-0][person:teresa f 1-1]
+megan| Hello Teresa| [person:teresa f 1-1]
+teresa| Hi there Megan| [person:megan f 2-2]
+megan| Yeah I was thinking if you could do me a favor| [person:megan f 1-1][person:teresa f 5-5][person:megan f 8-8]
+teresa| Sure what is it|
+megan| My friend Brenda is coming to town but I can t pick her up on that day| [person:megan f 0-0][person:brenda f 1-1][person:brenda f 2-2][location:town s 6-6][person:megan f 8-8][person:brenda f 12-12]
+teresa| When is she coming| [person:brenda f 2-2]
+megan| She is coming this Friday Can you help pick her up| [person:brenda f 0-0][person:teresa f 6-6][person:brenda f 9-9]
+teresa| At what time|
+megan| Brenda is landing at 10 am at the airport| [person:brenda f 0-0][location:airport s 8-8]
+teresa| Oh I would love to but I have a meeting with John| [person:teresa f 1-1][person:teresa f 6-6][person:john m 11-11]
+megan| Well can you switch the meeting to another time I really need you to go pick her up| [person:teresa f 2-2][person:megan f 9-9][person:teresa f 12-12][person:brenda f 16-16]
+teresa| Sorry I can t| [person:teresa f 1-1]
+megan| If you do I will take you out for dinner| [person:teresa f 1-1][person:megan f 3-3][person:teresa f 6-6]
+teresa| Fine|
+megan| But that s fine if you can t do it I will ask Catherine to go pick up Brenda She just texts me yes| [person:teresa f 5-5][person:megan f 10-10][person:catherine f 13-13][person:brenda f 18-18][person:catherine f 19-19][person:megan f 22-22]
+
+conv:people_2019080801_108:aug_0:chat_0:chataug_0| robert william| [person:robert m 0-0][person:william m 1-1]
+william| Hey Robert| [person:robert m 1-1]
+robert| Hello William How are you| [person:william m 1-1][person:william m 4-4]
+william| I m great Guess what| [person:william m 0-0]
+robert| I have no good guesses What| [person:robert m 0-0]
+william| I made it as a participant on the show Jeopardy| [person:william m 0-0]
+robert| Oh wow You ve always dreamt of that Congratulations| [person:william m 2-2]
+william| I m very excited to get on and to meet Peter Trebek| [person:william m 0-0][person:peter m 10-10]
+william| What an awesome guy So smart|
+robert| Oh i know| [person:robert m 1-1]
+william| Which topics should i prepare on Have you been watching lately| [person:william m 3-3][person:robert m 7-7]
+robert| I m not sure But our friend Nicholas is always up to date on the show and was even a participant in the past| [person:robert m 0-0][person:our g(william:robert) 5-5][person:friend u 6-6][person:nicholas m 7-7]
+robert| He s probably your best bet for advice| [person:nicholas m 0-0][person:robert m 3-3]
+william| I amost forgot about that entirely| [person:william m 0-0]
+william| Thanks for your help Robert| [person:robert m 2-2][person:robert m 4-4]
+william| Talk to you later| [person:robert m 2-2]
+robert| Bye Good luck|
+
+conv:people_2019080801_110:aug_0:chat_0:chataug_0| eric tony| [person:eric m 0-0][person:tony m 1-1]
+tony| Hey Eric How s it going| [person:eric m 1-1]
+eric| Hi Tony I m good What s going on this weekend| [person:tony m 1-1][person:eric m 2-2]
+tony| Are you interested ion seeing a movie sat| [person:eric m 1-1]
+eric| Sure Is anyone else around to go| [person:anyone g() 2-2]
+tony| I was thinking of also asking Mark Harry Kenneth| [person:tony m 0-0][person:mark m 6-6][person:harry m 7-7][person:kenneth m 8-8]
+eric| That s a good idea I m sure they will be interested| [person:eric m 5-5][person:they g(mark:harry:kenneth) 8-8]
+tony| Ok great I was thinking the 8pm movie| [person:tony m 2-2]
+eric| Cool I will see Kenneth later so I ll ask him| [person:eric m 1-1][person:kenneth m 4-4][person:eric m 7-7][person:kenneth m 10-10]
+tony| Ok great I ll text Mark Harry| [person:tony m 2-2][person:mark m 5-5][person:harry m 6-6]
+eric| Sound like a plan talk to you later we ll confirm the plans| [person:tony m 6-6][person:we g(tony:eric:mark:harry:kenneth) 8-8]
+tony| Perfect catch you later| [person:eric m 2-2]
+eric| Popcorn is on me| [person:eric m 3-3]
+
+conv:people_2019080801_111:aug_0:chat_0:chataug_0| stephen willie| [person:stephen m 0-0][person:willie m 1-1]
+willie| Hi Stephen are you coming to the movie| [person:stephen m 1-1][person:stephen m 3-3]
+stephen| Where are you planning on going| [person:willie m 2-2]
+willie| That movie theater near your house We want to see the new action flick out| [location:theater s 2-2][person:stephen m 4-4][location:house s 5-5][person:we g(willie) 6-6]
+stephen| i m not sure| [person:stephen m 0-0]
+willie| You should come Jack Jesse and Kevin are going to be there I know you haven t seen them in awhile| [person:stephen m 0-0][person:jack m 3-3][person:jesse m 4-4][person:kevin m 6-6][person:willie m 12-12][person:stephen m 14-14][person:them g(jack:jesse:kevin) 18-18]
+stephen| I would love to see those guys It s been a long time| [person:stephen m 0-0]
+willie| We re going to the 8 oclock show tell me you ll come| [person:we g(willie:jack:jesse:kevin) 0-0][person:willie m 9-9][person:stephen m 10-10]
+stephen| Okay I ll be there How long is the movie| [person:stephen m 1-1][location:theater s 4-4]
+willie| 2 hours Looking forward to seeing you I know Kevin will be jacked that you are coming too| [person:stephen m 6-6][person:willie m 7-7][person:kevin m 9-9][person:stephen m 14-14]
+stephen| See you there 8 oclock| [person:willie m 1-1][location:theater s 2-2]
+willie| Bring some cash|
+willie| Hey want me to pick you up| [person:willie m 2-2][person:stephen m 5-5]
+stephen| That would be cool|
+
+conv:people_2019080801_112:aug_0:chat_0:chataug_0| ethan timothy| [person:ethan m 0-0][person:timothy m 1-1]
+ethan| Hey Timothy what do you think about having a dinner party tonight Lets do it at 8 p m| [person:timothy m 1-1][person:timothy m 4-4]
+timothy| Sounds good Ethan Who would we invite thought| [person:ethan m 2-2][person:we g(ethan:timothy) 5-5]
+ethan| I was thinking Doug Wilson Nathan and Andrew| [person:ethan m 0-0][person:doug m 3-3][person:wilson m 4-4][person:nathan m 5-5][person:andrew m 7-7]
+timothy| I am fine with all of that except Andrew He annoys me| [person:timothy m 0-0][person:andrew m 8-8][person:andrew m 9-9][person:timothy m 11-11]
+ethan| Well we can t invite everyone else and not him That is not cool| [person:we g(ethan:timothy) 1-1][person:everyone g(doug:wilson:nathan:andrew) 5-5][person:andrew m 9-9]
+timothy| Fine I guess we can invite him What should we make| [person:timothy m 1-1][person:we g(ethan:timothy) 3-3][person:andrew m 6-6][person:we g(ethan:timothy) 9-9]
+ethan| I was thinking either make Italian food or order Chinese| [person:ethan m 0-0]
+timothy| Well I really don t feel like cooking so how about Chinese| [person:timothy m 1-1]
+ethan| I knew you d say that so I already ordered the Chinese| [person:ethan m 0-0][person:timothy m 2-2][person:ethan m 7-7]
+timothy| Wow why bother asking me then I ll see you later bro| [person:timothy m 4-4][person:timothy m 6-6][person:ethan m 9-9]
+ethan| You will get over it See ya| [person:timothy m 0-0]
+
+conv:people_2019080801_113:aug_0:chat_0:chataug_0| amanda jacqueline| [person:amanda f 0-0][person:jacqueline f 1-1]
+jacqueline| hi so my trip to Los Angeles is this weekend| [person:jacqueline f 2-2][location:los_angeles s 5-6]
+amanda| I know I am very excited to see you| [person:amanda f 0-0][person:amanda f 2-2][person:jacqueline f 8-8]
+jacqueline| As am i we are getting together with the crew including Joyce Dan and Peter as well right| [person:jacqueline f 2-2][person:we g(jacqueline:amanda) 3-3][person:joyce f 11-11][person:dan m 12-12][person:peter m 14-14]
+amanda| for sure the more the merrier|
+jacqueline| so is everyone living close to each other in los Angeles or far apart| [person:we g(jacqueline:amanda:joyce:dan:peter) 2-2][location:los_angeles s 9-10]
+amanda| some of us are farther than others| [person:we g(jacqueline:amanda:joyce:dan:peter) 2-2][person:we g(jacqueline:amanda:joyce:dan:peter) 6-6]
+jacqueline| so where do everyone live and where should we plan and meet then| [person:we g(jacqueline:amanda:joyce:dan:peter) 3-3][person:we g(jacqueline:amanda:joyce:dan:peter) 8-8]
+amanda| I am closest to the airport then Dan Joyce and Peter is the farthest| [person:amanda f 0-0][person:dan m 7-7][person:joyce f 8-8][person:peter m 10-10]
+jacqueline| So where should we meet| [person:we g(jacqueline:amanda:joyce:dan:peter) 3-3]
+amanda| I think Dan does not like to drive far so we should meet somewhere between me and Dan maybe meet at my place and go from there| [person:amanda f 0-0][person:dan m 2-2][person:we g(jacqueline:amanda:joyce:dan:peter) 10-10][person:amanda f 15-15][person:dan m 17-17][person:amanda f 21-21][location:place s 22-22]
+jacqueline| sounds good see you this weekend| [person:amanda f 3-3]
+jacqueline| see you| [person:amanda f 1-1]
+
+conv:people_2019080801_114:aug_0:chat_0:chataug_0| hannah janet| [person:hannah f 0-0][person:janet f 1-1]
+janet| Have you decided on any of the classes you want to take next semester| [person:hannah f 1-1][person:hannah f 8-8]
+hannah| No not yet I am having a hard time choosing How about you| [person:hannah f 3-3][person:janet f 12-12]
+janet| Same here Trouble choosing from all of the different choices|
+hannah| Well I think we should choose them together and pick some of the same classes so maybe we will get the same teacher for at least a class or two| [person:hannah f 1-1][person:we g(janet:hannah) 3-3][person:them g() 6-6][person:we g(janet:hannah) 17-17]
+janet| Well I know I have to take Biology but you already took that last year| [person:janet f 1-1][person:janet f 3-3][person:hannah f 9-9]
+hannah| Yes I did so for that class I will have to pick something different| [person:hannah f 1-1][person:hannah f 7-7]
+janet| I wonder what classes Melinda Carol and Sarah are going to take| [person:janet f 0-0][person:melinda f 4-4][person:carol f 5-5][person:sarah f 7-7]
+hannah| I am not sure but I know Sarah has not taken Biology yet| [person:hannah f 0-0][person:hannah f 5-5][person:sarah f 7-7]
+janet| I need to get ahold of her then and tell her to take it this semester so hopefully we can do it together| [person:janet f 0-0][person:sarah f 6-6][person:sarah f 10-10][person:we g(janet:hannah) 18-18]
+hannah| She should be here soon| [person:sarah f 0-0]
+
+conv:people_2019080801_116:aug_0:chat_0:chataug_0| benjamin derrick| [person:benjamin m 0-0][person:derrick m 1-1]
+derrick| Benny boy what is up|
+benjamin| you know I don t like that nickname It is Benjamin| [person:derrick m 0-0][person:benjamin m 2-2][person:benjamin m 10-10]
+benjamin| whats up|
+derrick| I know I am just kidding chill| [person:derrick m 0-0][person:derrick m 2-2]
+derrick| nothing much|
+derrick| lets play poker soon|
+derrick| its been a while and I need to make money| [person:derrick m 5-5]
+benjamin| you are always the first one out| [person:derrick m 0-0]
+benjamin| what are you talking about lol| [person:derrick m 2-2]
+derrick| This is the time lol|
+derrick| where should we organize it without too much trouble| [person:we g(derrick:benjamin) 2-2]
+benjamin| your house at 7 look I did it for you| [person:derrick m 0-0][person:benjamin m 5-5][person:derrick m 9-9]
+derrick| good idea|
+derrick| see you then| [person:benjamin m 1-1]
+
+conv:people_2019080802_1:aug_0:chat_0:chataug_0| emily helen| [person:emily f 0-0][person:helen f 1-1]
+helen| Hello Where would you like to meet| [person:emily f 3-3]
+emily| Hello Helen I would like to meet in the library| [person:helen f 1-1][person:emily f 2-2][location:library s 9-9]
+helen| How far is the library from where we are| [location:library s 4-4][person:we g(helen:emily) 7-7]
+emily| It is not that far away from where we are and Stephanie is close as well| [location:library s 0-0][person:we g(helen:emily) 8-8][person:stephanie f 11-11]
+helen| Great I ll tell Amy and Stella if you tell Stepahnie| [person:helen f 1-1][person:amy f 4-4][person:stella f 6-6][person:emily f 8-8]
+emily| Great I lost Stella s number so that works perfect What time is best for you personally to meet| [person:emily f 1-1][person:stella f 3-3][person:helen f 15-15]
+helen| 5pm is best but we would have to make sure the group is ok with that too| [person:we g(helen:emily) 4-4]
+emily| That works perfect for me too Let s talk to the others right now to verify so we can get prepared for the exam tomorrow| [person:emily f 4-4][person:others g(stephanie:amy:stella) 11-11][person:we g(helen:emily:stephanie:amy:stella) 17-17]
+helen| Great thanks|
+emily| Awesome Bye|
+
+conv:people_2019080802_2:aug_0:chat_0:chataug_0| gary michael| [person:gary m 0-0][person:michael m 1-1]
+gary| Did Chris give any recommendations on a hotel to stay in| [person:chris m 1-1][location:hotel s 7-7]
+michael| He gave a few sugestions| [person:chris m 0-0]
+gary| I talked to Daniel and Thomas and they said it was better to stay closer in town| [person:gary m 0-0][person:daniel m 3-3][person:thomas m 5-5][person:they g(daniel:thomas) 7-7][location:town s 16-16]
+michael| With that option we need to find something within walking distance to where we want to visit as traffic will be fierce| [person:we g(gary:michael) 3-3][person:we g(gary:michael) 13-13]
+gary| I agree we don t want to spend all our time and money getting Uber or other transportation Do you want a place that has a pool| [person:gary m 0-0][person:we g(gary:michael) 2-2][person:we g(gary:michael) 9-9][person:michael m 19-19][location:place s 22-22]
+michael| That doesn t matter we will be sightseeing most of the time| [person:we g(gary:michael) 4-4]
+gary| That s true What about the Best Western close to the White House That s where Daniel and Thomas stayed| [location:white_house s 11-12][person:daniel m 16-16][person:thomas m 18-18]
+michael| Sounds good unless you think we can stay in lincoln s bedroom at the white house| [person:gary m 3-3][person:we g(gary:michael) 5-5][location:bedroom s 11-11]
+gary| That would be a great place to stay but I don t think they would let us do that| [location:white_house s 5-5][person:gary m 9-9][person:we g(gary:michael) 16-16]
+
+conv:people_2019080802_3:aug_0:chat_0:chataug_0| gary michael| [person:gary m 0-0][person:michael m 1-1]
+gary| Hey How is it going|
+michael| I am doing great and you| [person:michael m 0-0][person:gary m 5-5]
+gary| Great Has Thomas let you know any information about where we will be staying| [person:thomas m 2-2][person:michael m 4-4][person:we g(gary:michael:thomas) 10-10]
+michael| No I thought you were gonna talk to Thomas I did talk to Chris though and he did mention the place he stayed at was amazing| [person:michael m 1-1][person:gary m 3-3][person:thomas m 8-8][person:michael m 9-9][person:chris m 13-13][person:chris m 16-16][location:place s 20-20][person:chris m 21-21]
+gary| He hasn t got back with me yet I did speak to Daniel He is still trying to get pricing| [person:thomas m 0-0][person:gary m 6-6][person:gary m 8-8][person:daniel m 12-12][person:daniel m 13-13]
+michael| ok Good Well let me know what you find out and we will reconvene| [person:michael m 4-4][person:gary m 7-7][person:we g(gary:michael:thomas) 11-11]
+gary| Ok sounds good|
+michael| Great Talk to you later| [person:gary m 3-3]
+
+conv:people_2019080802_4:aug_0:chat_0:chataug_0| emily helen| [person:emily f 0-0][person:helen f 1-1]
+helen| Hello|
+emily| Hi|
+helen| how are you today| [person:emily f 2-2]
+emily| good and you| [person:helen f 2-2]
+helen| I m doing great such a warm day today| [person:helen f 0-0]
+emily| That s nice|
+helen| Where should we meet for studying today| [person:we g(helen:emily) 2-2]
+helen| Stephanie said coffee shop and Amy said library| [person:stephanie f 0-0][location:coffee_shop s 2-3][person:amy f 5-5][location:library s 7-7]
+emily| How about the library downtown| [location:library s 3-3][location:downtown s 4-4]
+helen| Sounds great|
+helen| I ll text Stephanie Amy and Stella to meet us at the library at 1 pm| [person:helen f 0-0][person:stephanie f 3-3][person:amy f 4-4][person:stella f 6-6][person:we g(helen:emily:stephanie:amy:stella) 9-9][location:library s 12-12]
+emily| See you there| [person:helen f 1-1][location:library s 2-2]
+helen| See you there Emily Later| [person:emily f 1-1][location:library s 2-2][person:emily f 3-3]
+
+conv:people_2019080802_5:aug_0:chat_0:chataug_0| daniel stephen| [person:daniel m 0-0][person:stephen m 1-1]
+stephen| Hey Daniel Jonathan Larry and Henry can t wait to catch up together this weekend Should we bbq at your place or mine| [person:daniel m 1-1][person:jonathan m 2-2][person:larry m 3-3][person:henry m 5-5][person:we g(stephen:daniel:jonathan:larry:henry) 16-16][person:your g(daniel:jonathan:larry:henry) 19-19]
+daniel| Hi Stephen| [person:stephen m 1-1]
+stephen| So let s say my place| [person:stephen m 4-4][location:place s 5-5]
+daniel| Sounds good|
+stephen| Perfect Jonathan mentioned some simple hamburgers and hot dogs but Henry really enjoyed those smoked ribs you made| [person:jonathan m 1-1][person:henry m 10-10][person:daniel m 16-16]
+daniel| Larry said he would bring some potato salad You know his salad is awesome And what s a bbq without ribs| [person:larry m 0-0][person:larry m 2-2][person:stephen m 8-8][person:larry m 10-10]
+stephen| Great I ll pick up the beers would you care for anything different| [person:stephen m 1-1][person:daniel m 8-8]
+daniel| I m cool with beers I ll pick up some extra ice| [person:daniel m 0-0][person:daniel m 5-5]
+stephen| Sounds like we have a plan See you Saturday| [person:we g(stephen:daniel:jonathan:larry:henry) 2-2][person:daniel m 7-7]
+
+conv:people_2019080802_8:aug_0:chat_0:chataug_0| harry michelle| [person:harry m 0-0][person:michelle f 1-1]
+michelle| Hey Harry| [person:harry m 1-1]
+harry| I am so excited about going to Philip and Marie s party What should we take to their party| [person:harry m 0-0][person:philip m 7-7][person:marie f 9-9][person:we g(michelle:harry) 14-14][person:their g(philip:marie) 17-17]
+michelle| Are you going to the party| [person:harry m 1-1]
+michelle| Good question|
+michelle| How about wine|
+harry| Wine sounds great I can pick it up from the store tomorrow| [person:harry m 3-3][location:store s 10-10]
+michelle| Ok do you know what kind they like by chance| [person:harry m 2-2][person:they g(philip:marie) 6-6]
+harry| I think any white wine would work Do you want to walk to their house or drive| [person:harry m 0-0][person:michelle f 8-8][person:their g(philip:marie) 13-13][location:house s 14-14]
+michelle| Sounds great Let s drive I can pick you up| [person:michelle f 5-5][person:harry m 8-8]
+harry| Ok sounds good See you tomorrow at 7pm| [person:michelle f 4-4]
+
+conv:people_2019080802_9:aug_0:chat_0:chataug_0| daniel stephen| [person:daniel m 0-0][person:stephen m 1-1]
+daniel| Hey Stephan should we have the barbecue at the park this weekend| [person:stephen m 1-1][person:we g(daniel:stephen) 3-3][location:park s 9-9]
+stephen| Definitely the weather looks like its going to be perfect Where should the location be|
+daniel| How about the park over the car dealership that Larry works at| [location:park s 3-3][person:larry m 9-9]
+stephen| Sounds great Ill ask around to see what type of chips and drinks everyone would like| [person:everyone g(daniel:stephen:larry) 13-13]
+daniel| Perfect I did talk to Jonathan and he said he could bring plates and cups So that is taken care of Do you think we need anyhting else| [person:daniel m 1-1][person:jonathan m 5-5][person:jonathan m 7-7][person:jonathan m 9-9][person:stephen m 22-22][person:we g(daniel:stephen) 24-24]
+stephen| Of course we ll need some meat to barbeque| [person:everyone g(daniel:stephen:larry) 2-2]
+daniel| Silly me of course I can bring some hamburgers and brats Ill check to see if Henry is planning on coming this weekend is 12p m ok| [person:daniel m 1-1][person:daniel m 4-4][person:henry m 16-16]
+stephen| Sounds good I ll see you then| [person:stephen m 2-2][person:daniel m 5-5]
+
+conv:people_2019080802_10:aug_0:chat_0:chataug_0| harry michelle| [person:harry m 0-0][person:michelle f 1-1]
+harry| Hey Michelle| [person:michelle f 1-1]
+michelle| Hey Harry| [person:harry m 1-1]
+harry| I heard you are inviting some friends to a party next week| [person:harry m 0-0][person:michelle f 2-2][person:friends g() 6-6]
+michelle| Yes what should we bring to the party| [person:we g(michelle) 3-3]
+harry| I was thinking we need some food maybe chips and dips| [person:harry m 0-0][person:we g(michelle) 3-3]
+michelle| Excellent Should we uber there| [person:we g(michelle) 2-2][location:there u 4-4]
+harry| Yeah we will have a few drinks if you are interested| [person:we g(michelle) 1-1][person:michelle f 8-8]
+michelle| Of course Sounds like a party|
+harry| see ya then|
+
+conv:people_2019080802_12:aug_0:chat_0:chataug_0| nancy sandra| [person:nancy f 0-0][person:sandra f 1-1]
+nancy| I m excited about having a movie night| [person:nancy f 0-0]
+nancy| Ashley Susan and Barbara are going to join us| [person:ashley f 0-0][person:susan f 1-1][person:barbara f 3-3][person:us g(nancy:sandra) 8-8]
+sandra| That s great Nancy| [person:nancy f 3-3]
+nancy| What types of movies do you like I m thinking comedy| [person:sandra f 5-5][person:nancy f 7-7]
+sandra| I love horror movies| [person:sandra f 0-0]
+sandra| maybe we can find something that is both genres| [person:we g(nancy:sandra) 1-1]
+nancy| Ashley and Susan both like horror so lets go see the new Scream I believe it s Scream Part 3456| [person:ashley f 0-0][person:susan f 2-2][person:nancy f 13-13]
+sandra| That sounds great let s do it|
+nancy| I ll pick up ashley and barbara since they live right around the corner Do you want to get Susan since she lives in your building| [person:nancy f 0-0][person:ashley f 4-4][person:barbara f 6-6][person:they g(ashley:barbara) 8-8][person:sandra f 15-15][person:susan f 19-19][person:susan f 21-21][person:sandra f 24-24]
+sandra| That works great super simple|
+
+conv:people_2019080802_14:aug_0:chat_0:chataug_0| kevin mark| [person:kevin m 0-0][person:mark m 1-1]
+kevin| Hey Mark| [person:mark m 1-1]
+mark| Hey Kevin How are you| [person:kevin m 1-1][person:kevin m 4-4]
+kevin| I m good thanks| [person:kevin m 0-0]
+kevin| You have any good recommendations for leasing a car| [person:kevin m 0-0]
+mark| I was actually just talking to my friends Thomas and Gary about car leases| [person:mark m 0-0][person:mark m 6-6][person:friends g() 7-7][person:thomas m 8-8][person:gary m 10-10]
+kevin| Perfect timing What d they say| [person:d_th f 4-4]
+mark| Thomas had a great experience with Toyota but Gary had a bad experience with Honda| [person:thomas m 0-0][person:gary m 8-8]
+kevin| Sounds like Toyota is the way to go then|
+mark| Great glad I could help| [person:mark m 2-2]
+kevin| Thanks so much for your insight Much appreciated| [person:mark m 4-4]
+
+conv:people_2019080802_16:aug_0:chat_0:chataug_0| chris ryan| [person:chris m 0-0][person:ryan m 1-1]
+chris| Hi Ryan| [person:ryan m 1-1]
+ryan| Hey Chris How are you| [person:chris m 1-1][person:chris m 4-4]
+chris| Great|
+ryan| Have you spoken to Charles Paul or Andrew today| [person:chris m 1-1][person:charles m 4-4][person:paul m 5-5][person:andrew m 7-7]
+chris| No not yet How was the party by the way|
+ryan| It was kinda of crazy actually thats why I asked about the other guys I haven t talked to them since last night| [person:ryan m 8-8][person:ryan m 14-14][person:them g(charles:paul:andrew) 19-19]
+chris| What did you guys do| [person:ryan m 2-2]
+ryan| It all fancy are stuff with people walking around with food and champagne towers but I guess the big corporate guys don t get out much and had a little bit too much if you know what I mean| [person:ryan m 15-15][person:chris m 34-34][person:ryan m 37-37]
+chris| Must ve been fun lol|
+ryan| Charles and Paul got there kind of late so it was just Andrew and I for a little but the other two caught up quick after they got there| [person:charles m 0-0][person:paul m 2-2][location:there u 4-4][person:andrew m 12-12][person:ryan m 14-14][person:they g(charles:paul) 26-26][location:there u 28-28]
+ryan| It was funny to basically see the owner of the company sloshing em back lol|
+chris| I can only imagine| [person:chris m 0-0]
+ryan| Im so sad you missed it though You would have had a blast| [person:chris m 3-3][person:chris m 7-7]
+
+conv:people_2019080802_17:aug_0:chat_0:chataug_0| brandon matthew| [person:brandon m 0-0][person:matthew m 1-1]
+brandon| Hi Matthew Any ideas where I should take my friend Mark while he is visiting| [person:matthew m 1-1][person:brandon m 5-5][person:brandon m 8-8][person:friend u 9-9][person:mark m 10-10][person:mark m 12-12]
+matthew| I took Paul and Bryan to the Texas Road House They enjoyed the food there| [person:matthew m 0-0][person:paul m 2-2][person:bryan m 4-4][location:texas s 7-7][location:texas s 8-8][location:house s 9-9][person:they g() 10-10][location:house s 14-14]
+brandon| Okay Are there any other places they like| [location:texas s 2-2][location:places g() 5-5][person:they g() 6-6]
+matthew| Yeah Well non food related they enjoyed that retroarcade down by the old mall| [person:they g() 5-5][location:retro_arcade s 8-8]
+brandon| Okay nice Mark really likes arcades so I think I will take him there| [person:mark m 2-2][location:arcades g() 5-5][person:brandon m 7-7][person:brandon m 9-9][person:mark m 12-12][location:arcades g() 13-13]
+matthew| That s great I know it s not really your cup of tea but I don t even eat meat and I ended up at that steak house| [person:matthew m 3-3][person:brandon m 9-9][person:matthew m 14-14][person:matthew m 21-21][location:steak_house s 26-27]
+brandon| Must be some delicious steak then Maybe I will take him there too| [person:brandon m 7-7][person:mark m 10-10][location:steak_house s 11-11]
+matthew| You won t regret it well according to them you guys won t| [person:brandon m 0-0][person:they g() 8-8][person:brandon m 9-9]
+
+conv:people_2019080802_20:aug_0:chat_0:chataug_0| adam roger| [person:adam m 0-0][person:roger m 1-1]
+adam| Hey Roger| [person:roger m 1-1]
+roger| Hey Adam| [person:adam m 1-1]
+adam| Did Ann Maria and Shawn get ahold of you Looks like they are coming to see us next month| [person:ann f 1-1][person:maria f 2-2][person:shawn m 4-4][person:roger m 8-8][person:they g(ann:maria:shawn) 11-11][person:us g(adam:roger) 16-16]
+roger| Yes they are what do you think we should do while they are here| [person:they g(ann:maria:shawn) 1-1][person:adam m 5-5][person:us g(adam:roger) 7-7][person:they g(ann:maria:shawn) 11-11][location:here u 13-13]
+adam| Well I think they like the Flamingo Lounge down on the highway maybe we can start by going there| [person:adam m 1-1][person:they g(ann:maria:shawn) 3-3][location:flamingo_lounge s 6-7][location:highway s 11-11][person:us g(adam:roger) 13-13][location:flamingo_lounge s 18-18]
+roger| Yeah definitely I think they all like pizza so we can order that one night| [person:roger m 2-2][person:they g(ann:maria:shawn) 4-4][person:us g(adam:roger) 9-9]
+adam| Sounds good we can try deep dish Maybe we can get tickets to Avengers Endgame too| [person:us g(adam:roger) 2-2][person:us g(adam:roger) 8-8]
+roger| Yes I think they are huge fans of Marvel so that would be fun Sounds like a plan| [person:roger m 1-1][person:they g(ann:maria:shawn) 3-3]
+adam| Cool beans Talk to you closer to them coming then| [person:roger m 4-4][person:they g(ann:maria:shawn) 7-7]
+roger| Sounds good Talk to you then| [person:adam m 4-4]
+
+conv:people_2019080802_21:aug_0:chat_0:chataug_0| gary michael| [person:gary m 0-0][person:michael m 1-1]
+gary| hello|
+michael| Hello Gary| [person:gary m 1-1]
+michael| I am really excited about our trip eager to see you guys| [person:michael m 0-0][person:our g(gary:michael) 5-5][person:gary m 10-10]
+gary| Me too I spoke to Daniel and Thomas about their recent trip to DC| [person:gary m 0-0][person:gary m 2-2][person:daniel m 5-5][person:thomas m 7-7][person:their g(daniel:thomas) 9-9][location:dc s 11-11][location:dc s 13-13]
+gary| They gave me some good recommendations of where to stay| [person:their g(daniel:thomas) 0-0][person:gary m 2-2]
+michael| Even I spoke to Chris| [person:michael m 1-1][person:chris m 4-4]
+michael| What did they say| [person:their g(daniel:thomas) 2-2]
+gary| They recommended the Hyatt Hotel| [person:their g(daniel:thomas) 0-0][location:hotel s 4-4]
+gary| What do you think| [person:michael m 2-2]
+michael| Chris Also stayed in the Hotel He said that it was cool| [person:chris m 0-0][location:hotel s 5-5][person:chris m 6-6][location:hotel s 9-9]
+michael| looks like they provides complimentary breakfast and dinner|
+gary| Ok it s settled then Let s stay there| [location:hotel s 8-8]
+gary| Great talking to you| [person:michael m 3-3]
+gary| see you soon| [person:michael m 1-1]
+michael| I am fine with hotel| [person:michael m 0-0][location:hotel s 4-4]
+michael| see you soon there| [person:gary m 1-1][location:hotel s 3-3]
+
+conv:people_2019080802_22:aug_0:chat_0:chataug_0| harry michelle| [person:harry m 0-0][person:michelle f 1-1]
+harry| Hello Michelle| [person:michelle f 1-1]
+michelle| Hey Harry| [person:harry m 1-1]
+harry| So about the party how are we getting there| [person:we g(harry:michelle) 6-6][location:there u 8-8]
+michelle| I was going to take an Uber| [person:michelle f 0-0]
+harry| Can I join you I also was thinking maybe we should bring something Philip didn t specify if he wanted us to bring anything when they invited us| [person:harry m 1-1][person:michelle f 3-3][person:harry m 4-4][person:we g(harry:michelle) 9-9][person:philip m 13-13][person:philip m 18-18][person:we g(harry:michelle) 20-20]
+michelle| Sure you can join me| [person:harry m 1-1][person:michelle f 4-4]
+michelle| We should bring a nice bottle of wine| [person:we g(harry:michelle) 0-0]
+harry| I agree What time should we meet up| [person:harry m 0-0][person:we g(harry:michelle) 5-5]
+michelle| Let s meet at 8|
+harry| Ok see you then| [person:michelle f 2-2]
+
+conv:people_2019080802_23:aug_0:chat_0:chataug_0| carol mary| [person:carol f 0-0][person:mary f 1-1]
+mary| Hello Carol how are things going| [person:carol f 1-1]
+carol| Hi Marry| [person:mary f 1-1]
+mary| So you want to visit California nice choice I bet youre having the best time with Jessica and Emily| [person:carol f 1-1][location:california s 5-5][person:mary f 8-8][person:carol f 10-10][person:jessica f 16-16][person:emily f 18-18]
+carol| I would love to visit California but sometimes family gets in the way| [person:carol f 0-0][location:california s 5-5][person:family g() 8-8]
+mary| Yeah I bet but if you decide to go then you should visit the Yosemite National Park| [person:mary f 1-1][person:carol f 5-5][person:carol f 10-10][location:yosemite s 14-14][location:yosemite s 16-16]
+carol| FI have always wanted to fisit Yosemite National Dark| [location:yosemite s 6-6]
+mary| Its really nice I bet Jessica and Emily will love it too you can always visit Disneyland| [person:mary f 3-3][person:jessica f 5-5][person:emily f 7-7][person:carol f 12-12][location:disneyland s 16-16]
+carol| Jessica and Emily would definitely be surprised when we pull up DisneyLand| [person:jessica f 0-0][person:emily f 2-2][person:we g(mary:carol) 8-8][location:disneyland s 11-11]
+
+conv:people_2019080802_25:aug_0:chat_0:chataug_0| brandon matthew| [person:brandon m 0-0][person:matthew m 1-1]
+matthew| hello brandon| [person:brandon m 1-1]
+matthew| i hear mark is visiting| [person:matthew m 0-0][person:mark m 2-2]
+brandon| HI Matthew How s it going| [person:matthew m 1-1]
+brandon| Yes he is visiting| [person:mark m 1-1]
+matthew| great i was wondering if you knew about what type of things mark likes for his visit my friends bryan and paul are visiting too| [person:matthew m 1-1][person:brandon m 5-5][person:mark m 12-12][person:mark m 15-15][person:matthew m 17-17][person:bryan m 19-19][person:paul m 21-21]
+brandon| We were thinking of going to the Mall He really likes doing that| [person:we g(brandon:mark) 0-0][location:mall s 7-7][person:mark m 8-8]
+brandon| Would you all like to join us| [person:matthew m 1-1][person:we g(brandon:mark) 6-6]
+matthew| Good idea Paul loves to shop and Bryan likes skate boards Im pretty sure the mall has a skate shop| [person:paul m 2-2][person:bryan m 7-7][location:mall s 15-15]
+brandon| It does I think it s called Skate Nation That would be a blast| [person:brandon m 2-2]
+matthew| Great we ll see you there| [person:we g(matthew:mark:paul:bryan) 1-1][person:brandon m 4-4][location:mall s 5-5]
+
+conv:people_2019080802_26:aug_0:chat_0:chataug_0| harry michelle| [person:harry m 0-0][person:michelle f 1-1]
+michelle| Hi Harry| [person:harry m 1-1]
+harry| Hey Michelle Excited for Philip and Marie s party| [person:michelle f 1-1][person:philip m 4-4][person:marie f 6-6]
+michelle| Philip and Marie are having their party tonight right| [person:philip m 0-0][person:marie f 2-2][person:their g(philip:marie) 5-5]
+michelle| Sure am|
+harry| Same here What do you think we should bring| [person:michelle f 4-4][person:we g(michelle:harry) 6-6]
+michelle| I was going to make spinach artichoke dip Do you think you could pick up tortilla chips| [person:michelle f 0-0][person:harry m 9-9][person:harry m 11-11]
+harry| Absolutely It s on sale now at the store so I can pick up a few bags If you would like I can even drive us there| [location:store s 8-8][person:harry m 10-10][person:michelle f 18-18][person:harry m 21-21][person:we g(michelle:harry) 25-25][location:store s 26-26]
+michelle| That would be great How about you pick me up at 700 PM| [person:harry m 6-6][person:michelle f 8-8]
+harry| Sounds like a plan Can t wait to see you I d love to hear some of your stories about your recent trip at the party| [person:michelle f 9-9][person:harry m 10-10][person:michelle f 17-17][person:michelle f 20-20]
+michelle| See you at 7| [person:harry m 1-1]
+
+conv:people_2019080802_27:aug_0:chat_0:chataug_0| amanda debra| [person:amanda f 0-0][person:debra f 1-1]
+amanda| Hey Debra| [person:debra f 1-1]
+debra| Hi Amanda| [person:amanda f 1-1]
+amanda| Hey my brother wants to buy a car and I think you have the same model| [person:amanda f 1-1][person:david m 2-2][person:amanda f 9-9][person:debra f 11-11]
+debra| Oh yeah Do you have any questions| [person:amanda f 3-3]
+amanda| Yeah what do you like about it or maybe just a simple pros and cons list| [person:debra f 3-3]
+debra| I like that it has a steering wheel and a gas pedal I don t like that it s not a ferrari lol| [person:debra f 0-0][person:debra f 12-12]
+amanda| hahahaha do you know any technical info about it| [person:debra f 2-2]
+debra| Not really but my friend Richard helped me out Do you want to pass his details to your brother David| [person:debra f 3-3][person:richard m 4-4][person:richard m 5-5][person:debra f 7-7][person:amanda f 10-10][person:amanda f 17-17][person:david m 18-18][person:david m 19-19]
+amanda| Sure that d be great|
+debra| Ok here s his number 69669696969| [person:david m 3-3]
+amanda| Great I ll pass that on thanks Debra| [person:amanda f 1-1][person:debra f 7-7]
+debra| No problem Amanda wish your brother luck| [person:amanda f 2-2][person:amanda f 4-4][person:david m 5-5]
+
+conv:people_2019080802_29:aug_0:chat_0:chataug_0| carl jordan| [person:carl m 0-0][person:jordan m 1-1]
+carl| Hey Jordan How have you been| [person:jordan m 1-1][person:jordan m 4-4]
+jordan| Pretty good you| [person:carl m 2-2]
+carl| Great I have a favor to ask| [person:carl m 1-1]
+carl| My parent| [person:carl m 0-0][person:parent g() 1-1]
+carl| My parent s Alan and Judy are visiting Dallas soon and I was wondering if you would be able to pick them up from the airport| [person:carl m 0-0][person:parent g() 1-1][person:alan m 3-3][person:judy f 5-5][person:carl m 11-11][person:jordan m 15-15][person:parent g(alan:judy) 21-21]
+jordan| Of course what time are they supposed to arrive| [person:parent g(alan:judy) 5-5]
+carl| They ll be getting there this weekend at 5 00 p m Their hotel is only about 20 minutes away from the airport but I believe it s on the way to your place| [person:parent g(alan:judy) 0-0][location:dallas s 4-4][person:parent g(alan:judy) 12-12][location:hotel s 13-13][location:airport s 22-22][person:carl m 24-24][person:jordan m 32-32]
+jordan| That sounds good They will probably be hungry after their flight what kind of food do they like| [person:parent g(alan:judy) 3-3][person:parent g(alan:judy) 9-9][person:parent g(alan:judy) 16-16]
+carl| They will eat pretty much anything but would probably prefer some good ol Texas barbque| [person:parent g(alan:judy) 0-0][location:texas s 13-13]
+jordan| Haha perfect there is a great barbque place near the airport|
+carl| Awesome Thank you so much I owe you one| [person:jordan m 2-2][person:carl m 5-5][person:jordan m 7-7]
+jordan| No problem I will call you when i pick them up| [person:jordan m 2-2][person:carl m 5-5][person:jordan m 7-7][person:parent g(alan:judy) 9-9]
+carl| Sounds good Talk to you then| [person:jordan m 4-4]
+
+conv:people_2019080802_30:aug_0:chat_0:chataug_0| hannah ralph| [person:hannah f 0-0][person:ralph m 1-1]
+hannah| Hi Ralph| [person:ralph m 1-1]
+hannah| hey|
+ralph| Hi|
+hannah| yo remember we are to visit Jackie and Albert| [person:we g(hannah:ralph) 2-2][person:jackie f 6-6][person:albert m 8-8]
+ralph| oh yeah next weekend right|
+hannah| Yes I was proposing we buy them laptop bags| [person:hannah f 1-1][person:we g(hannah:ralph) 4-4][person:them g(jackie:albert) 6-6]
+ralph| sounds good I know a place that sells really cute ones| [person:ralph m 2-2][location:place s 5-5]
+hannah| Can we arrange we go check them out today in the afternoon| [person:we g(hannah:ralph) 1-1][person:we g(hannah:ralph) 3-3]
+ralph| ok does 4pm work for you| [person:hannah f 5-5]
+hannah| That is fine with me| [person:hannah f 4-4]
+ralph| ok i ll meet you at the coffee place near your work| [person:ralph m 1-1][person:hannah f 4-4][location:place s 8-8][person:hannah f 10-10]
+
+conv:people_2019080802_31:aug_0:chat_0:chataug_0| harry michelle| [person:harry m 0-0][person:michelle f 1-1]
+harry| Hey Michelle what do you think we should bring to Philip and Marie s party| [person:michelle f 1-1][person:michelle f 4-4][person:we g(harry:michelle) 6-6][person:philip m 10-10][person:marie f 12-12]
+michelle| I think we should I think it will be a lot more fun with them there| [person:michelle f 0-0][person:we g(harry:michelle) 2-2][person:michelle f 4-4][person:them g(philip:marie) 14-14]
+harry| But what kind of food do you think we should bring Marie usually likes it if we bring snacks| [person:michelle f 6-6][person:we g(harry:michelle) 8-8][person:marie f 11-11][person:we g(harry:michelle) 16-16]
+michelle| ill bring some chips|
+michelle| I could also bring some wine| [person:michelle f 0-0]
+harry| Okay I can bring some soda I ll get diet for Philip since I know he doesn t like regular| [person:harry m 1-1][person:harry m 6-6][person:philip m 11-11][person:harry m 13-13][person:philip m 15-15]
+michelle| we can ride in my car| [person:we g(harry:michelle) 0-0][person:michelle f 4-4]
+michelle| I can come pick you up| [person:michelle f 0-0][person:harry m 4-4]
+harry| Okay carpooling sounds good|
+harry| What time will you come by| [person:michelle f 3-3]
+michelle| I could come by around 7 if thats good for you| [person:michelle f 0-0][person:harry m 10-10]
+harry| That works I get off work at 630| [person:harry m 2-2]
+michelle| ok that sounds great|
+michelle| I will s| [person:michelle f 0-0]
+
+conv:people_2019080802_32:aug_0:chat_0:chataug_0| amanda debra| [person:amanda f 0-0][person:debra f 1-1]
+debra| Hi Debra How are you doing| [person:amanda f 1-1][person:amanda f 4-4]
+amanda| I doing good Thank you for asking| [person:amanda f 0-0][person:debra f 4-4]
+debra| You re welcome You called me earlier| [person:amanda f 0-0][person:amanda f 3-3][person:debra f 5-5]
+amanda| Yes David is looking to buy a new car| [person:david m 1-1]
+debra| Ok Which model|
+amanda| The same Honda you have| [person:debra f 3-3]
+debra| Nice It s a good car Has great mileage but repairs can start becoming expensive once the car starts getting old|
+amanda| Good to know as I am trying to help him pick out a good car for work| [person:amanda f 4-4][person:david m 9-9]
+debra| Okay The Honda will b great then|
+amanda| Ok I am going to tell him Thank you for helping me| [person:amanda f 1-1][person:david m 6-6][person:debra f 8-8][person:amanda f 11-11]
+debra| You are welcome You can also give David my contact details if he needs more help| [person:amanda f 0-0][person:amanda f 3-3][person:david m 7-7][person:debra f 8-8][person:david m 12-12]
+
+conv:people_2019080802_33:aug_0:chat_0:chataug_0| carl jordan| [person:carl m 0-0][person:jordan m 1-1]
+carl| Hey JMan my rents will be in dallas this weekend Can u pick them up| [person:carl m 2-2][person:jordan m 11-11][person:carl_s_parents__correct_ g() 13-13]
+jordan| Yes I sure Can| [person:jordan m 1-1]
+carl| Cool Thanks Bro|
+jordan| What are your parents like| [person:carl m 2-2][person:carl_s_parents__correct_ g() 3-3]
+carl| They re casual THey like to eat and drink| [person:carl_s_parents__correct_ g() 0-0][person:carl_s_parents__correct_ g() 3-3]
+jordan| They go by Judy and Alan right So I can take them to BK and they are cool| [person:carl_s_parents__correct_ g() 0-0][person:jordan m 3-3][person:alan m 5-5][person:jordan m 8-8][person:carl_s_parents__correct_ g(alan) 11-11]
+carl| Yeah That wouls be great|
+jordan| Cool Sounds like I can take your parents to lunch on the way to your place| [person:jordan m 3-3][person:carl m 6-6][person:carl_s_parents__correct_ g(alan) 7-7][person:carl m 14-14][location:place s 15-15]
+carl| Actaully they are going to the Hilton Is that cool| [person:carl_s_parents__correct_ g(alan) 1-1][location:hilton s 6-6]
+jordan| You got it| [person:carl m 0-0]
+
+conv:people_2019080802_34:aug_0:chat_0:chataug_0| brandon matthew| [person:brandon m 0-0][person:matthew m 1-1]
+brandon| Hey Matthew| [person:matthew m 1-1]
+brandon| Any ideas where I should take Mark while he s in town| [person:brandon m 3-3][person:mark m 6-6][person:mark m 8-8][location:town s 11-11]
+matthew| Hey Brandon What does Mark like| [person:brandon m 1-1][person:mark m 4-4]
+brandon| Mark is a beer and burgers kind of guy| [person:mark m 0-0]
+brandon| He likes the movies also| [person:mark m 0-0]
+matthew| Cool Paul and Bryan visited recently and they liked going to the movie theater downtown| [person:paul m 1-1][person:bryan m 3-3][person:they g(paul:bryan) 7-7][location:downtown s 14-14]
+brandon| Sounds great|
+matthew| They also went to a place across the street that serves beer and burgers| [person:they g(paul:bryan) 0-0][location:place s 5-5][location:street s 8-8]
+matthew| Do you think he d like that| [person:brandon m 1-1][person:mark m 3-3]
+brandon| Perfect|
+brandon| That sounds perfect|
+brandon| I ll show him around Tell Paul and Bryan I said thanks And thanks to you too| [person:brandon m 0-0][person:mark m 3-3][person:paul m 6-6][person:bryan m 8-8][person:brandon m 9-9][person:matthew m 15-15]
+matthew| Perfect I hope you both have fun| [person:matthew m 1-1][person:brandon m 3-3]
+
+conv:people_2019080802_35:aug_0:chat_0:chataug_0| emily helen| [person:emily f 0-0][person:helen f 1-1]
+helen| How are you doing| [person:emily f 2-2]
+emily| Not so bad and you| [person:helen f 4-4]
+helen| Are you ready to study| [person:emily f 1-1]
+emily| You bet Where do you think we should go I like to go to Scooter s because it s close but I don t know if that s close for Stephanie| [person:helen f 0-0][person:helen f 4-4][person:we g(helen:emily) 6-6][person:emily f 9-9][person:emily f 21-21][person:stephanie f 30-30]
+helen| I know that Stephanie Stella and Amy love that place| [person:helen f 0-0][person:stephanie f 3-3][person:stella f 4-4][person:amy f 6-6][location:scooter_s s 9-9]
+emily| Maybe we should meet there It s better than Starbuck s I think and they have a jukebox Not that that s important while we study but it s nice to have a choice| [person:we g(helen:emily:stephanie:stella:amy) 1-1][location:scooter_s s 4-4][location:scooter_s s 5-5][person:emily f 11-11][person:we g(helen:emily:stephanie:stella:amy) 24-24]
+helen| The Starbucks is always crowded I will send a text to them to meet at 2 pm today| [location:starbuck_s s 1-1][person:helen f 5-5][person:them g(stephanie:stella:amy) 11-11]
+emily| Perfect I ll see you then Bring your jukebox money| [person:emily f 1-1][person:helen f 4-4][person:helen f 7-7]
+
+conv:people_2019080802_36:aug_0:chat_0:chataug_0| emily helen| [person:emily f 0-0][person:helen f 1-1]
+helen| Emily do you know where we will meet| [person:emily f 0-0][person:emily f 2-2][person:we g(helen:emily) 5-5]
+emily| Are you studying for the exam with Stephanie Amy and Stella| [person:helen f 1-1][person:stephanie f 7-7][person:amy f 8-8][person:stella f 10-10]
+helen| yes that was my undestanding I was not told where when and what time| [person:helen f 3-3][person:helen f 5-5]
+emily| Do you know if they like to eat at a cafe| [person:helen f 1-1][person:they g(stephanie:amy:stella) 4-4][location:cafe s 10-10]
+helen| I am not sure but I m sure that would be a great place to study any suggestions| [person:helen f 0-0][person:helen f 5-5][location:cafe s 13-13]
+emily| I know this great cafe on the corner We could meet on Saturday Not sure what time is good| [person:emily f 0-0][location:cafe s 4-4][person:we g(helen:emily) 8-8]
+helen| Let s try for Saturday around 1100 to give everyone some time Do you mind contacting the others to confirm| [person:everyone g(helen:emily:stephanie:amy:stella) 9-9][person:helen f 13-13][person:they g(stephanie:amy:stella:everyone) 17-17]
+emily| 1100 on Saturday sounds good I will contact the others to confirm Hope see you then| [person:emily f 5-5][person:they g(stephanie:amy:stella:everyone) 9-9][person:helen f 14-14]
+helen| Great|
+
+conv:people_2019080802_38:aug_0:chat_0:chataug_0| amanda debra| [person:amanda f 0-0][person:debra f 1-1]
+debra| hello all|
+amanda| Hi Debra| [person:debra f 1-1]
+amanda| My brother David wants to buy a car the same model of yours How have you like yours| [person:amanda f 0-0][person:david m 1-1][person:david m 2-2][person:debra f 12-12][person:debra f 15-15][person:debra f 17-17]
+debra| i love mine| [person:debra f 0-0][person:debra f 2-2]
+debra| is he looking for an SUV| [person:david m 1-1]
+amanda| Something similar yes He is still unsure though| [person:david m 3-3]
+debra| what color does he want or does it even matter| [person:david m 3-3]
+debra| richard helped me| [person:richard m 0-0][person:debra f 2-2]
+amanda| Color really doesn t matter however I think he would want something lighter so it won t look as dirty| [person:amanda f 6-6][person:david m 8-8]
+debra| you can contact him too| [person:amanda f 0-0][person:richard m 3-3]
+amanda| Thanks What is his number| [person:richard m 3-3]
+debra| 123456789|
+amanda| I ll have to talk to him then Does David have a busy schedule| [person:amanda f 0-0][person:richard m 6-6][person:david m 9-9]
+amanda| Will it be hard to reach him I want to do it as soon as possible| [person:richard m 6-6][person:amanda f 7-7]
+debra| fairly but he will answer he loves to talk| [person:richard m 2-2][person:richard m 5-5]
+
+conv:people_2019080802_40:aug_0:chat_0:chataug_0| kevin mark| [person:kevin m 0-0][person:mark m 1-1]
+kevin| Hey mark im looking to lease a new car and hoping you could help me| [person:mark m 1-1][person:mark m 11-11][person:kevin m 14-14]
+mark| Hey Kevin My friend Thomas recently leased a car from Toyota he said its a great car| [person:kevin m 1-1][person:mark m 2-2][person:friend g(mark) 3-3][person:thomas m 4-4][person:thomas m 11-11]
+kevin| Nice I was actually looking at a Honda I heard they are nice cars| [person:kevin m 1-1][person:kevin m 8-8][person:they g(kevin) 10-10]
+mark| ohh I thought so too But my friend Gary bought a Honda a few months back and said pretty shortly after purchasing the vehicle he was having problems with the transmission| [person:mark m 1-1][person:mark m 6-6][person:friend g(mark) 7-7][person:gary m 8-8][person:gary m 24-24]
+kevin| Wow That doesn t sound good or even a reliable brand Maybe I should go with Toyota since your friend Thomas had a better experience| [person:kevin m 12-12][person:mark m 18-18][person:friend g(mark) 19-19][person:thomas m 20-20]
+mark| Yes I would agree I have heard good things about Toyota Thomas says his Toyota has had no problems and is excellent on gas He travels quite a distance for work everyday and gets great mileage| [person:mark m 1-1][person:mark m 4-4][person:thomas m 11-11][person:thomas m 13-13][person:thomas m 24-24]
+kevin| Great because that s what I need a reliable car because I do drive long distance to work everyday and don t have much time to worry about fixing my car if it breaks down thanks for the heads up really appreciate it talk to you soon| [person:kevin m 5-5][person:kevin m 11-11][person:kevin m 29-29][person:mark m 45-45]
+mark| no problem Kevin good luck in your search glad I could help| [person:kevin m 2-2][person:kevin m 6-6][person:mark m 9-9]
+
+conv:people_2019080802_41:aug_0:chat_0:chataug_0| daniel stephen| [person:daniel m 0-0][person:stephen m 1-1]
+daniel| Hey Stephen what s up| [person:stephen m 1-1]
+daniel| Where do you think we should have the barbecue| [person:stephen m 2-2][person:we g(daniel:stephen) 4-4]
+stephen| Hey Daniel just trying to get ready for this BBQ| [person:daniel m 1-1]
+stephen| Well Larry said he would grab the chips and Henry said he would grab the burgers and dogs Have you talked to Jonathan about what he plans to bring| [person:larry m 1-1][person:larry m 3-3][person:henry m 9-9][person:henry m 11-11][person:daniel m 19-19][person:jonathan m 22-22][person:jonathan m 25-25]
+daniel| I was thinking we could have it by the lake or at the park down the street| [person:daniel m 0-0][person:we g(daniel:stephen) 3-3][location:lake s 9-9][location:park s 13-13][location:street s 16-16]
+daniel| Oh shoot I haven t I ll call him rn| [person:daniel m 2-2][person:daniel m 5-5][person:jonathan m 8-8]
+stephen| Larry lives on a river maybe he would be willing to have us over there if we promise not to get to crazy like last time| [person:larry m 0-0][location:river s 4-4][person:larry m 6-6][person:we g(daniel:stephen) 12-12][location:river s 14-14][person:we g(daniel:stephen) 16-16]
+daniel| Just hung up with Jon he said he can bring drinks and like some store bought cupcakes or something for a sweet treat| [person:jonathan m 4-4][person:jonathan m 5-5][person:jonathan m 7-7]
+daniel| omg I didnt even think of that LMAO I hardly remember last time Good idea Can you ask him| [person:daniel m 1-1][person:daniel m 8-8][person:stephen m 16-16][person:jonathan m 18-18]
+stephen| Henry will love that he has a major sweet tooth| [person:henry m 0-0][person:henry m 4-4]
+stephen| I will call him right now Lol be glad you dont| [person:stephen m 0-0][person:henry m 3-3][person:daniel m 9-9]
+daniel| hahahaha ok So we are set on snacks and as long as Larry says yes we ve got a place| [person:we g(daniel:stephen) 3-3][person:larry m 12-12][person:we g(daniel:stephen) 15-15][location:river s 19-19]
+stephen| Larry agreed but says he will hold us personally responsible if things get out of hand lmao| [person:larry m 0-0][person:larry m 4-4][person:we g(daniel:stephen) 7-7]
+stephen| I can bring some drinks and then I think we have everything we need| [person:stephen m 0-0][person:stephen m 7-7][person:we g(daniel:stephen) 9-9][person:we g(daniel:stephen) 12-12]
+stephen| This is going to be a blast|
+daniel| HAHAHA okay I promise I won t do more than a few shots this time Word| [person:daniel m 2-2][person:daniel m 4-4]
+daniel| I ll see you there homie| [person:daniel m 0-0][person:stephen m 3-3][location:river s 4-4]
+daniel| have a great day|
+
+conv:people_2019080802_43:aug_0:chat_0:chataug_0| carl jordan| [person:carl m 0-0][person:jordan m 1-1]
+jordan| Yo Carl| [person:carl m 1-1]
+carl| Sup Jordan| [person:jordan m 1-1]
+jordan| Nothin much cillin what s good|
+carl| Well my parents Judy and Alan are visiting Dallas you re from there right| [person:carl m 1-1][person:parents g() 2-2][person:judy f 3-3][person:alan m 5-5][location:dallas s 8-8][person:jordan m 9-9][location:dallas s 12-12]
+jordan| Yeah man that s correct Do you need help with anything| [person:carl m 6-6]
+carl| Was wondering if you could pick them up from the airport and take them to the hotel| [person:jordan m 3-3][person:parents g(judy:alan) 6-6][location:airport s 10-10][person:parents g(judy:alan) 13-13][location:hotel s 16-16]
+jordan| Sure what do you parents like to eat I d love to treat them to a meal before we get to the hotel| [person:carl m 3-3][person:parents g(judy:alan) 4-4][person:jordan m 8-8][person:parents g(judy:alan) 13-13][person:we g(jordan:judy:alan) 18-18][location:hotel s 22-22]
+carl| They love old people stuff like pickles and oatmeal| [person:parents g(judy:alan) 0-0]
+jordan| Ok noted I ll pick them up just send me the details later| [person:jordan m 2-2][person:parents g(judy:alan) 5-5][person:jordan m 9-9]
+carl| thanks man I owe you| [person:carl m 2-2][person:jordan m 4-4]
+
+conv:people_2019080802_46:aug_0:chat_0:chataug_0| chris ryan| [person:chris m 0-0][person:ryan m 1-1]
+ryan| Hey what s up|
+chris| Hey how are you| [person:ryan m 3-3]
+ryan| Good|
+chris| How did your party go with your colleagues| [person:ryan m 2-2][person:ryan m 6-6][person:colleagues g() 7-7]
+ryan| Oh man it was crazy|
+chris| How did charles and paul get along| [person:charles m 2-2][person:paul m 4-4]
+ryan| They had a few too many drinks and almost came to blows| [person:they g(charles:paul) 0-0]
+chris| I thought that would happen did Andrew stay sober| [person:chris m 0-0][person:andrew m 6-6]
+chris| That is what i expected to happen did andrew drink| [person:chris m 3-3][person:andrew m 8-8]
+chris| I saw that coming Did andrew drink| [person:chris m 0-0][person:andrew m 5-5]
+ryan| Oh yea he is off the wagon in a big way| [person:andrew m 2-2]
+
+conv:people_2019080802_49:aug_0:chat_0:chataug_0| carol mary| [person:carol f 0-0][person:mary f 1-1]
+carol| Hi Mary| [person:mary f 1-1]
+mary| Hi Carol| [person:carol f 1-1]
+carol| I am planning on going to California to visit Emily and Jessica soon| [person:carol f 0-0][location:california s 6-6][person:emily f 9-9][person:jessica f 11-11]
+carol| Where do you thing we should go They are big foodies| [person:mary f 2-2][person:we g(carol:mary) 4-4][person:they g(emily:jessica) 7-7]
+mary| Oh really That s awesome As a Los Angeles resident I think I can point you in the direction of some cool activities Is this your first time| [location:los_angeles s 7-8][person:mary f 10-10][person:mary f 12-12][person:carol f 15-15][person:carol f 25-25]
+carol| Yes all three of us is first time| [person:us g(carol:emily:jessica) 4-4]
+mary| I think you would enjoy the Fun Retro Burger Shack It s a very atmospheric restaurant and the burgers are to die for| [person:mary f 0-0][person:carol f 2-2][location:burger_shack s 9-9][location:burger_shack s 10-10][location:burger_shack s 15-15]
+mary| I also like Umami Burger Have you been to Universal Studios before| [person:mary f 0-0][person:carol f 6-6][location:universal_studios s 9-10]
+carol| Awesome we love burgers we will check it out for sure| [person:us g(carol:emily:jessica) 1-1][person:us g(carol:emily:jessica) 4-4]
+carol| No we will be at Universal Studios on the weekend we will check out Umami as well Thank for the info| [person:us g(carol:emily:jessica) 1-1][location:universal_studios s 5-6][person:us g(carol:emily:jessica) 10-10]
+mary| No problem If you have any more questions please let me know I ll be happy to help| [person:carol f 3-3][person:mary f 10-10][person:mary f 12-12]
+carol| Thanks talk to you later| [person:mary f 3-3]
+mary| See ya|
+
+conv:people_2019080802_50:aug_0:chat_0:chataug_0| chris ryan| [person:chris m 0-0][person:ryan m 1-1]
+chris| Hey How was the party|
+ryan| hi Chris| [person:chris m 1-1]
+chris| What did you do with Charles Paul and Andrew| [person:ryan m 2-2][person:charles m 5-5][person:paul m 6-6][person:andrew m 8-8]
+ryan| yah the party went good|
+ryan| what did u do with andrew| [person:chris m 2-2][person:andrew m 5-5]
+chris| Just hung out with alot of people from the office It was a great time| [location:office s 9-9]
+ryan| i just taked with him and discused about the party| [person:ryan m 0-0][person:andrew m 4-4]
+chris| Great Did they tell you any good gossip| [person:they g(andrew:paul:charles) 2-2][person:ryan m 4-4]
+
+conv:people_2019080802_51:aug_0:chat_0:chataug_0| daniel stephen| [person:daniel m 0-0][person:stephen m 1-1]
+stephen| Hey Daniel| [person:daniel m 1-1]
+daniel| Hey Stephen How are you dong| [person:stephen m 1-1][person:stephen m 4-4]
+stephen| Great Listen I was wondering if we could plan a BBQ get together sometime| [person:stephen m 2-2][person:we g(stephen:daniel) 6-6]
+daniel| Good to hear I would be down to have a BBQ session Who are you thinking of inviting| [person:daniel m 3-3][person:stephen m 14-14]
+stephen| I was thinking maybe Jonathan Larry and Henry since they re all in town this week| [person:stephen m 0-0][person:jonathan m 4-4][person:larry m 5-5][person:henry m 7-7][person:they g(jonathan:larry:henry) 9-9][location:town s 13-13]
+daniel| Yeah it would be great to catch up with them I hear the park has a good setup for grilling| [person:they g(jonathan:larry:henry) 9-9][person:daniel m 10-10][location:park s 13-13]
+stephen| Sounds great I can bring hot dogs hamburgers and condiments| [person:stephen m 2-2]
+daniel| Alright I ll bring the drinks I ll let the guys know It s going to be great catching up the five of us| [person:daniel m 1-1][person:daniel m 6-6][person:us g(stephen:daniel:jonathan:larry:henry) 23-23]
+stephen| Yup See you at the park then| [person:daniel m 2-2][location:park s 5-5]
+
+conv:people_2019080802_52:aug_0:chat_0:chataug_0| carol mary| [person:carol f 0-0][person:mary f 1-1]
+mary| hey Carol how are you doing| [person:carol f 1-1][person:carol f 4-4]
+carol| Hello I m doing well I m planning a trip to California with Emily and Jessica| [person:carol f 1-1][person:carol f 5-5][location:california s 11-11][person:emily f 13-13][person:jessica f 15-15]
+mary| you still planning on visiting California with Emily and Jessica| [person:carol f 0-0][location:california s 5-5][person:emily f 7-7][person:jessica f 9-9]
+carol| What places should we visit| [location:places g() 1-1][person:we g(mary:carol) 3-3]
+mary| what do they enjoy doing| [person:they g(emily:jessica) 2-2]
+carol| They are usually up for anything Shopping sightseeing maybe some good places to eat| [person:they g(emily:jessica) 0-0][location:places g() 11-11]
+mary| Hmmm that sounds interesting You can visit the Glendale Shopping Mall that has some amazing shops| [person:carol f 4-4][location:glendale_shopping_mall s 9-10]
+carol| Oh That sounds nice I bet there are some good restaurants there too| [person:carol f 4-4][location:restaurants g() 10-10][location:glendale_shopping_mall s 11-11]
+mary| They will enjoy good food from various countries all available at the Mall| [person:they g(emily:jessica) 0-0][location:countries g() 7-7][location:glendale_shopping_mall s 12-12]
+mary| I will join you all should my schedule allow me to| [person:mary f 0-0][person:carol f 3-3][person:mary f 6-6][person:mary f 9-9]
+carol| Okay thanks for letting me know I m sure we will have a great time| [person:carol f 4-4][person:carol f 6-6][person:we g(mary:carol) 9-9]
+mary| Let me know when you settle on a date and i will try and make myself available| [person:mary f 1-1][person:carol f 4-4][person:mary f 10-10][person:mary f 15-15]
+mary| Have a good day and let s chat later|
+mary| Bye for now|
+carol| Okay Will do Talk to you later| [person:mary f 5-5]
+
+conv:people_2019080802_54:aug_0:chat_0:chataug_0| hannah ralph| [person:hannah f 0-0][person:ralph m 1-1]
+ralph| Hey Hannah Have you decided what gift to get for Jackie and Albert| [person:hannah f 1-1][person:hannah f 3-3][person:jackie f 10-10][person:albert m 12-12]
+hannah| I am not quite sure what I should buy| [person:hannah f 0-0][person:hannah f 6-6]
+hannah| do you know what they like| [person:ralph m 1-1][person:jackie___albert g(jackie:albert) 4-4]
+ralph| Your so much better than me in picking out gifts I m still up in the air But I was thinking about concert tickets| [person:hannah f 0-0][person:ralph m 5-5][person:ralph m 10-10][person:ralph m 18-18]
+hannah| That sounds great do you know what band or style of music they like do they like classic| [person:ralph m 4-4][person:jackie___albert g(jackie:albert) 12-12][person:jackie___albert g(jackie:albert) 15-15]
+ralph| I m not 100 sure but I heard Albert say one time he had a CD in his radio from The Stones You live near the ticket Master Do you think it s be a good idea to see what s going on over there I ll split the cost with you later| [person:ralph m 0-0][person:ralph m 6-6][person:albert m 8-8][person:albert m 12-12][person:albert m 17-17][person:hannah f 22-22][person:hannah f 29-29][person:ralph m 45-45]
+hannah| sure I can go to there to see which band will be in town and then maybe we can decide which concert ticket we should buy for them| [person:hannah f 1-1][location:town s 13-13][person:hannah___ralph g(ralph:hannah) 17-17][person:hannah___ralph g(ralph:hannah) 23-23][person:jackie___albert g(jackie:albert) 27-27]
+ralph| Great let me know Hannah and I ll paypal you half Thanks| [person:ralph m 2-2][person:hannah f 4-4][person:ralph m 6-6][person:hannah f 9-9]
+hannah| you are welcome| [person:ralph m 0-0]
+
+conv:people_2019080802_56:aug_0:chat_0:chataug_0| alex pedro| [person:alex m 0-0][person:pedro m 1-1]
+alex| Hello are you excited to meet Anthony| [person:pedro m 2-2][person:anthony m 6-6]
+pedro| Hello Alex| [person:alex m 1-1]
+pedro| Yes I suppose| [person:pedro m 1-1]
+alex| I think he will like you and the job will work out well| [person:alex m 0-0][person:anthony m 2-2][person:pedro m 5-5]
+pedro| I hope so Do you know what his interests are| [person:pedro m 0-0][person:alex m 4-4][person:anthony m 7-7]
+alex| He really likes to read and has 2 dogs spot and bruno| [person:anthony m 0-0]
+pedro| I ll be sure to remember that Do you know where he d like to meet| [person:pedro m 0-0][person:alex m 8-8][person:anthony m 11-11]
+alex| He is always up for a cup of coffee Suggest the coffee shop on the corner near his office| [person:alex m 0-0][location:coffee_shop s 11-12][person:anthony m 17-17][location:office s 18-18]
+pedro| Thank you Alex I ll be sure to do so See you later| [person:alex m 1-1][person:alex m 2-2][person:pedro m 3-3][person:alex m 11-11]
+
